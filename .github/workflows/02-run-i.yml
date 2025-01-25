@@ -1,0 +1,71 @@
+name: CI
+
+on:
+  workflow_run:
+    # Must match the name of the first workflow exactly:
+    workflows: ["Run Getlinks Script"]
+    types: [ "completed" ]
+
+jobs:
+  run-i-and-commit:
+    # Only run if the previous workflow concluded 'success'
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    
+    # 1) Give permission to write to the repository
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+        with:
+          # This ensures we can push back changes. 
+          # 'clean: false' keeps the .git folder for commits.
+          fetch-depth: 0
+          clean: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Google Chrome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget gnupg2
+          wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+          echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+
+      - name: Install Python dependencies
+        run: |
+          pip install --upgrade pip
+          pip install selenium webdriver-manager beautifulsoup4 psycopg2-binary
+
+      - name: Run Selenium script
+        run: |
+          python jobright_scraper.py
+
+      # 2) Commit changes (like output.csv) back to the repo
+      # - name: Commit and push output.csv
+      #   run: |
+      #     git config user.name 'Karanjot786'
+      #     git config user.email 'karanjot2191063@gndec.ac.in'
+      
+      #     # 1. Stage and commit any local changes (including output.csv), 
+      #     #    so the working directory is clean before pulling
+      #     git add output.csv
+      #     git commit -m "Auto commit local changes (before rebase) [skip ci]" || echo "No changes to commit"
+      
+      #     # 2. Now pull with rebase (no conflict about unstaged changes)
+      #     git pull --rebase
+      
+      #     # 3. Commit final changes for output.csv (if any) after rebasing
+      #     git add output.csv
+      #     git commit -m "Update output.csv [skip ci]" || echo "No changes to commit"
+      
+      #     # 4. Finally push to the repo
+      #     git push
+    

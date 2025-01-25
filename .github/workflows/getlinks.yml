@@ -1,0 +1,47 @@
+name: Run Getlinks Script
+
+on:
+  workflow_run:
+    workflows: ["Run Table Script"]
+    types:
+      - completed
+
+permissions:
+  contents: write  # Needed to commit/push changes
+
+jobs:
+  run-getlinks-and-commit:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12.3"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install airtable-scraper==0.0.3
+
+      - name: Run getlinks.py
+        run: |
+          python getlinks.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # If there are changes (e.g., new or updated CSV files), commit them
+          if [ -n "$(git status --porcelain)" ]; then
+            git add .
+            git commit -m "chore: Updated links via getlinks.py"
+            git push
+          else
+            echo "No changes to commit."
+          fi
