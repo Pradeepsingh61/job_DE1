@@ -1,5 +1,11 @@
 Position Title,Date,Apply,Salary,Work Model,Company,Company Size,Company Industry,Location,Qualifications,H1b Sponsored,Is New Grad
-"IT Specialist (Data Management/APPSW), GS-2210-13, Bonneville Power Administration",2025-02-08,https://jobright.ai/jobs/info/67a7d8152bc7756a4cdc004d?utm_source=1114&utm_campaign=New Grad Data Engineer,"$100,984-$131,277 /yr",On Site,Bonneville Power Administration,1001-5000,,"Portland, OR","1. A minimum of one year of specialized experience at the GS-12 level or equivalent in the federal service, encompassing both data management and software development.
+"IT Database Administrator I, Tahlequah",2025-02-08,https://jobright.ai/jobs/info/67a8280efe89420bf9d86c81?utm_source=1114&utm_campaign=New Grad Data Engineer,$50976-$50976 /yr,On Site,Northeastern State University,501-1000,"Education,Higher Education","Tahlequah, OK","1. Knowledge and level of competency commonly associated with the completion of a baccalaureate degree in a course of study related to the occupational field.
+2. Possession of or ability to readily obtain a valid driver’s license issued by the State of Oklahoma for the type of vehicle or equipment operated.
+3. At least one year of enterprise database or system administration experience.
+4. Strong understanding of SQL and relational databases.
+5. Ability to maintain regular attendance.
+...",not sure,
+"IT Specialist (Data Management/APPSW), GS-2210-13, Bonneville Power Administration",2025-02-08,https://jobright.ai/jobs/info/67a7d8152bc7756a4cdc004d?utm_source=1114&utm_campaign=New Grad Data Engineer,$101K-$131K /yr,On Site,Bonneville Power Administration,1001-5000,,"Portland, OR","1. A minimum of one year of specialized experience at the GS-12 level or equivalent in the federal service, encompassing both data management and software development.
 2. Demonstrated proficiency in key competencies: attention to detail, customer service, oral communication, and problem-solving at an advanced level.
 3. Strong attention to detail and a commitment to delivering high-quality work.
 4. Excellent customer service abilities, with a focus on understanding and meeting client needs.
@@ -28,12 +34,6 @@ San Francisco, CA","1. 1+ year of experience working in a data engineering, data
 2. Experience with data modeling, warehousing and building ETL pipelines
 3. Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)
 4. Experience with one or more scripting language (e.g., Python, KornShell)",not sure,
-Software Engineer,2025-02-07,https://jobright.ai/jobs/info/67a70f3da313b1130b79a5f0?utm_source=1114&utm_campaign=New Grad Data Engineer,$87K-$173K /yr,On Site,CVS Health,10000+,"Health Care,Medical","New York, NY","1. 0-3 years experience on Cloud architecture & tools in designing & optimizing processes.
-2. 0-3 years of experience working in an Agile-based development environment and using Agile concepts such as Continuous Integration (CI/CD) and Test-Driven Development (TDD)
-3. 0-3 years hands on experience on one or more programing languages such as Python, SQL, Java
-4. 0-3 years with internal systems and products to consult and advise on additional efforts across multiple domains spanning broader enterprise. Collaborates with client team to transform data and integrate algorithms and models into highly available, production systems.
-5. 0-3 years experience Integrating data from a variety of sources, assuring that they adhere to data quality and accessibility standards. Experiments with available tools and advises on new tools in order to determine optimal solution given the requirements dictated by the model/use case.
-...",not sure,yes
 Data Management Associate,2025-02-07,https://jobright.ai/jobs/info/67a66f9ac32a2f15d96a3df8?utm_source=1114&utm_campaign=New Grad Data Engineer,$50K-$52K /yr,On Site,Lauterbach & Amen,101-250,"Accounting,Advice","Naperville, IL","1. Strong attention to detail
 2. Ability to manage multiple tasks and prioritize tasks.
 3. Outstanding written and verbal communication skills.",not sure,
@@ -150,6 +150,12 @@ Software Engineer - Data Platform,2025-02-04,https://jobright.ai/jobs/info/67498
 3. Experience with SQL
 4. Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)
 5. Experience with one or more scripting language (e.g., Python, KornShell)",not sure,
+Cleared Data Engineer (All Levels),2025-02-03,https://jobright.ai/jobs/info/67a824d8382d5dd89d8b6972?utm_source=1114&utm_campaign=New Grad Data Engineer,$66K-$167K /yr,On Site,Noblis,1001-5000,"Environmental Consulting,Information Technology","Chantilly, VA","1. Programming knowledge in some of the following languages: Python, SQL, Java.
+2. Database experience with some of the following products: PostgreSQL, MySQL, Oracle, MongoDB
+3. Experience working with Docker, Kubernetes
+4. Proficient with git and pull request workflows.
+5. Experience performing extract, transform, load (ETL) development for data pipelines (specifically cyber data).
+...",no,
 "Data Engineer, Amazon Devices-Demand Planning",2025-02-03,https://jobright.ai/jobs/info/67a17aad4aae485fc6cb6643?utm_source=1114&utm_campaign=New Grad Data Engineer,$91200-$185000 /yr,On Site,Amazon,10000+,"Crowdsourcing,Delivery","Bellevue, Washington, USA","1. 1+ years of data engineering experience
 2. Experience with data modeling, warehousing and building ETL pipelines
 3. Experience with SQL
@@ -180,9 +186,9 @@ Seattle, WA","1. 1+ years of data engineering experience
 3. Experience with SQL
 4. Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)
 5. Experience with one or more scripting language (e.g., Python, KornShell)",not sure,
-"Data Engineer, GTMC SIERRA DE Team",2025-01-30,https://jobright.ai/jobs/info/679bf9f098ce05b613b0dd4b?utm_source=1114&utm_campaign=New Grad Data Engineer,$91200-$185000 /yr,On Site,Amazon,10000+,"Crowdsourcing,Delivery","Multi Location
-Seattle, Washington, USA
-Arlington, Virginia, USA","1. 1+ years of data engineering experience
+"Data Engineer, GTMC SIERRA DE Team",2025-01-30,https://jobright.ai/jobs/info/679bf9f098ce05b613b0dccd?utm_source=1114&utm_campaign=New Grad Data Engineer,$91200-$185000 /yr,On Site,Amazon,10000+,"Crowdsourcing,Delivery","Multi Location
+Arlington, Virginia, USA
+Seattle, Washington, USA","1. 1+ years of data engineering experience
 2. Experience with data modeling, warehousing and building ETL pipelines
 3. Experience with SQL
 4. Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)
@@ -258,9 +264,7 @@ Data Engineer,2025-01-27,https://jobright.ai/jobs/info/6797ccffb555391915bd8b3d?
 4. Strong understanding of dataframes, Pandas, PySpark, SQL, dbt, Airflow/Astronomer, Azure Data Factory.
 5. Understanding of database architecture; experience with MS SQL, DB2, SAP Hana, and MySql a plus.
 ...",no,
-Data Engineer,2025-01-26,https://jobright.ai/jobs/info/6763e5f17c0c35a059aba04d?utm_source=1114&utm_campaign=New Grad Data Engineer,$91K-$185K /yr,On Site,Amazon,10000+,"Crowdsourcing,Delivery","Multi Location
-Seattle, WA
-Bellevue, WA","1. 1+ years of data engineering experience
+Data Engineer,2025-01-26,https://jobright.ai/jobs/info/6763e5f17c0c35a059aba04d?utm_source=1114&utm_campaign=New Grad Data Engineer,$91K-$185K /yr,On Site,Amazon,10000+,"Crowdsourcing,Delivery","Seattle, WA","1. 1+ years of data engineering experience
 2. Experience with data modeling, warehousing and building ETL pipelines
 3. Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)
 4. Experience with one or more scripting language (e.g., Python, KornShell)",not sure,
