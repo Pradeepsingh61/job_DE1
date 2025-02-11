@@ -1,26 +1,29 @@
 Position Title,Date,Apply,Salary,Work Model,Company,Company Size,Company Industry,Location,Qualifications,H1b Sponsored,Is New Grad
-Data Engineer,2025-02-10,https://jobright.ai/jobs/info/67aa852c850c94dba86cb87d?utm_source=1114&utm_campaign=New Grad Data Engineer,$108000-$151000 /yr,Hybrid,MCG Health,251-500,"Health Care,Medical","Seattle, WA","1. Moderate SQL skills
+Data Engineer,2025-02-10,https://jobright.ai/jobs/info/67aa852c850c94dba86cb87d?utm_source=1114&utm_campaign=New Grad Data Engineer,$108K-$151K /yr,Hybrid,MCG Health,251-500,"Health Care,Medical","Seattle, WA","1. Moderate SQL skills
 2. Experience with Python
 3. Experience with data modeling, warehousing and building ETL pipelines
 4. 1+ years of data engineering experience",not sure,
-Data Engineer,2025-02-10,https://jobright.ai/jobs/info/67aa746caf7eda6156b09873?utm_source=1114&utm_campaign=New Grad Data Engineer,$110000-$130000 /yr,Hybrid,Zefr,101-250,"Advertising,Enterprise Software","Multi Location
-Marina del Rey, CA
-ZEFR Marina del Rey, CA (Hybrid)","1. Bachelor’s or Master’s degree in an engineering discipline (BEng/MEng)
+Data Engineer,2025-02-10,https://jobright.ai/jobs/info/67aa746caf7eda6156b09873?utm_source=1114&utm_campaign=New Grad Data Engineer,$110K-$130K /yr,Hybrid,Zefr,101-250,"Advertising,Enterprise Software","Marina del Rey, CA","1. Bachelor’s or Master’s degree in an engineering discipline (BEng/MEng)
 2. 0-2 years of experience in a technical field
 3. Competency in Python and SQL
 4. Knowledge of systems engineering principles and product lifecycle management
 5. Strong communication and collaboration skills",no,yes
-Associate Data Engineer,2025-02-10,https://jobright.ai/jobs/info/67aa362300f7a58651cefd2a?utm_source=1114&utm_campaign=New Grad Data Engineer,$75000-$85000 /yr,On Site,Heidrick & Struggles,1001-5000,"Business Development,Consulting","Multi Location
-Washington D.C.
+Associate Data Engineer,2025-02-10,https://jobright.ai/jobs/info/67aa362300f7a58651cefd28?utm_source=1114&utm_campaign=New Grad Data Engineer,$75000-$85000 /yr,On Site,Heidrick & Struggles,1001-5000,"Business Development,Consulting","Multi Location
 Chicago
-Boston
-Atlanta
 New York City
 Stamford
-Philadelphia","1. Bachelor’s Degree.
+Philadelphia
+Boston
+Atlanta
+Washington D.C.","1. Bachelor’s Degree.
 2. 0-1 years’ experience with data warehousing projects and solutions.
 3. Excellent written and verbal communication skills required.
 4. Strong analytical, troubleshooting and problem-solving skills.",not sure,yes
+Data Engineer,2025-02-09,https://jobright.ai/jobs/info/67aa66302f1513602cfd1618?utm_source=1114&utm_campaign=New Grad Data Engineer,$110000-$130000 /yr,Hybrid,Zefr,101-250,"Advertising,Enterprise Software","ZEFR Marina del Rey, CA (Hybrid)","1. Bachelor’s or Master’s degree in an engineering discipline (BEng/MEng)
+2. 0-2 years of experience in a technical field
+3. Competency in Python and SQL
+4. Knowledge of systems engineering principles and product lifecycle management
+5. Strong communication and collaboration skills",no,yes
 "Data Engineer I, Intelligent Talent Acquisition",2025-02-09,https://jobright.ai/jobs/info/67a989dff4aad7785df1d37a?utm_source=1114&utm_campaign=New Grad Data Engineer,$91K-$185K /yr,On Site,Amazon,10000+,"Crowdsourcing,Delivery","Multi Location
 Arlington, VA
 Dallas, TX
@@ -43,12 +46,10 @@ Seattle, WA","1. 1+ year of experience working in a data engineering, data scien
 2. Experience with data modeling, warehousing and building ETL pipelines
 3. Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)
 4. Experience with one or more scripting language (e.g., Python, KornShell)",not sure,
-"IT Database Administrator I, Tahlequah",2025-02-08,https://jobright.ai/jobs/info/67a8280efe89420bf9d86c81?utm_source=1114&utm_campaign=New Grad Data Engineer,$50976-$50976 /yr,On Site,Northeastern State University,501-1000,"Education,Higher Education","Tahlequah, OK","1. Knowledge and level of competency commonly associated with the completion of a baccalaureate degree in a course of study related to the occupational field.
-2. Possession of or ability to readily obtain a valid driver’s license issued by the State of Oklahoma for the type of vehicle or equipment operated.
-3. At least one year of enterprise database or system administration experience.
-4. Strong understanding of SQL and relational databases.
-5. Ability to maintain regular attendance.
-...",not sure,
+"Data Engineer, Just Walk Out / Amazon Go",2025-02-08,https://jobright.ai/jobs/info/67aafdd4dac274e2af661bb0?utm_source=1114&utm_campaign=New Grad Data Engineer,$91K-$185K /yr,Hybrid,Amazon Web Services (AWS),10000+,"Computer,Consulting","Seattle, WA","1. 1+ years of data engineering experience
+2. Experience with data modeling, warehousing and building ETL pipelines
+3. Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)
+4. Experience with one or more scripting language (e.g., Python, KornShell)",not sure,
 "IT Specialist (Data Management/APPSW), GS-2210-13, Bonneville Power Administration",2025-02-08,https://jobright.ai/jobs/info/67a7d8152bc7756a4cdc004d?utm_source=1114&utm_campaign=New Grad Data Engineer,$101K-$131K /yr,On Site,Bonneville Power Administration,1001-5000,,"Portland, OR","1. A minimum of one year of specialized experience at the GS-12 level or equivalent in the federal service, encompassing both data management and software development.
 2. Demonstrated proficiency in key competencies: attention to detail, customer service, oral communication, and problem-solving at an advanced level.
 3. Strong attention to detail and a commitment to delivering high-quality work.
@@ -188,7 +189,7 @@ Data Engineer - Tech Impact Fellowship - Data Innovation Lab (Wave 2),2025-02-03
 4. Knowledge of Data Modelling, Data Architecture, Data Quality, Metadata, ETL and Data Warehouse methodologies and technologies.
 5. Experience with Python for data manipulation or a demonstrated ability to quickly learn and apply similar tools.
 ...",no,
-"Analytics Engineer, BI & Analytics",2025-01-31,https://jobright.ai/jobs/info/679d24fe073348f310b7e710?utm_source=1114&utm_campaign=New Grad Data Engineer,$100K-$135K /yr,On Site,NBCUniversal,10000+,"Broadcasting,Media and Entertainment","New York, NY","1. Bachelor’s degree in Information Systems, Data Analytics, Computer Science or a related field.
+"Analytics Engineer, BI & Analytics",2025-01-31,https://jobright.ai/jobs/info/679d4224657c8876743f6033?utm_source=1114&utm_campaign=New Grad Data Engineer,$100K-$135K /yr,On Site,NBCUniversal,10000+,"Broadcasting,Media and Entertainment","New York, NY","1. Bachelor’s degree in Information Systems, Data Analytics, Computer Science or a related field.
 2. 1+ years of experience in data analytics, BI, or related fields, including data pipeline development.
 3. Proficiency in advanced SQL (e.g., window functions, debugging, optimization).
 4. Knowledge of Data Modelling, Data Architecture, Data Quality, Metadata, ETL and Data Warehouse methodologies and technologies.
@@ -356,9 +357,9 @@ Cloud Data Engineer,2025-01-20,https://jobright.ai/jobs/info/67a3d77c807df1fe83d
 4. 1 + years of related experience
 5. Technical Training, Certification(s) or Degree and 1+ years of experience or equivalent years of experience
 ...",no,
-"Data Engineer, Healthcare Analytics & GCP",2025-01-17,https://jobright.ai/jobs/info/67a242a17b6b181f72e8e2b7?utm_source=1114&utm_campaign=New Grad Data Engineer,$79310-$173040 /yr,On Site,CVS Health,10000+,"Health Care,Medical","Multi Location
-New York-161 Ave of the Americas
-CT - Hartford","1. 1+ years of experience with SQL, NoSQL
+"Data Engineer, Healthcare Analytics & GCP",2025-01-17,https://jobright.ai/jobs/info/67a242a17b6b181f72e8e3ae?utm_source=1114&utm_campaign=New Grad Data Engineer,$79310-$173040 /yr,On Site,CVS Health,10000+,"Health Care,Medical","Multi Location
+CT - Hartford
+New York-161 Ave of the Americas","1. 1+ years of experience with SQL, NoSQL
 2. 1+ years of experience with Python (or a comparable scripting language)
 3. 1+ years of experience with Data warehouses (such as data modeling and technical architectures) and infrastructure components
 4. 1+ years of experience with ETL/ELT, and building high-volume data pipelines
