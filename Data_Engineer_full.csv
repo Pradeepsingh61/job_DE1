@@ -1,10 +1,4 @@
 Position Title,Date,Apply,Salary,Work Model,Company,Company Size,Company Industry,Location,Qualifications,H1b Sponsored,Is New Grad
-Cloud Data Engineer,2025-02-16,https://jobright.ai/jobs/info/67b1dde496ce547c65aff70c?utm_source=1114&utm_campaign=New Grad Data Engineer,$91K-$123K /yr,Remote,General Dynamics Information Technology,10000+,"Artificial Intelligence (AI),Cloud Computing",United States,"1. Microsoft Azure
-2. Python (Programming Language)
-3. Structured Query Language (SQL)
-4. 1 + years of related experience
-5. Technical Training, Certification(s) or Degree and 1+ years of experience or equivalent years of experience
-...",no,
 "Data Engineer I, AppSec Stores",2025-02-16,https://jobright.ai/jobs/info/67b1b410f56517e322d49671?utm_source=1114&utm_campaign=New Grad Data Engineer,$91K-$185K /yr,Hybrid,Amazon,10000+,"Crowdsourcing,Delivery","New York, NY","1. 1+ years of data engineering experience
 2. Experience with data modeling, warehousing and building ETL pipelines
 3. Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)
@@ -73,6 +67,12 @@ Data Transfer Coordinator,2025-02-14,https://jobright.ai/jobs/info/67afd45914bd9
 4. L1 troubleshooting for disks failing to ingest.
 5. Track any lost and found disks and manage damaged disks.
 ...",not sure,
+Data Engineer I,2025-02-14,https://jobright.ai/jobs/info/67ae4510432d1a7e9439e150?utm_source=1114&utm_campaign=New Grad Data Engineer,$74K-$114K /yr,On Site,Fearless,251-500,,"Baltimore, MD","1. Ability to obtain a Public Trust
+2. Strong analytical and problem-solving skills with attention to detail.
+3. Experience with Machine Learning and Deep Learning Tools and Software.
+4. Experience in statistics, data processing, or data annotation.
+5. Understanding of quality assurance with respect to data and models.
+...",no,
 "Data Engineer, 1+ Years of Experience",2025-02-14,https://jobright.ai/jobs/info/67af289de757855875da55f0?utm_source=1114&utm_campaign=New Grad Data Engineer,$100K-$176K /yr,On Site,Snap Inc.,5001-10000,,"Multi Location
 Seattle, WA
 Palo Alto, CA
@@ -83,12 +83,6 @@ Los Angeles, CA","1. BS/BA degree in Computer Science, Math, Physics, or a relat
 5. Experience owning all or part of a team roadmap
 ...",not sure,
 Data Engineer,2025-02-13,https://jobright.ai/jobs/info/67aec88ba87663c36c4bdc00?utm_source=1114&utm_campaign=New Grad Data Engineer,$97200-$109200 /yr,Hybrid,West Monroe,1001-5000,"Business Development,Consulting","Chicago, IL","1. 1 - 4 years of hands-on professional development experience
-2. Experience writing complex SQL queries related to data manipulation strategies
-3. Experience with Spark, Databricks, Kafka, Kinesis, Hadoop, and/or Lambda
-4. Exposure using ETL tools (Azure Data Factory, AWS Glue, Informatica, Talend, IBM DataStage, etc.), and/or database platforms (Snowflake, Redshift, Azure Synapse, or Oracle)
-5. Exposure to data visualization tools (Tableau, Power BI, Looker)
-...",not sure,
-Data Engineer tags.,2025-02-13,https://jobright.ai/jobs/info/67ae9de5eb4e4d9757996f99?utm_source=1114&utm_campaign=New Grad Data Engineer,$97K-$120K /yr,On Site,West Monroe,1001-5000,"Business Development,Consulting","Chicago, IL","1. 1 - 4 years of hands-on professional development experience
 2. Experience writing complex SQL queries related to data manipulation strategies
 3. Experience with Spark, Databricks, Kafka, Kinesis, Hadoop, and/or Lambda
 4. Exposure using ETL tools (Azure Data Factory, AWS Glue, Informatica, Talend, IBM DataStage, etc.), and/or database platforms (Snowflake, Redshift, Azure Synapse, or Oracle)
@@ -234,9 +228,9 @@ Seattle, WA","1. 1+ years of data engineering experience
 3. Experience with SQL
 4. Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)
 5. Experience with one or more scripting language (e.g., Python, KornShell)",not sure,
-"Data Engineer, GTMC SIERRA DE Team",2025-01-30,https://jobright.ai/jobs/info/679bf9f098ce05b613b0dccd?utm_source=1114&utm_campaign=New Grad Data Engineer,$91200-$185000 /yr,On Site,Amazon,10000+,"Crowdsourcing,Delivery","Multi Location
-Arlington, Virginia, USA
-Seattle, Washington, USA","1. 1+ years of data engineering experience
+"Data Engineer, GTMC SIERRA DE Team",2025-01-30,https://jobright.ai/jobs/info/679bf9f098ce05b613b0dd4b?utm_source=1114&utm_campaign=New Grad Data Engineer,$91200-$185000 /yr,On Site,Amazon,10000+,"Crowdsourcing,Delivery","Multi Location
+Seattle, Washington, USA
+Arlington, Virginia, USA","1. 1+ years of data engineering experience
 2. Experience with data modeling, warehousing and building ETL pipelines
 3. Experience with SQL
 4. Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)
@@ -273,9 +267,9 @@ New York, United States","1. 1+ years of data engineering experience
 2. Experience with data modeling, warehousing and building ETL pipelines
 3. Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)
 4. Experience with one or more scripting language (e.g., Python, KornShell)",not sure,
-"Data Engineer, 1+ Years of Experience",2025-01-28,https://jobright.ai/jobs/info/67ae580a61ade306318c266d?utm_source=1114&utm_campaign=New Grad Data Engineer,$118000-$176000 /yr,On Site,Snap Inc.,5001-10000,,"Multi Location
-Los Angeles, California
+"Data Engineer, 1+ Years of Experience",2025-01-28,https://jobright.ai/jobs/info/67ae580a61ade306318c266e?utm_source=1114&utm_campaign=New Grad Data Engineer,$118000-$176000 /yr,On Site,Snap Inc.,5001-10000,,"Multi Location
 Palo Alto, California
+Los Angeles, California
 Seattle, Washington","1. BS/BA degree in Computer Science, Math, Physics, or a related field, or equivalent years of experience in a relevant field
 2. 1+ year experience in SQL or similar languages
 3. 1+ years development experience in at least one object-oriented or scripting language (Python, Java, Scala, etc)
@@ -320,9 +314,3 @@ Data Engineer,2025-01-21,https://jobright.ai/jobs/info/67909f7c44cb3b687d38ba68?
 4. Ability to write SQL queries and statements to explore source data and data issues
 5. Familiarity with agile development, code repositories such as Git, and CI/CD principles
 ...",not sure,
-Cloud Data Engineer,2025-01-20,https://jobright.ai/jobs/info/67a3d77c807df1fe83dfedcf?utm_source=1114&utm_campaign=New Grad Data Engineer,$91123-$123283 /yr,Remote,General Dynamics Information Technology,10000+,"Artificial Intelligence (AI),Cloud Computing",Any Location / Remote,"1. Microsoft Azure
-2. Python (Programming Language)
-3. Structured Query Language (SQL)
-4. 1 + years of related experience
-5. Technical Training, Certification(s) or Degree and 1+ years of experience or equivalent years of experience
-...",no,
