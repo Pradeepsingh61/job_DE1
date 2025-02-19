@@ -1,22 +1,38 @@
 Position Title,Date,Apply,Salary,Work Model,Company,Company Size,Company Industry,Location,Qualifications,H1b Sponsored,Is New Grad
-"Data Engineer (Requiring PySpark) -- Buffalo Grove, Illinois",2025-02-18,https://jobright.ai/jobs/info/67b499363d8fe8628b8f5dcf?utm_source=1114&utm_campaign=New Grad Data Engineer,$79310-$158620 /yr,On Site,CVS Health,10000+,"Health Care,Medical","Multi Location
-IL - Buffalo Grove
-Chicago-333 W Wacker Dr","1. 1+ years of business experience leading analyses and initiatives with track record of business impact
+Data Engineer I,2025-02-18,https://jobright.ai/jobs/info/67b549489469dcd23ddfdf64?utm_source=1114&utm_campaign=New Grad Data Engineer,$61K-$98K /yr,On Site,Spectrum,10000+,"Digital Entertainment,Internet","Greenwood Village, CO","1. Ability to read, write, speak and understand English
+2. Ability to use a wide variety of open source technologies and cloud services
+3. Basic coding/scripting experience using Python, R, shell scripts
+4. Basic experience with SQL, Tableau, and ETL techniques
+5. Basic background in Linux/CentOS installation and administration
+...",not sure,yes
+"Software Engineer, I",2025-02-18,https://jobright.ai/jobs/info/67b51ec5ba9a10217b3ce731?utm_source=1114&utm_campaign=New Grad Data Engineer,$114K-$137K /yr,Remote,Torc Robotics,501-1000,"Autonomous Vehicles,Robotics","Ann Arbor, MI","1. BS/MS Degree in Computer Engineering, Computer Science, or related field
+2. Experience building and maintaining workloads in public cloud environments
+3. Knowledge of different database architectures, including but not limited to relational and NoSQL databases, data warehousing and clustered, distributed data stores
+4. Practical experience with Linux and general bash scripting
+5. Implementation of workflow patterns using directed acyclic graphs (Apache Airflow, AWS Step Functions)
+...",not sure,
+"Data Engineer (Requiring PySpark) -- Buffalo Grove, Illinois",2025-02-18,https://jobright.ai/jobs/info/67b551386b3b755644bc381a?utm_source=1114&utm_campaign=New Grad Data Engineer,$79K-$159K /yr,On Site,CVS Health,10000+,"Health Care,Medical","Buffalo Grove, IL","1. 1+ years of business experience leading analyses and initiatives with track record of business impact
 2. 1+ years of experience programming using Python, SQL, PySpark
 3. 1+ years of experience in cloud preferably GCP
 4. Bachelor’s Degree in Computer Science, Engineering, Statistics, Physics, Math, or related field",not sure,
-Data Engineer - Clinical Analytics (ML Ops Experience),2025-02-18,https://jobright.ai/jobs/info/67b499363d8fe8628b8f5eaa?utm_source=1114&utm_campaign=New Grad Data Engineer,$79310-$173040 /yr,On Site,CVS Health,10000+,"Health Care,Medical","Multi Location
-MA - Wellesley
+"Data Engineer (Requiring PySpark) -- Buffalo Grove, Illinois",2025-02-18,https://jobright.ai/jobs/info/67b499363d8fe8628b8f5ea9?utm_source=1114&utm_campaign=New Grad Data Engineer,$79310-$158620 /yr,On Site,CVS Health,10000+,"Health Care,Medical","Multi Location
+Chicago-333 W Wacker Dr
+IL - Buffalo Grove","1. 1+ years of business experience leading analyses and initiatives with track record of business impact
+2. 1+ years of experience programming using Python, SQL, PySpark
+3. 1+ years of experience in cloud preferably GCP
+4. Bachelor’s Degree in Computer Science, Engineering, Statistics, Physics, Math, or related field",not sure,
+Data Engineer - Clinical Analytics (ML Ops Experience),2025-02-18,https://jobright.ai/jobs/info/67b499363d8fe8628b8f5ea8?utm_source=1114&utm_campaign=New Grad Data Engineer,$79310-$173040 /yr,On Site,CVS Health,10000+,"Health Care,Medical","Multi Location
+Hartford-Farmington Ave Atrium
 New York-161 Ave of the Americas
-Hartford-Farmington Ave Atrium","1. 1+ years of experience with relational, document and key-value databases
+MA - Wellesley","1. 1+ years of experience with relational, document and key-value databases
 2. 1+ years of experience with Python (or a comparable scripting language)
 3. 1+ years of experience with Data warehouses (such as data modeling and technical architectures) and infrastructure components
 4. 1+ years of experience with ETL/ELT, and building high-volume data pipelines
 5. 1+ years of experience with reporting/analytic tools
 ...",no,
-"Data Engineer, F3 DASH",2025-02-18,https://jobright.ai/jobs/info/6798a66086a26e1eadfcfe36?utm_source=1114&utm_campaign=New Grad Data Engineer,$91K-$185K /yr,On Site,Amazon,10000+,"Crowdsourcing,Delivery","Multi Location
-New York, United States
-Seattle, WA","1. 1+ years of data engineering experience
+"Data Engineer, F3 DASH",2025-02-18,https://jobright.ai/jobs/info/6799d95db394e93bc73f8312?utm_source=1114&utm_campaign=New Grad Data Engineer,$91K-$185K /yr,On Site,Amazon,10000+,"Crowdsourcing,Delivery","Multi Location
+Seattle, WA
+New York, United States","1. 1+ years of data engineering experience
 2. Experience with data modeling, warehousing and building ETL pipelines
 3. Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)
 4. Experience with one or more scripting language (e.g., Python, KornShell)",not sure,
@@ -37,12 +53,6 @@ Los Angeles, CA","1. Proficient in Python with at least a year of experience del
 4. Experienced with agile methods and the concepts behind continuous delivery.
 5. Passionate about developing data structures, pipelines, and APIs.
 ...",not sure,
-"Graph Data Engineer, Defense Health (Software Engineer)",2025-02-17,https://jobright.ai/jobs/info/67b4148ba4125fe26e0a364e?utm_source=1114&utm_campaign=New Grad Data Engineer,$90K-$228K /yr,On Site,Bluestaq,51-100,"Database,Information Technology","Colorado Springs, CO","1. Experience with ArangoDB, Neo4j, Amazon Neptune, TigerGraph, or other graph technologies and query languages (e.g., Cypher, SPARQL, Gremlin).
-2. Experience with vector stores and graph theory for data modeling and analysis.
-3. Strong programming skills (e.g., Python, Java, Scala) for data pipeline development and API integrations.
-4. Solid understanding of data security principles, including encryption, secure authentication, and compliance standards.
-5. Experience in building ontologies, knowledge graphs, or semantic systems for domain-specific applications.
-...",no,
 "Data Engineer I, AppSec Stores",2025-02-16,https://jobright.ai/jobs/info/67b1b410f56517e322d49671?utm_source=1114&utm_campaign=New Grad Data Engineer,$91K-$185K /yr,Hybrid,Amazon,10000+,"Crowdsourcing,Delivery","New York, NY","1. 1+ years of data engineering experience
 2. Experience with data modeling, warehousing and building ETL pipelines
 3. Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)
@@ -54,12 +64,6 @@ Data Engineer,2025-02-15,https://jobright.ai/jobs/info/67b11920067e316f1c16f533?
 2. Experience with data modeling, warehousing and building ETL pipelines
 3. Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)
 4. Experience with one or more scripting language (e.g., Python, KornShell)",not sure,
-Associate Data Engineer,2025-02-15,https://jobright.ai/jobs/info/675d2c751dd80456c220eaac?utm_source=1114&utm_campaign=New Grad Data Engineer,$78K-$108K /yr,On Site,Analog Devices,10000+,"DSP,Electronics","San Jose, CA","1. Proficiency in SQL and knowledge of relational and non-relational databases.
-2. Understanding of ETL processes and experience in designing scalable data pipelines.
-3. Familiarity with data warehousing solutions like Redshift or Snowflake.
-4. Experience with scripting languages such as Python or R for data manipulation.
-5. Strong attention to detail with a focus on maintaining data accuracy and integrity.
-...",no,yes
 Data Infrastructure Engineer II,2025-02-15,https://jobright.ai/jobs/info/679318eb10cfca0c24af2942?utm_source=1114&utm_campaign=New Grad Data Engineer,$90K-$113K /yr,Remote,ACV Auctions,1001-5000,"Apps,Automotive","Multi Location
 United States
 Buffalo, NY","1. Ability to read, write, speak and understand English.
@@ -222,9 +226,9 @@ Seattle, WA","1. 1+ years of data engineering experience
 3. Experience with SQL
 4. Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)
 5. Experience with one or more scripting language (e.g., Python, KornShell)",not sure,
-"Data Engineer, GTMC SIERRA DE Team",2025-01-30,https://jobright.ai/jobs/info/679bf9f098ce05b613b0dd4b?utm_source=1114&utm_campaign=New Grad Data Engineer,$91200-$185000 /yr,On Site,Amazon,10000+,"Crowdsourcing,Delivery","Multi Location
-Seattle, Washington, USA
-Arlington, Virginia, USA","1. 1+ years of data engineering experience
+"Data Engineer, GTMC SIERRA DE Team",2025-01-30,https://jobright.ai/jobs/info/679bf9f098ce05b613b0dccd?utm_source=1114&utm_campaign=New Grad Data Engineer,$91200-$185000 /yr,On Site,Amazon,10000+,"Crowdsourcing,Delivery","Multi Location
+Arlington, Virginia, USA
+Seattle, Washington, USA","1. 1+ years of data engineering experience
 2. Experience with data modeling, warehousing and building ETL pipelines
 3. Experience with SQL
 4. Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)
@@ -255,9 +259,9 @@ Junior Data Engineer,2025-01-28,https://jobright.ai/jobs/info/679949874f7c7a3c85
 ...",not sure,
 Associate Customer Engineer,2025-01-28,https://jobright.ai/jobs/info/679908dfa3a01f4974abfa09?utm_source=1114&utm_campaign=New Grad Data Engineer,$100K-$150K /yr,Hybrid,Reltio,251-500,"Analytics,Data Governance","Austin, TX","1. Minimum educational requirements and fields of study
 2. Minimum experience or skills requirements",not sure,
-"Data Engineer, 1+ Years of Experience",2025-01-28,https://jobright.ai/jobs/info/67ae580a61ade306318c266d?utm_source=1114&utm_campaign=New Grad Data Engineer,$118000-$176000 /yr,On Site,Snap Inc.,5001-10000,,"Multi Location
-Los Angeles, California
+"Data Engineer, 1+ Years of Experience",2025-01-28,https://jobright.ai/jobs/info/67ae55ee61ade306318c1c62?utm_source=1114&utm_campaign=New Grad Data Engineer,$118000-$176000 /yr,On Site,Snap Inc.,5001-10000,,"Multi Location
 Seattle, Washington
+Los Angeles, California
 Palo Alto, California","1. BS/BA degree in Computer Science, Math, Physics, or a related field, or equivalent years of experience in a relevant field
 2. 1+ year experience in SQL or similar languages
 3. 1+ years development experience in at least one object-oriented or scripting language (Python, Java, Scala, etc)
