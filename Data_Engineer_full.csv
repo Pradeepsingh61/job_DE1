@@ -1,22 +1,15 @@
 Position Title,Date,Apply,Salary,Work Model,Company,Company Size,Company Industry,Location,Qualifications,H1b Sponsored,Is New Grad
-Data Engineer,2025-03-06,https://jobright.ai/jobs/info/67ca845b19fb030270a346ae?utm_source=1114&utm_campaign=New Grad Data Engineer,$100000-$110000 /yr,On Site,Addgene,11-50,"Biotechnology,Non Profit","Watertown, MA","1. Master’s degree in Computer Science, Data Engineering, or related technical field with 1-2 years professional, full-time experience (or Bachelor’s degree with additional 3-4 years of experience)
-2. Minimum 1-2 years professional software or data engineering experience using Python
-3. At least 1 year experience with Python data science libraries, such as pandas and NumPy
-4. In-depth experience with relational databases and constructing complex queries (ex. SQL) to retrieve data
-5. Familiarity with data pipelines and ETL architectures
-...",not sure,
+Software Engineer Graduate (Ads CRM Data Application) - 2025 Start (BS/MS),2025-03-07,https://jobright.ai/jobs/info/67cb10d6f2145135fa8bebb8?utm_source=1114&utm_campaign=New Grad Data Engineer,$114K-$250K /yr,On Site,TikTok,10000+,"Content Creators,Content Discovery","San Jose, CA","1. Bachelor’s or higher degree in Computer Science, Software Engineering, or a related field.
+2. Strong computer science fundamentals in data structures, algorithms, and distributed systems.
+3. Experience with big data technologies such as Flink, Spark, Kafka, Hive, ClickHouse, Doris, or similar frameworks.
+4. Familiarity with real-time streaming data processing, SQL, and data warehouse design principles.
+5. Knowledge of distributed backend development and experience building large-scale, high-performance systems.",not sure,yes
 "Data Engineer II (Remote, US)",2025-03-06,https://jobright.ai/jobs/info/67ca621294886494c80c6233?utm_source=1114&utm_campaign=New Grad Data Engineer,$108000-$121500 /yr,Remote,Openly,251-500,"Auto Insurance,Commercial Insurance",Remote - United States,"1. 1 to 2 years of data engineering and data management experience.
 2. Scripting skills in one or more of the following: Python.
 3. Basic understanding and usage of a development and deployment lifecycle, automated code deployments (CI/CD), code repositories, and code management.
 4. Experience with Google Cloud data store and data orchestration technologies and concepts.
 5. Hands-on experience and understanding of the entire data pipeline architecture: Data replication tools, staging data, data transformation, data movement, and cloud based data platforms.
 ...",no,
-"Data Engineering, Analyst",2025-03-06,https://jobright.ai/jobs/info/67ca57fcff8c6d66e6dcefbf?utm_source=1114&utm_campaign=New Grad Data Engineer,$99750-$120000 /yr,Hybrid,BlackRock,10000+,"Asset Management,Crowdfunding","Atlanta, GA","1. Bachelor's degree in computer science, Information Technology, or related field.
-2. At least 1+ years’ experience as a software engineer
-3. Experience in Python, Unit/Integration/Functional testing, SQL
-4. Experience / Familiarity with Database Modeling, Normalization techniques
-5. Experience / Familiarity with object-oriented design patterns
-...",not sure,
 "Data Engineer II (Remote, US)",2025-03-06,https://jobright.ai/jobs/info/67ca5a1cd6f69d84bfa6f5aa?utm_source=1114&utm_campaign=New Grad Data Engineer,$108000-$162000 /yr,Remote,Openly,251-500,"Auto Insurance,Commercial Insurance",United States,"1. 1 to 2 years of data engineering and data management experience.
 2. Scripting skills in one or more of the following: Python.
 3. Basic understanding and usage of a development and deployment lifecycle, automated code deployments (CI/CD), code repositories, and code management.
@@ -39,18 +32,20 @@ Software Engineer (Data Platform),2025-03-06,https://jobright.ai/jobs/info/677ff
 4. Proficiency in programming languages such as Python, Java, Go etc.
 5. Solid understanding of data modeling and data warehousing concepts, data integration and ETL/ELT techniques.
 ...",not sure,
-Data Pipeline Engineer I,2025-03-05,https://jobright.ai/jobs/info/67c91ed428275c956169bd9e?utm_source=1114&utm_campaign=New Grad Data Engineer,$79K-$114K /yr,On Site,Niagara Bottling,1001-5000,"Food and Beverage,Sports","Diamond Bar, CA","1. 1-2 Years – Experience in Snowflake
-2. 1-2 Years – Experience in Azure data factory, Databricks
-3. 1-2 Years – Experience ETL/ELT
-4. 1-2 Years – Experience building complex reports
-5. Bachelor's Degree in Computer Science or Computer Engineering
-...",not sure,
 Data Pipeline Engineer I,2025-03-05,https://jobright.ai/jobs/info/67c8d11f1951f2744a643071?utm_source=1114&utm_campaign=New Grad Data Engineer,$78619.75-$113998.64 /yr,On Site,Niagara Bottling,1001-5000,"Food and Beverage,Sports","Corp-Main - Diamond Bar, CA","1. 1-2 Years – Experience in Snowflake
 2. 1-2 Years – Experience in Azure data factory, Databricks
 3. 1-2 Years – Experience ETL/ELT
 4. 1-2 Years – Experience building complex reports
 5. Bachelor's Degree in Computer Science or Computer Engineering
 ...",not sure,
+Data Infrastructure Engineer II,2025-03-05,https://jobright.ai/jobs/info/6787ac304f918fe06833bbb5?utm_source=1114&utm_campaign=New Grad Data Engineer,$90K-$113K /yr,On Site,ACV Auctions,1001-5000,"Apps,Automotive","Multi Location
+Buffalo, NY
+United States","1. Ability to read, write, speak and understand English.
+2. Bachelor’s degree in computer science, Information Technology, or a related field (or equivalent work experience)
+3. Strong communication and collaboration skills, with the ability to work effectively in a fast paced global team environment
+4. 1+ years experience architecting, developing, and delivering software products with emphasis on data infrastructure layer
+5. 1+ years work with continuous integration and build tools.
+...",no,
 "Data Engineer, Cloud and System (Seattle)",2025-03-05,https://jobright.ai/jobs/info/67c81a4a3146a84cd80c5852?utm_source=1114&utm_campaign=New Grad Data Engineer,$119K-$238K /yr,On Site,ByteDance,10000+,"Content,Data Mining","Seattle, WA","1. Bachelor’s or Master’s degree in Computer Science, Data Engineering, or a related field.
 2. 0-3 years of experience in data engineering, cloud infrastructure, or system operations (internship experience is a plus).
 3. Strong experience with SQL, Python, or Scala for data processing.
@@ -121,7 +116,7 @@ Seattle, WA","1. Bachelor’s degree or higher in Computer Science, Engineering,
 2. Experience with data modeling, warehousing and building ETL pipelines
 3. Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)
 4. Experience with one or more scripting language (e.g., Python, KornShell)",not sure,
-Data Platform Software Engineer,2025-02-28,https://jobright.ai/jobs/info/67b0862f9677fc09a89c370e?utm_source=1114&utm_campaign=New Grad Data Engineer,$120000-$180000 /yr,Remote,ArteraAI,101-250,"Artificial Intelligence (AI),Biotechnology",United States,"1. Demonstrated integrity and consideration for appropriate data governance when working with sensitive confidential data.
+Software Engineer (Data Platform),2025-03-01,https://jobright.ai/jobs/info/67b0862f9677fc09a89c370e?utm_source=1114&utm_campaign=New Grad Data Engineer,$120K-$180K /yr,Remote,ArteraAI,101-250,"Artificial Intelligence (AI),Biotechnology",United States,"1. Demonstrated integrity and consideration for appropriate data governance when working with sensitive confidential data.
 2. Prior experience managing AWS relational databases: PostgreSQL, MySQL, etc.
 3. Experience with managing S3 buckets, lifecycle, policies and IAM Permissions at scale.
 4. You have a track record of migrating and building infrastructure automation solutions using Infrastructure-As-Code in Terraform.
@@ -136,6 +131,12 @@ Data Platform Software Engineer,2025-02-28,https://jobright.ai/jobs/info/67b0862
 3. Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)
 4. Experience with one or more scripting language (e.g., Python, KornShell)
 5. Bachelor's Degree",not sure,
+"Analytics Engineer, Data Analytics",2025-02-27,https://jobright.ai/jobs/info/67cae7bae953660b836a7eac?utm_source=1114&utm_campaign=New Grad Data Engineer,$80K-$120K /yr,On Site,Axos Bank,1001-5000,,"San Diego, CA","1. Bachelors degree
+2. 1 + years experience in Data Engineering, BI Engineering and similar role
+3. Experience in SQL programming and data transformation skills
+4. Experience in DBT programming
+5. Experience making sense of data for analytical insights
+...",not sure,
 Cloud Engineer- Data Focused,2025-02-26,https://jobright.ai/jobs/info/67bfca34ed43d034cd8f8477?utm_source=1114&utm_campaign=New Grad Data Engineer,$100K-$125K /yr,Hybrid,Innovative Solutions,101-250,"Cloud Computing,Computer","Multi Location
 Charlotte, NC
 Philadelphia, PA
@@ -199,14 +200,6 @@ Data Engineer,2025-02-21,https://jobright.ai/jobs/info/67b8fbe3458f231b3fb577be?
 4. Extensive experience with big data technologies such as Hadoop, Spark, or similar
 5. Proficiency with Python
 ...",not sure,
-Data Infrastructure Engineer II,2025-02-20,https://jobright.ai/jobs/info/67ca7b7e906a3c5d2be854cd?utm_source=1114&utm_campaign=New Grad Data Engineer,$90K-$113K /yr,Remote,ACV Auctions,1001-5000,"Apps,Automotive","Multi Location
-United States
-Buffalo, NY","1. Ability to read, write, speak and understand English.
-2. Bachelor’s degree in computer science, Information Technology, or a related field (or equivalent work experience)
-3. Strong communication and collaboration skills, with the ability to work effectively in a fast paced global team environment
-4. 1+ years experience architecting, developing, and delivering software products with emphasis on data infrastructure layer
-5. 1+ years work with continuous integration and build tools.
-...",no,
 Data Engineer Jr.,2025-02-20,https://jobright.ai/jobs/info/67b77d07bfea99ace112117d?utm_source=1114&utm_campaign=New Grad Data Engineer,$90K-$120K /yr,Hybrid,CGI,10000+,"Analytics,Application Performance Management","Arlington, VA","1. Bachelor's Degree in similar field.
 2. 1-3 years of experience in data integration and management
 3. Experience with SQL, Python and PySpark
