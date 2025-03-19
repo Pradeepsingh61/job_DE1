@@ -1,28 +1,23 @@
 Position Title,Date,Apply,Salary,Work Model,Company,Company Size,Company Industry,Location,Qualifications,H1b Sponsored,Is New Grad
-Data Engineer,2025-03-17,https://jobright.ai/jobs/info/67d85de4d87602ec4cd03364?utm_source=1114&utm_campaign=New Grad Data Engineer,$38.56-$48.56 /hr,On Site,Accenture,10000+,"Business Information Systems,Construction","Multi Location
-Detroit, 1001 Woodward Avenue, Corp
-Houston, 1301 Fannin, Corp
-San Francisco, 415 Mission Street, Corp
-Milwaukee, 790 N Milwaukee St, Corp
-Raleigh, 555 Fayetteville, Corp
-Columbus, 400 W. Nationwide Blvd, Corp
-Florham Park, 500 Campus, Corp
-Sacramento, 1610 R Street, Corp
+Safety Data Engineer,2025-03-18,https://jobright.ai/jobs/info/67d9a292ba17fa76fefeb931?utm_source=1114&utm_campaign=New Grad Data Engineer,$126100-$151300 /yr,On Site,Torc Robotics,501-1000,"Autonomous Vehicles,Robotics","Blacksburg, VA","1. A degree in Engineering, Computer Science, Statistics, or a related technical field.
+2. M.S. with 0-3+ years of experience, or B.S. with 4+ years of experience.
+3. Proven experience in mechanical engineering, vehicle engineering, or physics-based applications.
+4. Experience with vehicle and sensor systems, cloud-based data technology, data visualization, and statistical analytics.
+5. Proficiency in programming languages, particularly Python and SQL.
+...",not sure,yes
+"Data Engineer, Stores Finance Analytics & Insights, Stores Finance Analytics & Insights",2025-03-18,https://jobright.ai/jobs/info/67d94a779a0118ed7e0cb61d?utm_source=1114&utm_campaign=New Grad Data Engineer,$91200-$185000 /yr,On Site,Amazon,10000+,"Crowdsourcing,Delivery","Multi Location
+Seattle, WA
+Seattle, Washington, USA","1. 1+ years of data engineering experience
+2. Experience with data modeling, warehousing and building ETL pipelines
+3. Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)
+4. Experience with one or more scripting language (e.g., Python, KornShell)
+5. Experience writing and optimizing SQL queries with large-scale, complex datasets",no,
+Data Engineer,2025-03-17,https://jobright.ai/jobs/info/67d85de4d87602ec4cd0335f?utm_source=1114&utm_campaign=New Grad Data Engineer,$38.56-$48.56 /hr,On Site,Accenture,10000+,"Business Information Systems,Construction","Multi Location
+NY - Albany
+IA - Des Moines
+Pittsburgh, 1001 Liberty Ave, Corp
 Scottsdale, 15279 N Scottsdale Rd, Corp
-Atlanta, 75 Fifth, Corp
-Carmel, 11939 N Meridian St., Corp
-Mountain View, 650 Castro, Corp
-New York, One Manhattan West, Corp
-Overland Park, 7300 W 110th Street, Corp
-Chicago, Accenture Tower, Corp
-Hartford, 280 Trumbull, Corp
-Boston, 888 Boylston, Corp
-Seattle, 1191 2nd Avenue, Corp
-Los Angeles, 1003 E. 4th Place, Corp
-Miami, 777 Brickell Ave, Corp
-Dallas, 5205 N OConnor Las Colinas, Corp
-Nashville, 4101 Charlotte Ave., Corp
-Denver, 999 18th St, Corp
+Florham Park, 500 Campus, Corp
 Cincinnati, 4th Street, Corp
 Herndon, 2350 Corp Park Dr, ACN Security
 Walnut Creek, 1255 Treat Blvd, Corp
@@ -31,16 +26,34 @@ Cleveland, 1400 W 10th Street, Corp
 Charlotte, 1120 S Tryon St., Corp
 Bentonville, 805 S Walton Blvd., Corp
 Beaverton, 4145 SW Watson, Corp
-Austin, 323 Congress Avenue, Corp
-San Diego, 12680 High Bluff Dr, Corp
-St. Pete, 140 Fountain Pkwy, Tampa Corp
-Oklahoma City, 525 NW 11th St, Corp
-NY - Albany
-IA - Des Moines
-Pittsburgh, 1001 Liberty Ave, Corp
+Atlanta, 75 Fifth, Corp
+Carmel, 11939 N Meridian St., Corp
+Mountain View, 650 Castro, Corp
+New York, One Manhattan West, Corp
+Overland Park, 7300 W 110th Street, Corp
 St. Louis, 4220 Duncan Avenue, Corp
 Arlington, 1201 Wilson, Corp
-Philadelphia, 2001 Market St, Corp","1. Minimum 1 years of experience as a Data Engineer
+Philadelphia, 2001 Market St, Corp
+Detroit, 1001 Woodward Avenue, Corp
+St. Pete, 140 Fountain Pkwy, Tampa Corp
+Sacramento, 1610 R Street, Corp
+Boston, 888 Boylston, Corp
+Seattle, 1191 2nd Avenue, Corp
+Chicago, Accenture Tower, Corp
+San Diego, 12680 High Bluff Dr, Corp
+Columbus, 400 W. Nationwide Blvd, Corp
+Oklahoma City, 525 NW 11th St, Corp
+Hartford, 280 Trumbull, Corp
+Austin, 323 Congress Avenue, Corp
+Houston, 1301 Fannin, Corp
+San Francisco, 415 Mission Street, Corp
+Milwaukee, 790 N Milwaukee St, Corp
+Raleigh, 555 Fayetteville, Corp
+Nashville, 4101 Charlotte Ave., Corp
+Miami, 777 Brickell Ave, Corp
+Dallas, 5205 N OConnor Las Colinas, Corp
+Denver, 999 18th St, Corp
+Los Angeles, 1003 E. 4th Place, Corp","1. Minimum 1 years of experience as a Data Engineer
 2. High School Diploma or GED",no,
 Temporary IT Integration and Solutions II - Data Flow Manager,2025-03-17,https://jobright.ai/jobs/info/67d838781b80f97289a1ce92?utm_source=1114&utm_campaign=New Grad Data Engineer,$44-$46 /hr,On Site,North Carolina State University,5001-10000,"Education,Non Profit","Raleigh, NC","1. Master’s degree and at least one year of relevant experience; or Bachelor’s degree with at least two years’ of relevant experience; or an equivalent combination of education, training and relevant experience
 2. Experience in sustainable agriculture practices and field data collection
@@ -53,10 +66,10 @@ Bellevue, WA
 Palo Alto, CA
 Seattle, WA
 Los Angeles, CA
-Seattle, Washington
-Palo Alto, California
 Los Angeles, California
-Bellevue, Washington","1. BS/BA degree in Computer Science, Math, Physics, or a related field, or equivalent years of experience in a relevant field
+Bellevue, Washington
+Seattle, Washington
+Palo Alto, California","1. BS/BA degree in Computer Science, Math, Physics, or a related field, or equivalent years of experience in a relevant field
 2. 1+ year experience in SQL or similar languages
 3. 1+ years development experience in at least one object-oriented or scripting language (Python, Java, Scala, etc)
 4. Experience in building data pipelines to serve reporting needs
@@ -92,13 +105,6 @@ Associate Customer Engineer,2025-03-13,https://jobright.ai/jobs/info/679908dfa3a
 4. Motivated to learn and adopt new technologies demonstrated by having taken certifications
 5. Troubleshooting and debugging skills demonstrated by curiosity in determining solutions and workarounds for problems.
 ...",not sure,
-"Data Engineer, Stores Finance Analytics & Insights, Stores Finance Analytics & Insights",2025-03-12,https://jobright.ai/jobs/info/67d263bc2232e6c85edb9268?utm_source=1114&utm_campaign=New Grad Data Engineer,$91200-$185000 /yr,On Site,Amazon,10000+,"Crowdsourcing,Delivery","Multi Location
-Seattle, WA
-Seattle, Washington, USA","1. 1+ years of data engineering experience
-2. Experience with data modeling, warehousing and building ETL pipelines
-3. Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)
-4. Experience with one or more scripting language (e.g., Python, KornShell)
-5. Experience writing and optimizing SQL queries with large-scale, complex datasets",no,
 "Software Engineer, Data Platform",2025-03-12,https://jobright.ai/jobs/info/67b5b10c3317aa153ba86e00?utm_source=1114&utm_campaign=New Grad Data Engineer,$160K-$175K /yr,On Site,Moveworks,501-1000,"Artificial Intelligence (AI),Cloud Computing","Mountain View, CA","1. 1-3 years of experience as senior/software engineer
 2. Experience with Python or Golang or Java or C++
 3. Experience with cloud infrastructure like AWS/GCP/Azure
@@ -121,6 +127,12 @@ United States","1. A Bachelor's degree in Statistics, Economics, Mathematics or 
 3. SQL proficiency with proven competencies in designing well-architected data models, optimizing for query performance, and clearly documenting code
 4. Strong communication skills and ability to convey complex topics to non-technical audiences
 5. Passion, drive, and a deep sense of responsibility. We build the systems that keep us and our customers safe!",not sure,
+Associate Data Engineer,2025-03-11,https://jobright.ai/jobs/info/67d9ac1b46ef27f1e0552b93?utm_source=1114&utm_campaign=New Grad Data Engineer,$61800-$123600 /yr,Hybrid,CVS Health,10000+,"Health Care,Medical",Field-Texas,"1. Experience with SQL
+2. Proficiency in Python or a comparable scripting language
+3. Familiarity with data warehouses, including data modeling and technical architectures
+4. Experience with ETL/ELT processes and building high-volume data pipelines
+5. Knowledge of reporting and analytic tools
+...",not sure,yes
 "Data Engineer I, FAE",2025-03-11,https://jobright.ai/jobs/info/67d122dd3863d6ca8802eea1?utm_source=1114&utm_campaign=New Grad Data Engineer,$91200-$185000 /yr,On Site,Amazon,10000+,"Crowdsourcing,Delivery","Multi Location
 Seattle, WA
 Seattle, Washington, USA","1. 1+ years of data engineering experience
@@ -268,8 +280,8 @@ Philadelphia, PA
 Charlotte, NC
 New York, NY
 Nashville, TN
-Rochester, NY
 Atlanta, GA
+Rochester, NY
 Washington, DC","1. 1-3 years of experience with cloud technologies, preferably AWS
 2. AWS Certified Cloud Practitioner certification or ability to obtain within 3 months
 3. Experience with SQL and at least one programming language (Python, Java, etc.)
