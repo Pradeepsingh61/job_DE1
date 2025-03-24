@@ -1,4 +1,22 @@
 Position Title,Date,Apply,Work Model,Location,Company,Company Size,Company Industry,Salary,Qualifications,H1b Sponsored,Is New Grad
+"AI/ML Engineer, Associate - Analyst",2025-03-23,https://jobright.ai/jobs/info/67e0dd1c612f60006b35499c?utm_source=1100&utm_campaign=ml,Hybrid,"New York, 1 Columbus Circle",Deutsche Bank,10000+,"Banking,Finance",$70000-$102500 /yr,"1. Bachelor's degree in Computer Science, Machine Learning, Statistics, Mathematics, or a related field
+2. Moderate experience in a relevant role (e.g., AI/ML Engineer, Data Scientist, Software Engineer with ML focus)
+3. Proficiency in Python
+4. Experience with relational databases (e.g., SQL) and NoSQL databases
+5. Moderate experience with large datasets, ensuring data quality, consistency, and integrity
+...",not sure,
+"Research Scientist- Foundation Model, Generative AI",2025-03-23,https://jobright.ai/jobs/info/67c32ef267359cca39473986?utm_source=1100&utm_campaign=ml,On Site,"Seattle, WA",ByteDance,10000+,"Content,Data Mining",$130K-$195K /yr,"1. 1-3 years of research and practical experience in one or more areas of computer vision, including but not limited to multimodal generation, such as text-to-image/video/3D generation and editing, and other related multimodal experiences
+2. image generation, video generation, 3D generation
+3. diffusion model, GAN, transformer for generation tasks
+4. large-scale training, RLHF, and generative AI
+5. Highly competent in algorithms and programming
+...",not sure,
+"Software Dev Engineer - Machine Learning Apps, Accelerator, Annapurna ML",2025-03-23,https://jobright.ai/jobs/info/67dba0a6d8fe6af6538ceea2?utm_source=1100&utm_campaign=ml,On Site,"Multi Location
+Cupertino, CA
+Seattle, WA",Amazon,10000+,"Crowdsourcing,Delivery",$100K-$200K /yr,"1. Currently enrolled in, or completed a Bachelor’s degree program or higher in Computer Science, Computer Engineering, Electrical Engineering or related field
+2. To qualify, applicants should have earned a Bachelor’s or Master’s degree between May 2023 to September 2025. Possible start dates for this role are between January 2025 to October 2025.
+3. Programming experience in internship or coursework with programming language such as Python and/or C or C++.
+4. Candidates with strong interests and academic qualifications/research focus in two of the following: Distributed systems, algorithms (MPI, NCCL, or similar), Operating System - Linux system programming/services, Computer architecture, System Development, Complexity analysis",not sure,
 Machine Learning Engineer Graduate (E-Commerce Supply Chain & Logistics) - 2025 Start (PhD),2025-03-23,https://jobright.ai/jobs/info/67be43cb3dc4fea871f7af03?utm_source=1100&utm_campaign=ml,On Site,"San Jose, CA",TikTok,10000+,"Content Creators,Content Discovery",$145K-$250K /yr,"1. Master's or PhD degree in fields such as artificial intelligence, computer science, operations research, automation, statistics, mathematics, or related disciplines, with experience in data mining and deep learning.
 2. Proficient in machine learning and statistics, familiar with the principles and model structures of common machine learning and deep learning algorithms for classification, regression, and clustering, with practical application experience.
 3. Proficient in programming languages such as Python/Java, possessing excellent coding abilities, and familiar with at least one common machine learning/deep learning framework (TensorFlow/PyTorch etc.).
@@ -12,9 +30,7 @@ Software Engineer Graduate (Ads ML Infrastructure) - 2025 Start (BS/MS),2025-03-
 2. Strong Computer Science fundamentals (algorithms, data structures, software design) and problem-solving skills.
 3. Solid coding skills and a good understanding of algorithms, especially causal inference, uplift model, and deep learning.
 4. Experience in managing projects.",not sure,yes
-AI Prompt Developer (Classification),2025-03-23,https://jobright.ai/jobs/info/67dd7baf82ec8b808d2bbbe1?utm_source=1100&utm_campaign=ml,On Site,"Multi Location
-New York
-New York, United States",DoubleVerify,501-1000,"Advertising,Analytics",$107000-$231000 /yr,"1. Bachelor’s degree or equivalent experience in fields such as Policy, Linguistics, Communications, Social Sciences, Business, or STEM.
+AI Prompt Developer (Classification),2025-03-23,https://jobright.ai/jobs/info/67dd7baf82ec8b808d2bbbe1?utm_source=1100&utm_campaign=ml,On Site,New York,DoubleVerify,501-1000,"Advertising,Analytics",$107000-$231000 /yr,"1. Bachelor’s degree or equivalent experience in fields such as Policy, Linguistics, Communications, Social Sciences, Business, or STEM.
 2. Excellent written and communication skills, with the ability to simplify the complex for diverse audiences.
 3. Highly analytical with an understanding of established research methodologies.
 4. Ability to interpret large data sets, identify trends or errors, and propose solutions.
@@ -31,7 +47,8 @@ Sunnyvale, CA",DoorDash,10000+,"Apps,Delivery",$137100-$201600 /yr,"1. 1+ years 
 ...",not sure,
 "Machine Learning Analyst, Google Cloud Protection Analytics",2025-03-23,https://jobright.ai/jobs/info/67a64e966d7f4722969c85f2?utm_source=1100&utm_campaign=ml,On Site,"Multi Location
 Sunnyvale, CA
-Kirkland, WA",Google,10000+,"Apps,Artificial Intelligence (AI)",$99K-$145K /yr,"1. Bachelor's degree or equivalent practical experience.
+Kirkland, WA
+Seattle, WA",Google,10000+,"Apps,Artificial Intelligence (AI)",$99K-$145K /yr,"1. Bachelor's degree or equivalent practical experience.
 2. 1 year of experience in data analysis, including identifying trends, generating summary statistics, and drawing insights from quantitative and qualitative data.
 3. 1 year of experience managing projects and defining project scope, goals, and deliverables.",not sure,
 "Software Engineer, PhD, Early Career, Campus, Machine Learning, Systems and Cloud AI, 2025 start",2025-03-23,https://jobright.ai/jobs/info/676afad22ed6e372a13bd5fd?utm_source=1100&utm_campaign=ml,On Site,"Multi Location
@@ -39,9 +56,6 @@ Sunnyvale, CA
 Seattle, WA
 Kirkland, WA",Google,10000+,"Apps,Artificial Intelligence (AI)",$136K-$200K /yr,"1. PhD degree in Computer Science, or a related technical field, or equivalent practical experience.
 2. Experience coding in one of the following programming languages including but not limited to: C, C++, Java, JavaScript, Python, or Golang.",not sure,
-"Machine Learning Analyst, Google Cloud Protection Analytics",2025-03-23,https://jobright.ai/jobs/info/67a633bebb1d8ddccb2738ba?utm_source=1100&utm_campaign=ml,On Site,"Seattle, WA",Google,10000+,"Apps,Artificial Intelligence (AI)",$105000-$151000 /yr,"1. Bachelor's degree or equivalent practical experience.
-2. 1 year of experience in data analysis, including identifying trends, generating summary statistics, and drawing insights from quantitative and qualitative data.
-3. 1 year of experience managing projects and defining project scope, goals, and deliverables.",not sure,
 "Research Scientist, Generalist Embodied Agent Research - New College Grad 2025",2025-03-23,https://jobright.ai/jobs/info/67342414c10132382d26ab51?utm_source=1100&utm_campaign=ml,Remote,"Multi Location
 United States
 Santa Clara, CA",NVIDIA,10000+,"Artificial Intelligence (AI),GPU",$160K-$299K /yr,"1. Ph.D. in Computer Science/Engineering, Electrical Engineering, etc., or equivalent research experience
@@ -50,6 +64,15 @@ Santa Clara, CA",NVIDIA,10000+,"Artificial Intelligence (AI),GPU",$160K-$299K /y
 4. Excellent knowledge and hands-on experience for training LLMs, multimodal foundation models, or large generative models
 5. Experience in foundation and diffusion models, reinforcement learning, agent learning, and applied robotics
 ...",not sure,
+Machine Learning Engineer - New Verticals,2025-03-22,https://jobright.ai/jobs/info/674806f809481c6ac0a4a28f?utm_source=1100&utm_campaign=ml,On Site,"Multi Location
+Los Angeles, CA
+Seattle, WA
+San Francisco, CA
+New York, NY",DoorDash,10000+,"Apps,Delivery",$137100-$201600 /yr,"1. 1+ years of industry experience post PhD or 3+ years of industry experience post graduate degree of developing machine learning models with business impact
+2. Experience with machine learning methods in Recommendation System, Search, Causal Inference, Optimization, Time Series, Natural Language Processing, Large Language Model, Computer Vision.
+3. Machine learning background in Python; experience with PyTorch, TensorFlow, or similar frameworks.
+4. M.S., or PhD. in Statistics, Computer Science, Math, Operations Research, Physics, Economics, or other quantitative fields.
+5. The desire for impact with a growth-minded and collaborative mindset",not sure,
 Research Scientist in Large Language Model Agent Graduates (AML) - 2024 Start (PhD),2025-03-22,https://jobright.ai/jobs/info/67be41e53dc4fea871f7aae8?utm_source=1100&utm_campaign=ml,On Site,"Seattle, WA",ByteDance,10000+,"Content,Data Mining",$138K-$238K /yr,"1. Strong sense of responsibility, good learning ability, communication ability, and self-motivation.
 2. Good communication and collaboration skills, able to explore new technologies with the team and promote technological progress.",not sure,
 "ML Engineer Graduate, TikTok Social -2025 Start (PhD)",2025-03-22,https://jobright.ai/jobs/info/67c1dba21b65c5ee35a9af30?utm_source=1100&utm_campaign=ml,On Site,"San Jose, CA",TikTok,10000+,"Content Creators,Content Discovery",$138K-$238K /yr,"1. PhD or equivalent degree with a background in computer science, machine learning, or similar fields.
@@ -220,10 +243,10 @@ Postdoctoral Appointee — Data Infrastructure and Software for AI,2025-03-20,ht
 5. Ability to model Argonne’s Core Values: Impact, Safety, Respect, Integrity, and Teamwork.",not sure,
 AI / ML Engineer,2025-03-20,https://jobright.ai/jobs/info/67dc8f3d90fecdfaed60d644?utm_source=1100&utm_campaign=ml,On Site,"Multi Location
 Atlanta, GA
-US - Remote (Any location)
 US - VA, Arlington
+US - VA, McLean
 US - GA, Atlanta
-US - VA, McLean",Guidehouse,10000+,"Advice,Consulting",$89000-$148000 /yr,"1. Bachelor's degree is required
+US - Remote (Any location)",Guidehouse,10000+,"Advice,Consulting",$89000-$148000 /yr,"1. Bachelor's degree is required
 2. Minimum ONE (1) year experience in building production-grade AI/ML systems and data products using best practices in software engineering.
 3. Familiarity with financial data sources, regulations, and industry-specific use cases such as fraud, know-your-customer, forecasting, credit risk management, pricing and revenue optimization, Fair Lending, and/or ESG among others.
 4. Ability to analyze large and complex data sets, with strong aptitude for conducting quantitative and qualitative analysis focused on financial services use cases.
@@ -248,12 +271,6 @@ Menlo Park, CA",Meta,10000+,Internet,US$117000-US$173000 /yr,"1. Currently has, 
 3. Experience in state-of-the-art deep learning models architecture design and deep learning training and optimization and model pruning
 4. Experience programming in Java, C++, Python or related language
 5. Experience with SQL and an RDBMS (e.g., Oracle) or Data Warehouse",not sure,
-"Software Dev Engineer - Machine Learning Apps, Accelerator, Annapurna ML",2025-03-20,https://jobright.ai/jobs/info/67dbb72fc68cf9169fc15ac7?utm_source=1100&utm_campaign=ml,On Site,"Multi Location
-Seattle, WA
-Cupertino, CA",Amazon,10000+,"Crowdsourcing,Delivery",$100K-$200K /yr,"1. Currently enrolled in, or completed a Bachelor’s degree program or higher in Computer Science, Computer Engineering, Electrical Engineering or related field
-2. To qualify, applicants should have earned a Bachelor’s or Master’s degree between May 2023 to September 2025. Possible start dates for this role are between January 2025 to October 2025.
-3. Programming experience in internship or coursework with programming language such as Python and/or C or C++.
-4. Candidates with strong interests and academic qualifications/research focus in two of the following: Distributed systems, algorithms (MPI, NCCL, or similar), Operating System - Linux system programming/services, Computer architecture, System Development, Complexity analysis",not sure,
 Research Scientist Graduate (Monetization GenAI - Multimodality) - 2025 Start (BS/MS),2025-03-20,https://jobright.ai/jobs/info/67bdef24d5a82643618490a1?utm_source=1100&utm_campaign=ml,On Site,"San Jose, CA",TikTok,10000+,"Content Creators,Content Discovery",$112K-$250K /yr,"1. BS/MS in computer science, machine learning, or similar fields
 2. Hands-on experience of developing multimodality foundation models and work or internship experience in an AI research organization is a plus
 3. Strong publications record in top conferences or journals (e.g., NeurIPS, ICML, ICLR, CVPR, etc)",not sure,yes
@@ -281,6 +298,10 @@ Post-Doc AI,2025-03-20,https://jobright.ai/jobs/info/67bf3bad2b3ed3bc5e1bf0ca?ut
 4. large-scale training, RLHF, and generative AI
 5. Highly competent in algorithms and programming
 ...",not sure,
+"Research Scientist Graduate- CV/NLP/Multimodal LLM, Trust and Safety - 2025 Start (PhD)",2025-03-20,https://jobright.ai/jobs/info/67bdef24d5a82643618490ce?utm_source=1100&utm_campaign=ml,On Site,"Seattle, WA",TikTok,10000+,"Content Creators,Content Discovery",$138K-$238K /yr,"1. PhD degree in computer science or a related technical discipline
+2. Related Research Experience at least one of the following areas: computer vision, multimodality, LLM
+3. Be proficient with at least one deep learning framework (e.g. PyTorch, TensorFlow)
+4. Have excellent analytical and problem-solving skills, logical thinking skills, communication and collaboration skills",not sure,yes
 AI Research Engineer,2025-03-19,https://jobright.ai/jobs/info/67db79410016deaf93d79d9c?utm_source=1100&utm_campaign=ml,On Site,"Multi Location
 Menlo Park, CA
 New York, NY",Meta,10000+,Internet,US$56.25-US$137000 /hr,"1. Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta.
@@ -308,16 +329,16 @@ Seattle, WA",DoorDash,10000+,"Apps,Delivery",$137100-$201600 /yr,"1. 1+ years of
 4. Experience with language models and apply them in various downstream tasks, especially for intelligent editing.
 5. Experience in large-scale training and RLHF.
 ...",not sure,
-Senior Machine Learning Performance Engineer,2025-03-19,https://jobright.ai/jobs/info/67db47f85111e182c5d9d8a5?utm_source=1100&utm_campaign=ml,On Site,"Santa Clara, CA",XPENG,10000+,"Automotive,Autonomous Vehicles",$174720-$295680 /yr,"1. Master or PhD in CS/CE/EE, or equivalent, with 0-3 years of industry experience. Open to recent graduates.
-2. Strong expertise in C++ and Python.
-3. In-depth understanding of computer architecture and high-performance computing.
-4. Proven experience in application performance analysis and optimization.",not sure,yes
 (General Hire) Machine Learning Scientist Graduate - TikTok Recommendation - 2025 Start (PhD),2025-03-19,https://jobright.ai/jobs/info/67be3b5b9a4703b92b37d9f0?utm_source=1100&utm_campaign=ml,On Site,"San Jose, CA",TikTok,10000+,"Content Creators,Content Discovery",$138K-$238K /yr,"1. PhD degree or equivalent degree with a background in computer science, machine learning, or similar fields.
 2. Good knowledge of theoretical and empirical research in addressing research problems
 3. Solid knowledge and experience with at least one popular deep learning framework (e.g., PyTorch, TensorFlow) and familiarity with deep neural network architectures",not sure,yes
 "Applied Scientist Graduate (TikTok E-Commerce - Conversational AI), USDS",2025-03-19,https://jobright.ai/jobs/info/67db4d420922024e73cc0896?utm_source=1100&utm_campaign=ml,Hybrid,"Seattle, WA",TikTok,10000+,"Content Creators,Content Discovery",$118657-$168150 /yr,"1. Bachelor's degree in Computer Science or related technical field
 2. Experience in one of the following fields: machine learning, NLP, and computer vision
 3. Experience with software development in at least one of the following programming languages: C++, Python, Go, Java",not sure,
+Senior Machine Learning Performance Engineer,2025-03-19,https://jobright.ai/jobs/info/67db47220fed1d95ebcc5089?utm_source=1100&utm_campaign=ml,On Site,"Santa Clara, CA",XPENG,10000+,"Automotive,Autonomous Vehicles",$174720-$295680 /yr,"1. Master or PhD in CS/CE/EE, or equivalent, with 0-3 years of industry experience. Open to recent graduates.
+2. Strong expertise in C++ and Python.
+3. In-depth understanding of computer architecture and high-performance computing.
+4. Proven experience in application performance analysis and optimization.",not sure,yes
 "Machine Learning Engineer, Recommendations - USDS",2025-03-19,https://jobright.ai/jobs/info/67db3bf5168a55f5026052d1?utm_source=1100&utm_campaign=ml,Hybrid,"Seattle, WA",TikTok,10000+,"Content Creators,Content Discovery",$137750-$237500 /yr,"1. Bachelor's degree or higher in Computer Science or related fields.
 2. Strong programming and problem-solving ability.
 3. This role is open to PhD New Grads or MS Grads with 1-3 years of experience in applied machine learning, familiar with one or more of the algorithms such as Collaborative Filtering, Matrix Factorization, Factorization Machines, Word2vec, Logistic Regression, Gradient Boosting Trees, Deep Neural Networks, Wide and Deep etc.
@@ -488,12 +509,12 @@ ML-Driven Energy Materials Innovation Postdoctoral Fellow,2025-03-18,https://job
 4. Expertise in developing data pipelines for computational chemistry experiments.
 5. Fluency with Python and Linux.
 ...",not sure,
-"Software Engineer, Legal Prompter",2025-03-18,https://jobright.ai/jobs/info/67d9db7e4c43931006cc049e?utm_source=1100&utm_campaign=ml,Hybrid,"Multi Location
-Ann Arbor, MI
+"Software Engineer, Legal Prompter",2025-03-18,https://jobright.ai/jobs/info/67d9db7e4c43931006cc049d?utm_source=1100&utm_campaign=ml,Hybrid,"Multi Location
 Frisco, TX
+Ann Arbor, MI
 Eagan, MN
-USA-MSP-2900 Ames Crossing Road
 USA-Frisco-6160 Warren Parkway
+USA-MSP-2900 Ames Crossing Road
 USA-Ann Arbor-6300 Interfirst Dr",Thomson Reuters,10000+,"Advice,Analytics",$70000-$130000 /yr,"1. Legal domain expertise. This can mean experience in legal practice, a JD-holder in a 'non-traditional' legal career path, a paralegal, or legal industry experience
 2. One to two years of production level experience in software engineering on an engineering/product team, preferably at a startup
 3. Proficiency in Python - if Python skills are low, then strong experience in other programming languages is necessary
@@ -529,17 +550,15 @@ Machine or Deep Learning - Biostatistics,2025-03-17,https://jobright.ai/jobs/inf
 2. Must have an interest in 100% 'dry' research or research that is half 'dry' and half 'wet'.
 3. Candidates who have switched from 100% 'wet' research backgrounds are also welcome to apply, as long as he/she has demonstrated a keen interest in, has a decent exposure to, and has a clear potential for 'dry' research.
 4. Please submit two letters of reference and please provide a link to your most recent publications in peer reviewed journals.",not sure,yes
-Data Science/ML Postdoctoral Researcher,2025-03-17,https://jobright.ai/jobs/info/67be78f9ac04acdcaae0a6dc?utm_source=1100&utm_campaign=ml,On Site,"Idaho Falls, ID",Idaho National Laboratory,1001-5000,"Biofuel,Energy",$101196-$101196 /yr,"1. PhD in Computer Science with an emphasis in Machine Learning, Electrical Engineering, Chemistry, Chemical Engineering, Mechanical Engineering or related disciplines.
-2. PhD requirements must be completed by commencement of appointment and within the previous 5 years.
-3. Expertise in utilizing Data Science/ML methodologies for detecting and identifying failure modes.
-4. Proficient in Machine Learning technologies, with a focus on developing Transfer Learning techniques and Bayesian Design Optimization such as Gaussian Processes and Gaussian Mixture Models.
-5. Proficiency in Python programming.
-...",not sure,
 TikTok Shop - Moderation Large Model Prompt Operations Specialist,2025-03-17,https://jobright.ai/jobs/info/67d803cfda4d434cb7711152?utm_source=1100&utm_campaign=ml,On Site,"Seattle, WA",TikTok,10000+,"Content Creators,Content Discovery",$91200-$160444 /yr,"1. Bachelor's degree or higher, preferably in Computer Science, Data Science, Linguistics, Data Analyst, Business Analyst or related fields.
 2. 1-3 years of relevant experience, preferably in e-commerce, content review, natural language processing (NLP), or large model prompt design.
 3. Strong logical thinking skills, capable of translating review rules into technical solutions.
 4. Proficient in data analysis tools (such as Excel, SQL, Python), able to drive decision-making through data analysis.
 5. Fluent in Mandarin and English to facilitate the calibration between global teams.",not sure,
+"Software Engineer - AI/ML, Multiple Locations",2025-03-16,https://jobright.ai/jobs/info/67e0ee6bfb2bd97030119aec?utm_source=1100&utm_campaign=ml,On Site,"Multi Location
+Redmond, WA
+United States",Microsoft,10000+,"Artificial Intelligence (AI),Data Management",$82K-$175K /yr,"1. Bachelor's Degree (or currently pursuing a degree) in Computer Science or related technical discipline with proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python.
+2. OR equivalent experience.",not sure,
 Research Scientist,2025-03-16,https://jobright.ai/jobs/info/67d6df87e195f22c31e6e2e9?utm_source=1100&utm_campaign=ml,Hybrid,"San Francisco County, CA",Waabi,51-100,"Artificial Intelligence (AI),Automotive",$158000-$269000 /yr,"1. Masters/PhD degree in Computer Science, AI, Machine Learning, Computer Vision, Robotics and/or similar technical field(s) of study. Exceptional Bachelor’s students will also be considered.
 2. Demonstrated research experience through previous internships, work experience, research projects, and papers at top conferences.
 3. Strong quantitative background and coursework in or working knowledge of linear algebra, calculus, and probability.
@@ -751,15 +770,6 @@ Research Engineer Graduate (Vision AI Platform - San Jose) - 2025 Start (BS/MS),
 Research Engineer Graduate (Vision AI Platform - Seattle）- 2025 Start (BS/MS),2025-03-13,https://jobright.ai/jobs/info/67d2df55fb11b68fc00d8a64?utm_source=1100&utm_campaign=ml,On Site,"Seattle, WA",ByteDance,10000+,"Content,Data Mining",$178K-$266K /yr,"1. Research and engineering experience in one or more areas of computer vision and natural language processing, including but not limited to.
 2. Work and collaborate well with team members.
 3. Ability to work independently; Strong communication skills.",not sure,yes
-Machine Learning Engineer - New Verticals,2025-03-13,https://jobright.ai/jobs/info/67405662d4abed11fa119b55?utm_source=1100&utm_campaign=ml,On Site,"Multi Location
-Seattle, WA
-San Francisco, CA
-New York, NY
-Los Angeles, CA",DoorDash,10000+,"Apps,Delivery",$137100-$201600 /yr,"1. 1+ years of industry experience post PhD or 3+ years of industry experience post graduate degree of developing machine learning models with business impact
-2. Experience with machine learning methods in Recommendation System, Search, Causal Inference, Optimization, Time Series, Natural Language Processing, Large Language Model, Computer Vision.
-3. Machine learning background in Python; experience with PyTorch, TensorFlow, or similar frameworks.
-4. M.S., or PhD. in Statistics, Computer Science, Math, Operations Research, Physics, Economics, or other quantitative fields.
-5. The desire for impact with a growth-minded and collaborative mindset",not sure,
 Visualization Specialist - Junior,2025-03-13,https://jobright.ai/jobs/info/67b6ad4c550ef83348dfa7e3?utm_source=1100&utm_campaign=ml,On Site,"Washington, DC",Gensler,5001-10000,"Architecture,Collaborative Consumption",$65K-$72K /yr,"1. Bachelor’s degree in Architecture, Engineering, computer science or equivalent with 0-3 years of experience in the AEC industry
 2. Beginner to intermediate knowledge of AI visualization workflows
 3. Knowledge of Adobe Creative Cloud Suite
@@ -1132,8 +1142,6 @@ Machine Learning Engineer Graduate (AML Algorithm) - 2025 Start (PhD),2025-03-10
 3. Familiar with deep learning frameworks (TensorFlow/Pytorch).
 4. Ability to work independently and complete projects from beginning to end and in a timely manner.
 5. Good communication and teamwork skills to clearly communicate technical concepts with other teammates.",not sure,yes
-"Software Engineer - AI/ML, Multiple Locations",2025-03-10,https://jobright.ai/jobs/info/67b5968a4aa0d8414d944da4?utm_source=1100&utm_campaign=ml,Remote,United States,Microsoft,10000+,"Artificial Intelligence (AI),Data Management",$82K-$175K /yr,"1. Bachelor's Degree (or currently pursuing a degree) in Computer Science or related technical discipline with proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python.
-2. OR equivalent experience.",not sure,
 "Software Engineer, Machine Learning (Modeling and Tuning)",2025-03-10,https://jobright.ai/jobs/info/67beea0ca259eac099e9f033?utm_source=1100&utm_campaign=ml,On Site,"San Francisco, CA",Cisco ThousandEyes,1001-5000,"Cloud Computing,Cloud Infrastructure",$152K-$166K /yr,"1. 1+ years of software development experience in building and evaluating ML models and delivering large-scale ML products.
 2. MS or PhD in a relevant field
 3. Proficient in crafting machine learning models, your expertise spans neural networks including transformer models, Large Language Models, decision trees, and other traditional machine learning models, translating conceptual ideas into actual solutions.
@@ -1305,10 +1313,10 @@ Research Scientist Graduate (Monetization GenAI - Multimodality) - 2025 Start (P
 3. Good analytical thinking capability. Have essential knowledge and skills in statistics.
 4. Good theoretical grounding in the machine and deep learning concepts and techniques (CNN/RNN/LSTM, etc.).
 5. Familiar with the architecture and implementation of at least one mainstream machine learning programming framework (TensorFlow/PyTorch/MXNet), familiar with its architecture and implementation mechanism.",not sure,
-"Fundamental AI Research Scientist, Language - FAIR",2025-03-05,https://jobright.ai/jobs/info/67d27b4c1e67c1f05b9b06f7?utm_source=1100&utm_campaign=ml,On Site,"Multi Location
+"Fundamental AI Research Scientist, Language - FAIR",2025-03-05,https://jobright.ai/jobs/info/67d27b4c1e67c1f05b9b0872?utm_source=1100&utm_campaign=ml,On Site,"Multi Location
+New York, NY
 Seattle, WA
-Menlo Park, CA
-New York, NY",Meta,10000+,Internet,US$117000-US$173000 /yr,"1. Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta.
+Menlo Park, CA",Meta,10000+,Internet,US$117000-US$173000 /yr,"1. Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta.
 2. Ph.D. and publications in AI, computer science, data science, or related technical fields.
 3. First-authored publications at peer-reviewed conferences, such as ICML, NeuRIPS, ICLR, ACL, EMNLP, and other similar venues
 4. Experience holding a postdoctoral, faculty, industry, or government researcher position
@@ -1466,12 +1474,6 @@ Machine Learning Engineer Graduate (Large Language Models & Generative AI-US) - 
 4. Exceptional problem-solving skills with the ability to think critically and creatively
 5. Knowledge, passion, curiosity, and exposure to areas in Machine Learning / Artificial intelligence
 ...",not sure,yes
-"Research Scientist- Foundation Model, Generative AI",2025-03-01,https://jobright.ai/jobs/info/67c32ef267359cca39473986?utm_source=1100&utm_campaign=ml,On Site,"Seattle, WA",ByteDance,10000+,"Content,Data Mining",$130K-$195K /yr,"1. 1-3 years of research and practical experience in one or more areas of computer vision, including but not limited to multimodal generation, such as text-to-image/video/3D generation and editing, and other related multimodal experiences
-2. image generation, video generation, 3D generation
-3. diffusion model, GAN, transformer for generation tasks
-4. large-scale training, RLHF, and generative AI
-5. Highly competent in algorithms and programming
-...",not sure,
 Machine Learning Engineer Graduate (Ads Measurement Signal and Privacy Technology) - 2025 Start (PhD),2025-03-01,https://jobright.ai/jobs/info/67c3275c81697e4b7053f37b?utm_source=1100&utm_campaign=ml,On Site,"San Jose, CA",TikTok,10000+,"Content Creators,Content Discovery",$114K-$355K /yr,"1. PhD degree in Computer Science, Computer Engineering, or other relevant majors.
 2. Solid programming skills, including but not limited to: Go, C/C++, Python. Familiar with basic data structure and algorithms.
 3. Good analytical thinking capability. Have essential knowledge and skills in statistics.
@@ -1520,8 +1522,8 @@ AI Research Scientist,2025-02-28,https://jobright.ai/jobs/info/67de9372d5e015ca2
 "Software Engineer, Language - Wearables",2025-02-28,https://jobright.ai/jobs/info/67c1be2d7c2e39d61d152577?utm_source=1100&utm_campaign=ml,On Site,"Multi Location
 Menlo Park, CA
 Redmond, WA
-Burlingame, CA
-New York, NY",Meta,10000+,Internet,$56-$56 /hr,"1. Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta.
+New York, NY
+Burlingame, CA",Meta,10000+,Internet,$56-$56 /hr,"1. Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta.
 2. Experience in one or more of the following areas: ASR, TTS, NLP, Conversational AI, Machine Learning or Artificial Intelligence
 3. Experience developing machine learning algorithms or machine learning infrastructure in C/C++ or Python",not sure,
 AI Engineer,2025-02-28,https://jobright.ai/jobs/info/67a28f46ce3af7b838d751e5?utm_source=1100&utm_campaign=ml,Hybrid,"Sunnyvale, CA",LinkedIn,10000+,"Professional Networking,Recruiting",$111K-$183K /yr,"1. Bachelor's degree in Computer Science or related technical field or equivalent technical experience
@@ -1568,10 +1570,6 @@ Machine Learning Engineer Graduate (CV/NLP/Multimodal LLM- TikTok Trust and Safe
 2. Hands-on or academic experience in one or more of the following areas: Machine learning, Large Language Models, Recommendation Systems, and related areas.
 3. Strong coding skills.
 4. Curiosity towards new technologies and entrepreneurship, good communication and teamwork skills.",not sure,yes
-"Research Scientist Graduate- CV/NLP/Multimodal LLM, Trust and Safety - 2025 Start (PhD)",2025-02-25,https://jobright.ai/jobs/info/67bdef24d5a82643618490ce?utm_source=1100&utm_campaign=ml,On Site,"Seattle, WA",TikTok,10000+,"Content Creators,Content Discovery",$138K-$238K /yr,"1. PhD degree in computer science or a related technical discipline
-2. Related Research Experience at least one of the following areas: computer vision, multimodality, LLM
-3. Be proficient with at least one deep learning framework (e.g. PyTorch, TensorFlow)
-4. Have excellent analytical and problem-solving skills, logical thinking skills, communication and collaboration skills",not sure,yes
 Machine Learning Research Scientist,2025-02-25,https://jobright.ai/jobs/info/672166a1c862284b995070fd?utm_source=1100&utm_campaign=ml,Hybrid,"College Park, MD",Peraton Labs,10000+,"Consulting,Information Services",$80K-$128K /yr,"1. Bachelors w/ 2 years of experience or Masters with 0 years of experience with a Computer Science related degree
 2. Experience coding within one or more of the following: Python, C/C++ or Java
 3. Interest and/or experience in one or more of the following domains: digital signal processing, RF software engineering, algorithm development, software defined radio, and machine learning
@@ -1582,9 +1580,3 @@ Machine Learning Engineer - Foundation Model,2025-02-24,https://jobright.ai/jobs
 3. Knowledge of model training framework (e.g. PyTorch Lightning)
 4. Knowledge of transformer architecture and ways to accelerate the training and inference of transformer models
 5. Experience of using pytorch ddp for distributed training of models",not sure,
-"C++/Machine Learning Engineer, AI Models Training",2025-02-21,https://jobright.ai/jobs/info/67b90bb6462845fc17bf803b?utm_source=1100&utm_campaign=ml,On Site,"Santa Clara, California, United States",Tenstorrent,101-250,"Application Specific Integrated Circuit (ASIC),Artificial Intelligence (AI)",$100000-$500000 /yr,"1. Bachelor's or higher degree in Computer Science, Engineering, or related field (or equivalent practical experience).
-2. Strong c++ and low level programming expertise.
-3. Linear algebra knowledge.
-4. Demonstrated experience in designing, training, and deploying neural networks for various applications.
-5. Solid understanding of machine learning fundamentals, including supervised and unsupervised learning techniques.
-...",no,
