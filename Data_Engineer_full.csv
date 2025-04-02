@@ -1,4 +1,16 @@
 Position Title,Date,Apply,Salary,Work Model,Company,Company Size,Company Industry,Location,Qualifications,H1b Sponsored,Is New Grad
+Data Platform Engineer,2025-04-01,https://jobright.ai/jobs/info/67eca0deb109dbb348c6b71f?utm_source=1114&utm_campaign=New Grad Data Engineer,$144000-$216000 /yr,On Site,AppLovin,501-1000,"Advertising,Developer Tools","Palo Alto, CA","1. Minimum 1 year+ of meaningful professional experience
+2. Have a Bachelor’s and/or Master’s Degree in Computer Science or a related field
+3. Have used Java or Scala in a professional environment for at least 1 year
+4. Strong algorithms experience
+5. Have some experience with big data systems, like Apache Spark, big data processing, big data processing, big data pipelines, HDFS, etc.
+...",not sure,
+Data Engineer,2025-04-01,https://jobright.ai/jobs/info/67ec5b27d261ab71c371701b?utm_source=1114&utm_campaign=New Grad Data Engineer,$80K-$110K /yr,Remote,hims & hers,501-1000,"Health Care,Lifestyle",United States,"1. A Bachelor’s degree in Computer Science/Engineering or are in the process of obtaining a Master’s degree
+2. 1-3 years of experience from internships, work, or projects in a related field
+3. Proficiency in at least one major programming language (e.g., Python, Scala, Java), Python’s data-related libraries (Pandas, NumPy, SciPy), and basic knowledge of any variant of SQL
+4. Experience with version control using Git
+5. Experience working with major cloud platforms, with AWS or GCP being a plus
+...",not sure,
 Junior Data Engineer,2025-04-01,https://jobright.ai/jobs/info/67ec112e8f84ebf56cde6b24?utm_source=1114&utm_campaign=New Grad Data Engineer,$55K-$68K /yr,On Site,ienjoy Home,11-50,"Email,Home Decor","Clearwater, FL","1. Bachelor's degree in Computer Science, Data Science, or a related field.
 2. Proven experience as a Data Engineer or in a similar role.
 3. Strong knowledge of data warehousing concepts and technologies.
@@ -28,12 +40,6 @@ Data Production Specialist,2025-03-31,https://jobright.ai/jobs/info/67eb06f0fb20
 3. Strong attention to detail and the ability to manage large datasets efficiently.
 4. Exceptional communication skills and the ability to collaborate with cross-functional teams.
 5. Excellent problem-solving skills and the ability to troubleshoot data issues.",no,
-"Engineer - Java, Springboot, Restful web services - Enterprise Data Management",2025-03-31,https://jobright.ai/jobs/info/67e78ca7fd5bd212f9da6837?utm_source=1114&utm_campaign=New Grad Data Engineer,$70000-$135000 /yr,Hybrid,American Express,501-1000,"Debit Cards,Finance","Sunrise, FL","1. B.Tech. / B.E. / M.Tech. / M.S. in Computer Science or relevant field
-2. 1 to 3 years of experience in design and development of highly-scalable applications and platform development
-3. Extensive hands-on experience building services using these technologies (Java, Springboot, Microservices)
-4. In depth knowledge and Hands-on working experience on Restful web services
-5. Good Knowledge in messaging systems: Kafka/RabbitMQ
-...",not sure,
 Data Engineer 1,2025-03-31,https://jobright.ai/jobs/info/67b9819618f3b30eeae26f98?utm_source=1114&utm_campaign=New Grad Data Engineer,$93K-$115K /yr,Remote,Pax8,1001-5000,"Cloud Management,Enterprise Software","Colorado, United States","1. At least one (1) to three (3) years of relevant data engineering experience.
 2. Intermediate experience with the Python programming language.
 3. Intermediate experience with SQL.
@@ -239,9 +245,3 @@ Data Engineer,2025-03-03,https://jobright.ai/jobs/info/67c5f10f62a534f27eeb6d09?
 2. 1 - 3 years of experience in a data analytical role
 3. Expertise and experience in Python and manipulation of data to answer questions
 4. Experience with BI tools, SQL queries, and organizing and analyzing data",no,
-Data Engineer - USDS (Multiple Positions),2025-03-02,https://jobright.ai/jobs/info/67c7ee95ae5b1fa6a59ca964?utm_source=1114&utm_campaign=New Grad Data Engineer,$170227-$250000 /yr,On Site,TikTok,10000+,"Content Creators,Content Discovery",Mountain View,"1. Must have a Master's degree in Computer Science, Engineering (any), Information Technology, Machine Learning, Data Science, Business Analytics, Operations Research, Statistics, Mathematics, or a related field, and 1 year of related work experience; OR a Bachelor's degree in Computer Science, Engineering (any), Information Technology, Machine Learning, Data Science, Business Analytics, Operations Research, Statistics, Mathematics, or a related field, and 3 years of related work experience.
-2. Of the required experience, must have 1 year of experience in each of the following:
-3. Designing and modeling data warehouses to support data analytics, reporting, and data applications;
-4. Implementing data warehouse and ETL processes using Hive, Spark, Hadoop, or SQL Server to optimize the data processing performance;
-5. Programming using SQL, Python, or Java;
-...",not sure,
