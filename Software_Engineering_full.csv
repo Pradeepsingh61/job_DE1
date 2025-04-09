@@ -1,13 +1,101 @@
 Position Title,Date,Apply,Work Model,Location,Company,Company Size,Company Industry,Salary,Qualifications,H1b Sponsored,Is New Grad
-Application Developer,2025-04-08,https://jobright.ai/jobs/info/67f4deaf9d761cb4e54dd115?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
-Lake Forest, IL
-Chicago, IL","Impact Networking, LLC",501-1000,"Consulting,Cyber Security",$75000-$90000 /yr,"1. At least 1 year of full-stack application development experience, including front-end and back-end technologies
-2. Strong proficiency in JavaScript, TypeScript, Node.js, C#, .NET, and Java
-3. Experience designing and integrating REST APIs
-4. An interest around AI, LLMs, and using it to build better things
-5. Knowledge of cloud platforms, particularly Azure, including services like Blob Storage, App Services, and Function Apps
+Security Software Engineer - 2025 Grad,2025-04-08,https://jobright.ai/jobs/info/67f55d1b74d1937bf117696d?utm_source=1100&utm_campaign=Software Engineering,Hybrid,"Cambridge, MA",Kensho Technologies,51-100,"Analytics,Cloud Data Services",$120000-$140000 /yr,"1. At least one core expertise, such as distributed computing or deep knowledge of one of the technologies we use
+2. Practical understanding of algorithms, data structures, and design patterns
+3. Personal projects, open source contributions, or a portfolio of work
+4. Versatility and adaptability to contribute across various teams and/or suite of products
+5. Effective coding, documentation, and communication habits",not sure,
+SAP Developer Junior,2025-04-08,https://jobright.ai/jobs/info/67f55c015d8582c1fb5fba8f?utm_source=1100&utm_campaign=Software Engineering,Remote,Any Location / Remote,General Dynamics Information Technology,10000+,"Artificial Intelligence (AI),Cloud Computing",$69700-$94300 /yr,"1. 2 + years of related experience
+2. Education: Technical Training, Certification(s) or Degree
+3. Required Experience: 1 to 3 years of related experience
+4. Required Technical Skills: Experience with ABAP Workbench tools such as ABAP Dictionary, ABAP Editor, Area Menus, SAP Odata Services.
+5. Understanding of SAP-specific integration technologies, including but not limited to IDOC, OData, REST, Web Services, SLT, ODP, and others
+...",no,
+"Software Engineer I, Recent Graduate",2025-04-08,https://jobright.ai/jobs/info/675900b46d89e3628d9e3c63?utm_source=1100&utm_campaign=Software Engineering,Hybrid,United States,Acorns,501-1000,"Finance,Financial Services",$120K-$130K /yr,"1. Currently pursuing a Bachelor’s degree in computer science, software engineering, machine learning, mathematics, statistics, or a related field
+2. Required: Senior standing (Graduating 2025)
+3. Excellent command of one or more programming languages; Java, Scala, Ruby, Swift, Kotlin, Typescript, or Javascript
+4. Exceptional communication skills (verbal, written, and presentation)
+5. Hunger to learn new technologies
+...",no,
+Full Stack Developer (Angular + Java Spring Boot),2025-04-08,https://jobright.ai/jobs/info/67f54999302ed921c1a75084?utm_source=1100&utm_campaign=Software Engineering,Remote,"Rochester, MN",Trissential,101-250,Consulting,$111000-$121000 /yr,"1. Proficiency in Angular (recent versions), TypeScript, NgRx/Redux, SCSS
+2. Solid experience with Java, Spring Boot, Hibernate/JPA
+3. Expertise in RESTful API development and OAuth 2.0 authentication
+4. Strong SQL skills including schema design and query optimization with MS SQL Server
+5. Experience using Liquibase, Maven, Swagger, and Git
+...",no,
+2025 Associate Software Engineer/Software Engineer - Woodland Hills CA,2025-04-08,https://jobright.ai/jobs/info/67f559df44728b798cd4e006?utm_source=1100&utm_campaign=Software Engineering,On Site,"Los Angeles, CA",Northrop Grumman,10000+,"Aerospace,Data Integration",$72K-$131K /yr,"1. Be completing or has completed their degree (Bachelor’s, Master’s, or PhD) from an accredited institution
+2. Be majoring in or having majored in a STEM (Science, Technology, Engineering or Math) degree
+3. Be able to obtain a U.S. Government security clearance (U.S. citizenship is a pre-requisite)
+4. The ability to obtain Special Access Program within a reasonable period of time, as determined by the company to meet its business needs",no,
+Software Engineer - Service Platform,2025-04-08,https://jobright.ai/jobs/info/67f11dd4e9e506649e10563f?utm_source=1100&utm_campaign=Software Engineering,Hybrid,Greater Seattle Area,Truveta,251-500,"Analytics,Data Management",$94K-$120K /yr,"1. 1+ years of experience with software development in one or more programming languages (e.g., Java, C#, or Python), and with data structures/algorithms
+2. Understanding of basic software architecture principles, design patterns, and best practices
+3. Excellent problem-solving skills
+4. B.S. or M.S. in Computer Science or related field
+5. Have proven experience building reliable, secure and scalable software solutions using modern cloud-based paradigms
 ...",not sure,
-Platform Test Analyst - Calypso,2025-04-08,https://jobright.ai/jobs/info/67f4da126537d64b8a695249?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
+2025 University Graduate - Software Engineer (Bachelors Degree),2025-04-08,https://jobright.ai/jobs/info/67f534fb52344483daae1fda?utm_source=1100&utm_campaign=Software Engineering,On Site,"Santa Clara, CA",Applied Materials,10000+,"Electronics,Manufacturing",$104000-$143000 /yr,"1. Bachelor's Degree
+2. Up to 1 Year of experience",not sure,yes
+Infrastructure Engineer I - Technical Operations Center,2025-04-08,https://jobright.ai/jobs/info/67f5532635ea7273c923017f?utm_source=1100&utm_campaign=Software Engineering,On Site,"Sacramento, CA",Sutter Health,10000+,"Health Care,Hospital",$36-$54 /hr,"1. HS Diploma or General Education Diploma (GED)
+2. First-level troubleshooting and monitoring of enterprise-class server hardware, software, SAN, network, voice systems, and related technologies
+3. Ability to document issues, solutions, and standard procedures accurately to support internal knowledge sharing and continuity
+4. Practical experience supporting both server and network environments in a professional IT setting
+5. Ability to perform minor system or network changes and manage those changes using ServiceNow Change Management or a similar ITSM tool
+...",not sure,
+Infrastructure Engineer II - Server,2025-04-08,https://jobright.ai/jobs/info/67f5532635ea7273c923011e?utm_source=1100&utm_campaign=Software Engineering,Hybrid,"Sacramento, CA",Sutter Health,10000+,"Health Care,Hospital",$44-$66 /hr,"1. Associate's in Information Systems Technical field
+2. 1 year recent relevant experience
+3. Experience troubleshooting and monitoring enterprise-class server hardware in both data center and edge compute environments
+4. Ability to maintain accurate technical documentation and contribute to internal knowledge bases
+5. Proficiency with VMware infrastructure and patching Windows servers
+...",not sure,
+Infrastructure Engineer II - Network,2025-04-08,https://jobright.ai/jobs/info/67f5532635ea7273c9230138?utm_source=1100&utm_campaign=Software Engineering,Hybrid,"Sacramento, CA",Sutter Health,10000+,"Health Care,Hospital",$44-$66 /hr,"1. Associate's in Information Systems Technical field
+2. 1 year recent relevant experience
+3. Proven experience troubleshooting and monitoring enterprise-level networks, including Data Center, Campus, WAN, and Wireless environments
+4. Demonstrated ability to maintain accurate documentation and contribute to knowledge management systems
+5. Hands-on experience in a multi-platform network infrastructure, including technologies from Cisco, Palo Alto Networks, Aruba, F5, and similar vendors
+...",not sure,
+Junior Python Developer,2025-04-08,https://jobright.ai/jobs/info/67f52b2a00194027417c5ac6?utm_source=1100&utm_campaign=Software Engineering,On Site,NYC Metro Area,Luxoft,10000+,"Automotive,Consulting",$50000-$96000 /yr,"1. Bachelor's degree, or higher, in Computer Science, Engineering, Mathematics, or a related field.
+2. 1-3 years of full-time hands-on experience in a related role - SQL development and Python programming
+3. Strong proficiency in SQL (writing complex queries, performance tuning, and creating stored procedures)
+4. Knowledge of financial data systems, trading platforms, and market data is a significant advantage
+5. Basic knowledge of financial markets and quantitative finance
+...",not sure,
+"Software Engineer, SaaS Data Protection",2025-04-08,https://jobright.ai/jobs/info/67d947b95862b0b2c8727ea3?utm_source=1100&utm_campaign=Software Engineering,On Site,"Palo Alto, CA",Rubrik,1001-5000,"Cloud Computing,Cloud Data Services",$126500-$189700 /yr,"1. 1-2 years of experience in developing large-scale distributed systems
+2. Exceptional understanding of distributed systems
+3. Sound understanding of cloud architecture and internals for AWS, Azure, or GCP
+4. Proven experience in data structures, algorithms, software design, and systems analysis
+5. A degree in Computer Science or equivalent",not sure,
+Entry Level Cloud Engineer,2025-04-08,https://jobright.ai/jobs/info/67f20e23c8a9a40b7f483e33?utm_source=1100&utm_campaign=Software Engineering,On Site,DC-Baltimore Area,Dantech Corporation Inc.,11-50,"IT Infrastructure,Management Consulting",$52000-$50000 /yr,"1. Bachelor of Science Degree in IT, Sciences, or Math
+2. 1+ years of MS Word or Google Docs
+3. 1+ years of MS Excel or Google Sheets
+4. 1+ years of applying excellent customer service skills to requests for help
+5. 1+ years of experience troubleshooting and resolving technical issues
+...",no,
+Full Stack Developer I,2025-04-08,https://jobright.ai/jobs/info/67f535ff944392f66fa056e8?utm_source=1100&utm_campaign=Software Engineering,Remote,"Multi Location
+United States
+Collierville, TN",Federal Express Corporation,1001-5000,,$4881.62-$8461.48 /mon,"1. Bachelor's Degree/equivalent in computer science, engineering, or information systems and/or equivalent formal.
+2. Zero (0) to one(1) year experience in developing software code.
+3. Software development / programming.
+4. Ability to write code to interact with APIs
+5. Troubleshooting support tickets relating to software.
+...",not sure,yes
+Software Engineer,2025-04-08,https://jobright.ai/jobs/info/67f52d7d00194027417c618f?utm_source=1100&utm_campaign=Software Engineering,On Site,NYC Metro Area,River,101-250,"Bitcoin,Blockchain",$120000-$160000 /yr,"1. 0-4 years of experience, entry-level to early career
+2. Understanding of software engineering fundamentals
+3. Exposure to or eagerness to learn Elixir, Phoenix, and LiveView
+4. Ability to take ownership and write reliable, high-quality code",no,yes
+Epic Analyst II - MyChart / Epic Ambulatory,2025-04-08,https://jobright.ai/jobs/info/67d899afe4064f56d5a67505?utm_source=1100&utm_campaign=Software Engineering,On Site,"New York, NY",NYU Langone Health,10000+,"Education,Health Care",$81325.15-$119673.57 /yr,"1. Effective oral written communication and follow up skills
+2. Strong interpersonal relationship skills
+3. Strong desktop tool usage including Word, Excel and PowerPoint
+4. Self motivated detail oriented problem solver
+5. Requires 1-3 years of relevant experience and BA/BS Degree or equivalent
+...",not sure,
+Software Engineer I (Java & AWS),2025-04-08,https://jobright.ai/jobs/info/67f4ed4b7009b4b6f2dc5021?utm_source=1100&utm_campaign=Software Engineering,Hybrid,"Hartford, CT",Travelers,10000+,"Auto Insurance,Insurance",$96400-$159100 /yr,"1. Bachelor’s degree or its equivalent in work experience.
+2. One year of programming/development experience.
+3. Intermediate delivery skills including the ability to deliver work at a steady, predictable pace to achieve commitments, decompose work assignments into small batch releases and contribute to tradeoff and negotiation discussions.
+4. Demonstrated track record of domain expertise including the ability to understand technical concepts necessary to do the job effectively, demonstrate willingness, cooperation, and concern for business issues and possess in-depth knowledge of immediate systems worked on.
+5. Proven problem solving skills including debugging skills, allowing you to determine source of issues in unfamiliar code or systems and the ability to recognize and solve repetitive problems rather than working around them, recognize mistakes using them as learning opportunities and break down large problems into smaller, more manageable ones.
+...",not sure,
+Platform Test Analyst - Calypso,2025-04-08,https://jobright.ai/jobs/info/67f4e9ab83ca1e7ebe1fefb3?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
+Charlotte, NC
+Owensboro, KY
 Chicago, IL
 Irving, TX
 Milwaukee, WI
@@ -17,10 +105,8 @@ Gresham, OR
 Tempe, AZ
 Atlanta, GA
 Fargo, ND
-Oshkosh, WI
 Minneapolis, MN
-Charlotte, NC
-Owensboro, KY
+Oshkosh, WI
 Saint Louis, MO",U.S. Bank,10000+,"Banking,Financial Services",$98345-$127270 /yr,"1. Bachelor's degree, or equivalent work experience
 2. Typically one or more years of related experience",not sure,
 2025 University Graduate - Software Engineer (Bachelors Degree),2025-04-07,https://jobright.ai/jobs/info/67f4cf63908a42b4525375e7?utm_source=1100&utm_campaign=Software Engineering,On Site,"Santa Clara, CA",Applied Materials,10000+,"Electronics,Manufacturing",$104K-$143K /yr,"1. Bachelor's Degree
@@ -33,26 +119,26 @@ Software Developer (On-site Work Required),2025-04-07,https://jobright.ai/jobs/i
 ...",no,
 Android Engineer I – Digital Servicing,2025-04-07,https://jobright.ai/jobs/info/67f4af3f6c43301c571a8ccd?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
 Charlotte, NC
+Stamford, CT
 NYC Metro Area
-Costa Mesa, CA
-Stamford, CT",Synchrony,10000+,"Consumer Lending,Finance","$75,000-$120,000 /yr","1. Bachelor’s degree in Computer Science or related degree OR, in lieu of degree, High School Diploma with 2 years of experience with Android application development
+Costa Mesa, CA",Synchrony,10000+,"Consumer Lending,Finance","$75,000-$120,000 /yr","1. Bachelor’s degree in Computer Science or related degree OR, in lieu of degree, High School Diploma with 2 years of experience with Android application development
 2. You must be 18 years or older
 3. You must have a high school diploma or equivalent
 4. You must be willing to take a drug test, submit to a background investigation and submit fingerprints as part of the onboarding process
 5. You must be able to satisfy the requirements of Section 19 of the Federal Deposit Insurance Act.
 ...",no,
-Android Engineer I – Digital Servicing,2025-04-07,https://jobright.ai/jobs/info/67f4af3f6c43301c571a8cf1?utm_source=1100&utm_campaign=Software Engineering,Hybrid,"Multi Location
-NYC Metro Area
-Altamonte Springs, FL
+Android Engineer I – Digital Servicing,2025-04-07,https://jobright.ai/jobs/info/67f4af3f6c43301c571a8cf4?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
 Cincinnati, OH
-Dallas, TX
-Alpharetta, GA
+Costa Mesa, CA
+Altamonte Springs, FL
 Chicago, IL
 Charlotte, NC
-Costa Mesa, CA
-Stamford, CT
-Canton, OH
+Alpharetta, GA
+NYC Metro Area
+Dallas, TX
 Rapid City, SD
+Canton, OH
+Stamford, CT
 Kansas City, KS",Synchrony,10000+,"Consumer Lending,Finance",$75000-$120000 /yr,"1. Bachelor’s degree in Computer Science or related degree OR, in lieu of degree, High School Diploma with 2 years of experience with Android application development
 2. You must be 18 years or older
 3. You must have a high school diploma or equivalent
@@ -117,8 +203,8 @@ Dallas, TX
 Charlotte, NC
 Baltimore, MD
 Detroit, MI
-Houston, TX
 Denver, CO
+Houston, TX
 Phoenix, AZ
 Philadelphia, PA
 Palo Alto, CA
@@ -155,10 +241,6 @@ Salesforce Developer,2025-04-07,https://jobright.ai/jobs/info/67f49662bd2699df45
 4. Hands-on lightning development experience with Salesforce configuration, Apex classes and triggers, SOQL/SOSL, Aura, and Lightning Web Component (LWC).
 5. Understand and implement integration APIs (REST/SOAP) to communicate with internal/external components.
 ...",not sure,
-Software Engineer,2025-04-07,https://jobright.ai/jobs/info/67d29cad322be0c50c6efeef?utm_source=1100&utm_campaign=Software Engineering,On Site,"Raleigh, NC",River,101-250,"Bitcoin,Blockchain",$120K-$160K /yr,"1. 0-4 years of experience, entry-level to early career
-2. Understanding of software engineering fundamentals
-3. Exposure to or eagerness to learn Elixir, Phoenix, and LiveView
-4. Ability to take ownership and write reliable, high-quality code",no,yes
 Software Engineer - TrainingPeaks,2025-04-07,https://jobright.ai/jobs/info/67f4abe866d9897c28e8ff92?utm_source=1100&utm_campaign=Software Engineering,Hybrid,"Louisville, CO","Peaksware Holdings, LLC",11-50,Health Care,$80K-$134K /yr,"1. 0-15+ years experience working on challenging problems in complex language applications dependent upon level
 2. Familiarity with a variety of front and backend architectural patterns, frameworks, and libraries
 3. Familiarity with current and upcoming language features and best practices
@@ -172,6 +254,12 @@ Seattle, Washington, USA",Amazon,10000+,"Crowdsourcing,Delivery",$99500-$200000 
 2. To qualify, applicants should have earned a Bachelors degree or higher between October 2023 and October 2025 and/or graduated within the last 24 months.
 3. Possible start dates for this role are between June 2025 and December 2025.
 4. Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design.",not sure,
+Software Engineer,2025-04-07,https://jobright.ai/jobs/info/67f55d1b74d1937bf1176869?utm_source=1100&utm_campaign=Software Engineering,On Site,NYC,Category Labs,11-50,"Blockchain,Ethereum",$200000-$200000 /yr,"1. You are one of the following: A CS (or equivalent) undergraduate or MSCS student graduating no later than May 2025
+2. You have 0-3 years of software engineering experience
+3. You’re fluent in C++ or Rust
+4. You have taken an Operating Systems class and have excellent knowledge of operating systems fundamentals (concurrency, memory management)
+5. You’ve challenged yourself on advanced topics beyond the CS major requirements (topics like operating systems, RTOS, compilers, cryptography, performance engineering, parallel computing)
+...",not sure,yes
 "Application Developer, Associate",2025-04-07,https://jobright.ai/jobs/info/67f4564d762578f5754d68be?utm_source=1100&utm_campaign=Software Engineering,On Site,"Oakland, CA, United States",Blue Shield of California,5001-10000,"Financial Services,Health Insurance",$32.07-$44.90 /hr,"1. Contribute to the vision, lifecycle and implementation of our Member Mobile Application.",no,
 2025 Associate System Software Analyst/System Software Analyst - Pathways - Florida/Utah/California - R10190116-4,2025-04-07,https://jobright.ai/jobs/info/67f4d15e29ad9990992c7308?utm_source=1100&utm_campaign=Software Engineering,On Site,"San Diego, CA",Northrop Grumman,10000+,"Aerospace,Data Integration",$63900-$111000 /yr,"1. System Software Analyst: 2 Years with Bachelors in Science; 0 Years with Masters
 2. Associate System Software Analyst: 0 Years with Bachelors in Science
@@ -179,9 +267,10 @@ Seattle, Washington, USA",Amazon,10000+,"Crowdsourcing,Delivery",$99500-$200000 
 4. US Citizenship with ability to obtain Special Program Access.
 5. Experience with development using eQube-MI/BI platform.
 ...",no,yes
-Software Engineer,2025-04-07,https://jobright.ai/jobs/info/67f49a57096cf038eebee452?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
-Ogden, UT
+Software Engineer,2025-04-07,https://jobright.ai/jobs/info/67f49a57096cf038eebee38d?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
+St Louis, MO
 San Antonio, TX
+Ogden, UT
 Hill Air Force Base, UT",Leidos,10000+,"Computer,Government",$105K-$189K /yr,"1. Requires a US Citizenship.
 2. Hold and active security certification that meets DOD 8570 IAT level II or higher (i.e., Security+)
 3. Must hold an active DoD Secret clearance.
@@ -200,24 +289,14 @@ HET Software Engineer,2025-04-07,https://jobright.ai/jobs/info/67f191312f8c6a4af
 4. Familiarity with core languages C, C++ and Python; experience with version control systems such as Subversion or Git.
 5. Ability to serve as a lead programmer on complex and challenging software development projects.
 ...",no,
-Applications Analyst I,2025-04-07,https://jobright.ai/jobs/info/67f44e66a37547aa9ce1b470?utm_source=1100&utm_campaign=Software Engineering,On Site,"Binghamton, NY",United Health Services,5001-10000,"Health Care,Hospital",$30.58-$45.86 /hr,"1. High School Diploma (or equivalent).
-2. One to two (1-2) years of healthcare operations (clinical, patient care, administrative or revenue cycle), information technology or health information technology experience.
-3. For Epic positions: Current Epic certification(s).
-4. Must be willing to travel for training and achieve certification within 90 days of completion of training at Epic in application(s) as assigned.",not sure,
-"Programmer Analyst Associate, Vacancy CL-226-25 DEADLINE DATE: 4/11/2025 - 5:00 PM EST",2025-04-07,https://jobright.ai/jobs/info/67f45d0ebcbbea71aeb6b830?utm_source=1100&utm_campaign=Software Engineering,On Site,"West Modesto, CA",Stanislaus County Office of Education,1001-5000,"Communities,Education",$38.65-$47.06 /hr,"1. Associate degree or higher from an accredited college or university in computer-related technology.
-2. A minimum of 1 year of employment in a software/web development environment.
-3. Experience gained through internships, academic projects, or personal programming initiatives is valued.
-4. A combination of education, training, and experience that could provide the desired skills, knowledge and abilities may be considered.
-5. Employee must arrange their own transportation.
-...",not sure,
 Java Software Engineer,2025-04-07,https://jobright.ai/jobs/info/67d4a1186d08d6042d02aa3e?utm_source=1100&utm_campaign=Software Engineering,On Site,"East Windsor, NJ",BeaconFire Solution Inc.,101-250,"Business Intelligence,Information Technology",$65000-$80000 /yr,"1. Experience in programming language JavaScript or similar (e.g. Java, Python, C, C++, C#)
 2. An understanding of the software development life cycle
 3. Basic programming skills using object-oriented programming (OOP) languages with in-depth knowledge of common APIs and data structures like Collections, Maps, lists, Sets etc.
 4. Knowledge of relational databases (e.g. SQL Server, Oracle)
 5. Basic SQL query language skills",yes,yes
-Associate Solution Engineer (New Grad),2025-04-07,https://jobright.ai/jobs/info/67f458b23eb2ea9fb10b5e03?utm_source=1100&utm_campaign=Software Engineering,Hybrid,"Multi Location
-Chicago, IL
+Associate Solution Engineer (New Grad),2025-04-07,https://jobright.ai/jobs/info/67f458b23eb2ea9fb10b5d4a?utm_source=1100&utm_campaign=Software Engineering,Hybrid,"Multi Location
 Atlanta, GA
+Chicago, IL
 New York, NY
 San Francisco, CA",Salesforce,10000+,"Artificial Intelligence (AI),Cloud Computing",$80924-$80924 /yr,"1. You will be or are a recent graduate (graduation within 12 months of the listed start date) with a major or minor in Computing/STEM, Informatics, Business, Computer Science, Management, Software Engineering, MIS or equivalent AND/OR you’ve completed a degree with a combination of business and technical subjects.
 2. You thrive when solving challenges - no matter how large or small.
@@ -231,8 +310,8 @@ Software Engineer,2025-04-07,https://jobright.ai/jobs/info/67f44ad5819f83b372c60
 4. Must have legal authority to work in the U.S.",no,
 Java Developer,2025-04-07,https://jobright.ai/jobs/info/67f471527f9cb96caf423b58?utm_source=1100&utm_campaign=Software Engineering,Hybrid,"Multi Location
 Dahlgren, VA
-Patuxent River, MD
 Fredericksburg, VA
+Patuxent River, MD
 Indian Head, MD",Booz Allen Hamilton,10000+,"Consulting,Cyber Security",$69300-$158000 /yr,"1. 1+ year of experience with Java and GoLang
 2. 1+ year of experience with working in an Agile environment
 3. Experience with writing source code for new applications or generating and enhancing code samples for existing applications
@@ -257,10 +336,10 @@ Software Development Engineer,2025-04-07,https://jobright.ai/jobs/info/67f445cd4
 4. Familiarity with Agile environments and tools like Jira or Azure DevOps
 5. Basic understanding of SOLID Principles and programming fundamentals
 ...",no,
-Associate Solution Engineer (New Grad),2025-04-07,https://jobright.ai/jobs/info/67f43a638c3cf70bd057ed11?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
-Illinois - Chicago
-New York - New York
+Associate Solution Engineer (New Grad),2025-04-07,https://jobright.ai/jobs/info/67f43a638c3cf70bd057ed0f?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
 California - San Francisco
+New York - New York
+Illinois - Chicago
 Georgia - Atlanta",Salesforce,10000+,"Artificial Intelligence (AI),Cloud Computing",$73499-$80924 /yr,"1. You will be or are a recent graduate (graduation within 12 months of the listed start date) with a major or minor in Computing/STEM, Informatics, Business, Computer Science, Management, Software Engineering, MIS or equivalent AND/OR you’ve completed a degree with a combination of business and technical subjects.
 2. You thrive when solving challenges - no matter how large or small.
 3. You are inquisitive, curious, and approach work with humility, determination, and grit.
@@ -278,9 +357,6 @@ End of Game Auditor,2025-04-07,https://jobright.ai/jobs/info/67f433fa4ba589f6bd9
 3. Proficient in MS Office suite – Word, Excel, and Outlook
 4. Requires strong math and analytical skills
 5. Attention to detail and ability to prioritize are essential to the position",not sure,
-C++ Software Engineer (USA),2025-04-07,https://jobright.ai/jobs/info/67f473f28a96a4ce69d5b9cf?utm_source=1100&utm_campaign=Software Engineering,On Site,"Stamford, CT",Trexquant Investment LP,51-100,"Marketing,Real Estate",,"1. A degree in Computer Science, Engineering, Mathematics, or a related field
-2. 1+ years of experience writing production-quality code in C++ (C++ 17/20) with a deep understanding of data structures, algorithms, concurrency patterns, and numeric processing
-3. Experience designing, implementing, and optimizing low-latency and high-throughput systems, particularly for financial applications.",not sure,
 IT Analyst/Programmer,2025-04-07,https://jobright.ai/jobs/info/67f44e66a37547aa9ce1b53f?utm_source=1100&utm_campaign=Software Engineering,On Site,"Raleigh, NC",North Carolina State University,5001-10000,"Education,Non Profit",$80K-$100K /yr,"1. Master’s degree and at least one year of relevant experience OR Bachelor’s degree with at least two years of relevant experience OR An equivalent combination of education, training and relevant experience.
 2. All degrees must be received from appropriately accredited institutions.
 3. Excellent collaborative and team skills are essential to this role in order to meet our strategic goals.
@@ -323,20 +399,26 @@ CT - Hartford",Travelers,10000+,"Auto Insurance,Insurance","$96,400-$159,100 /yr
 4. Demonstrated track record of domain expertise including the ability to understand technical concepts necessary to do the job effectively, demonstrate willingness, cooperation, and concern for business issues and possess in-depth knowledge of immediate systems worked on.
 5. Proven problem solving skills including debugging skills, allowing you to determine source of issues in unfamiliar code or systems and the ability to recognize and solve repetitive problems rather than working around them, recognize mistakes using them as learning opportunities and break down large problems into smaller, more manageable ones.
 ...",not sure,
-Android Engineer I – Digital Servicing,2025-04-07,https://jobright.ai/jobs/info/67f42b56f91bff1511050d2f?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
-Charlotte, NC
+Software Engineer Entry Level,2025-04-07,https://jobright.ai/jobs/info/67f4ee70a67c3f46e6d77b9d?utm_source=1100&utm_campaign=Software Engineering,Hybrid,"Port Orchard, WA",General Dynamics Mission Systems,10000+,"Aerospace,Business Information Systems",$75946-$84253 /yr,"1. Requires a Bachelor’s degree in Software Engineering, or a related Science, Engineering or Mathematics field.
+2. Department of Defense Secret security clearance is required within a reasonable period of time.
+3. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to classified information.
+4. Due to the nature of work performed within our facilities, U.S. citizenship is required.
+5. Understanding of core software engineering concepts and the software product lifecycle, including requirements gathering, design, development, testing, deployment, and maintenance.
+...",no,
+Android Engineer I – Digital Servicing,2025-04-07,https://jobright.ai/jobs/info/67f436c266fe3b794086265a?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
+Canton, OH
+Cincinnati, OH
 New York, NY
 Alpharetta, GA
-Cincinnati, OH
-Canton, OH
+Altamonte Springs, FL
 Stamford, CT
 Rapid City, SD
-Altamonte Springs, FL
+Charlotte, NC
 Saint Paul, MN
-Costa Mesa, CA
+Kansas City, KS
 Chicago, IL
-Dallas, TX
-Kansas City, KS",Synchrony,10000+,"Consumer Lending,Finance",$75K-$120K /yr,"1. Bachelor’s degree in Computer Science or related degree OR, in lieu of degree, High School Diploma with 2 years of experience with Android application development
+Costa Mesa, CA
+Dallas, TX",Synchrony,10000+,"Consumer Lending,Finance",$75K-$120K /yr,"1. Bachelor’s degree in Computer Science or related degree OR, in lieu of degree, High School Diploma with 2 years of experience with Android application development
 2. You must be 18 years or older
 3. You must have a high school diploma or equivalent
 4. You must be willing to take a drug test, submit to a background investigation and submit fingerprints as part of the onboarding process
@@ -367,18 +449,15 @@ Junior C++ Software Engineer - Trading platforms,2025-04-07,https://jobright.ai/
 ...",not sure,yes
 Software Engineer I,2025-04-07,https://jobright.ai/jobs/info/67f409f7920523939fb741a8?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
 Glendale, CA, USA
-New York, NY, USA
-Seattle, WA, USA",The Walt Disney Company,10000+,"Amusement Park and Arcade,Animation",$99900-$133900 /yr,"1. Minimum of 0-2+ years of relevant work experience
+Seattle, WA, USA
+New York, NY, USA",The Walt Disney Company,10000+,"Amusement Park and Arcade,Animation",$99900-$133900 /yr,"1. Minimum of 0-2+ years of relevant work experience
 2. Basic foundational programming knowledge of web-based applications
 3. Experience working within a modern Javascript workflow
 4. Experience with React and frameworks like Next.js or Node
 5. BS Computer Science or related technical discipline or its equivalent",not sure,yes
-Full Stack Developer I,2025-04-07,https://jobright.ai/jobs/info/67f40bee5615de3da1e1a149?utm_source=1100&utm_campaign=Software Engineering,Remote,"Collierville, TN",Federal Express Corporation,1001-5000,,$4881.62-$8461.48 /mon,"1. Bachelor's Degree/equivalent in computer science, engineering, or information systems and/or equivalent formal.
-2. Zero (0) to one(1) year experience in developing software code.
-3. Software development / programming.
-4. Ability to write code to interact with APIs
-5. Troubleshooting support tickets relating to software.
-...",not sure,yes
+NAVAIR Software Engineer/Developer Junior,2025-04-07,https://jobright.ai/jobs/info/67f519edbba99e423122ed3d?utm_source=1100&utm_campaign=Software Engineering,On Site,"California, MD",AMERICAN SYSTEMS,1001-5000,"Government,Information Technology",$65700-$109700 /yr,"1. Bachelor's degree and 0-2 years of related work experience
+2. Ability to obtain a Secret clearance.
+3. At least 0-2 years of experience in Software Development performing software requirements analysis, software design, software coding, software integration and software testing.",no,yes
 PHP Developer,2025-04-07,https://jobright.ai/jobs/info/67f05d6d687e281bdd313848?utm_source=1100&utm_campaign=Software Engineering,On Site,"Augusta, GA",Augusta University,1001-5000,,$75300-$82800 /yr,"1. Bachelor's degree from an accredited college or university in Computer Science/Information Technology or related field with one year of relevant experience, OR Associate's degree with a minimum of eight years of relevant, experience in system architect.",not sure,
 Software Engineer (entry-level),2025-04-07,https://jobright.ai/jobs/info/67f403df8743cb159385c8a8?utm_source=1100&utm_campaign=Software Engineering,Hybrid,"Tysons Corner, VA",Nodal Exchange,11-50,Financial Services,$110000-$130000 /yr,"1. Bachelor's degree or higher in Computer Science or related technical field
 2. Strong programming skills in one or more of the following programming languages: Java, Kotlin, Javascript
@@ -431,6 +510,10 @@ San Francisco, CA",Twitch,1001-5000,"Gaming,Media and Entertainment",$100K-$200K
 3. Entrepreneurial and positive attitude
 4. Willing to relocate to San Mateo, California for the ASE Program
 5. Must be authorized to work in the U.S (Position does not provide sponsorship)",no,
+Software Engineer Graduate (Ads Measurement Signal and Privacy Technology) - 2025 Start (BS/MS),2025-04-07,https://jobright.ai/jobs/info/67d6d20799405322058b7133?utm_source=1100&utm_campaign=Software Engineering,On Site,"Seattle, WA",TikTok,10000+,"Content Creators,Content Discovery",$114K-$250K /yr,"1. BS/MS Degree in Computer Science, Computer Engineering or relevant technical field.
+2. Strong knowledge of data structures and algorithms, proficient in at least one coding language, including but not limited to Go, Javascript, Java, C++.
+3. Excellent communication, teamwork skills and ability to work under pressure. Strong ownership.
+4. Curiosity towards new technologies and solutions, and outstanding ability to analyze and solve problems.",not sure,yes
 Software Engineer Graduate (RDMA Network- High Speed Network) - 2025 Start (PhD),2025-04-07,https://jobright.ai/jobs/info/67d7ed5297e99ab8f577a0f9?utm_source=1100&utm_campaign=Software Engineering,On Site,"San Jose, CA",ByteDance,10000+,"Content,Data Mining",$145000-$250000 /yr,"1. PhD graduate with a background in Computer Science, Electronic Engineering, Computer Engineering, Network Engineering or related technical discipline
 2. Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment
 3. Proficiency in one or several mainstream programming languages including but not limited to: C/C++, Python, Go
@@ -485,6 +568,12 @@ Software Engineer,2025-04-06,https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e22
 4. Strong understanding of computer science fundamentals in data structures, algorithms, design patterns and object-oriented programming, etc.
 5. Proficiency in at least one object-oriented programming language.
 ...",not sure,
+SAP ABAP / Java Developer,2025-04-06,https://jobright.ai/jobs/info/67d43bea24a3c10f7519a88e?utm_source=1100&utm_campaign=Software Engineering,On Site,"Dublin, OH",Cardinal Health,10000+,"Health Care,Hospital",$93500-$133600 /yr,"1. Demonstrates knowledge of software development techniques and fluency in software languages and application programming interfaces including SAP ABAP and other languages e.g., Java, JavaScript, MySQL
+2. Demonstrates general understanding of hardware/software platforms including but not limited to operating systems, databases, application servers, web servers and integration technologies
+3. Plans and executes system implementations that ensure success and minimize risk of system outages or other negative production impacts
+4. Understand the value of and be prepared to implement comprehensive unit testing patterns
+5. Experience and be comfortable working on fast-paced Agile teams
+...",not sure,
 Software Development Engineer 2,2025-04-06,https://jobright.ai/jobs/info/67d56471708043b0549a9f79?utm_source=1100&utm_campaign=Software Engineering,On Site,"San Jose, CA",Adobe,10000+,"Artificial Intelligence (AI),Consulting",$93K-$171K /yr,"1. At least 1 year of demonstrated expertise in constructing and deploying web applications or interactive websites.
 2. A Bachelor's degree or equivalent experience in Computer Science, web design, or a related field.
 3. Understanding of delivering robust and intricate user interfaces.
@@ -511,12 +600,6 @@ SOFTWARE ENGINEER I (505A33125),2025-04-05,https://jobright.ai/jobs/info/67f225e
 4. SQL; relational database knowledge desired
 5. Understanding of REST API
 ...",not sure,
-Entry Level Cloud Engineer,2025-04-05,https://jobright.ai/jobs/info/67f20e23c8a9a40b7f483e33?utm_source=1100&utm_campaign=Software Engineering,On Site,DC-Baltimore Area,Dantech Corporation Inc.,11-50,"IT Infrastructure,Management Consulting",$52000-$50000 /yr,"1. Bachelor of Science Degree in IT, Sciences, or Math
-2. 1+ years of MS Word or Google Docs
-3. 1+ years of MS Excel or Google Sheets
-4. 1+ years of applying excellent customer service skills to requests for help
-5. 1+ years of experience troubleshooting and resolving technical issues
-...",no,
 Software Dev Engineer - Software and Networking Developer (SDN),2025-04-05,https://jobright.ai/jobs/info/67d4f3aa6235193df0e14160?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
 Seattle, WA
 Sunnyvale, CA
@@ -550,12 +633,6 @@ Java Software Engineer,2025-04-05,https://jobright.ai/jobs/info/67d49b190fb231c2
 3. Excellent communication skills, both written and verbal
 4. Strong ownership experience and a track record of delivering results
 5. A degree in Computer Science, Engineering, or a related field",not sure,
-Software Engineer - Windows on Snapdragon,2025-04-05,https://jobright.ai/jobs/info/67ef5886c6159c3bdafecef1?utm_source=1100&utm_campaign=Software Engineering,On Site,"San Diego, CA",Qualcomm,10000+,"Artificial Intelligence (AI),Generative AI",$90700-$136100 /yr,"1. Bachelor's degree in Engineering, Information Systems, Computer Science, or related field.
-2. Application development, debugging, testing with C/C++ & familiarity with embedded system software.
-3. Experience with working and debugging issues in Window11 environment and tools preferred.
-4. Software design/debugging techniques, problem solving, and documentation skills.
-5. Experience with UEFI architecture and development (PEI, DXE, UEFI).
-...",not sure,
 "Software Engineer, Java",2025-04-05,https://jobright.ai/jobs/info/67d46fbe43a4f1d75f785523?utm_source=1100&utm_campaign=Software Engineering,On Site,"Mountain View, CA",Omnissa,1001-5000,,$100000-$125000 /yr,"1. A flair for building cloud solutions and/or microservices in Azure/AWS or similar
 2. Understanding of designing and developing reusable, high-performing, and scalable systems
 3. Familiarity with Java coding skills and at least one scripting language (Ex: Python, shell, JavaScript, etc.)
@@ -599,12 +676,6 @@ Portland, ME",WEX,5001-10000,"Financial Services,FinTech",$68000-$90000 /yr,"1. 
 3. Work hybrid; at least 3 days per week in the office.
 4. Strong collaboration skills, can work across workstreams within your team and contribute to your peers’ success.
 5. Have the ability to thrive on a high level of autonomy, and responsibility, and think of yourself as an entrepreneur.
-...",not sure,
-Software Engineer,2025-04-04,https://jobright.ai/jobs/info/67f0d6d144306c28167179fd?utm_source=1100&utm_campaign=Software Engineering,On Site,"Schenectady, NY",MVP Health Care,1001-5000,"Health Care,Health Insurance",$56200-$92000 /yr,"1. A Bachelor's Degree in Computer Science, engineering, or related fields
-2. The availability to work hybrid
-3. 1+ years' experience in software application development or related education
-4. Minimum of 1+ years' experience in an Agile environment
-5. Relational SQL-based database experience required
 ...",not sure,
 Power/Thermal SW Engineer- Telematics,2025-04-04,https://jobright.ai/jobs/info/67f1fda4191eaafd232cb611?utm_source=1100&utm_campaign=Software Engineering,On Site,"San Diego, CA",Qualcomm,10000+,"Artificial Intelligence (AI),Generative AI",$94200-$141200 /yr,"1. Bachelor's degree in Engineering, Information Systems, Computer Science, or related field.
 2. 1+ years experience with Programming Language such as C, C++, Java, Python, etc.
@@ -658,8 +729,6 @@ Azure Cloud Solutions Architect,2025-04-04,https://jobright.ai/jobs/info/67f0490
 4. Targeting a critical thinker and problem solver who is willing to work with team members effectively
 5. Targeting an individual who is detail oriented and a self-starter, able to work in a dynamic team environment
 ...",not sure,
-Software Engineer,2025-04-04,https://jobright.ai/jobs/info/67ed4aa5bca2e85877496de2?utm_source=1100&utm_campaign=Software Engineering,On Site,"San Diego, CA",Leonardo DRS,5001-10000,"Aerospace,Cyber Security",$78360-$105760 /yr,"1. Novice technical expertise and application domain knowledge
-2. Bachelor’s degree in engineering or Related technical field",not sure,
 Application Developer Analyst I - IS App Development - Full Time 8 Hour Days (Non-Exempt) (Non-Union),2025-04-04,https://jobright.ai/jobs/info/67f0406c2f389ebb3f321908?utm_source=1100&utm_campaign=Software Engineering,On Site,"Los Angeles, CA - Health Sciences Campus",University of Southern California,10000+,"Education,Higher Education",$39-$63.95 /hr,"1. Associate's degree
 2. Minimum 2 years of relevant business support and/or information technology support experience if no Associate’s degree
 3. 0-1 year Some experience in relevant business support and/or information technology support experience. • IF NO ASSOCIATE DEGREE: ◦ * 2 years of relevant business support and/or information technology support experience.
@@ -728,6 +797,12 @@ Software Development Engineer 1,2025-04-04,https://jobright.ai/jobs/info/67d2bbf
 3. Strong problem-solving skills, excellent communication and collaboration skills
 4. Passionate about keeping up with modern technologies and design
 5. C#, Python (if applicable)",not sure,
+Software Operations Admin II,2025-04-04,https://jobright.ai/jobs/info/67ef3ac38459ff38f478b029?utm_source=1100&utm_campaign=Software Engineering,On Site,"San Diego, CA",Tandem Diabetes Care,1001-5000,,$22.26-$27.79 /hr,"1. High proficiency with Microsoft Office products (Outlook, SharePoint, Word, Excel, and PowerPoint).
+2. Ability to take feedback as a learning opportunity.
+3. Desire to actively look for opportunities to expand their skillset and application knowledge.
+4. Excellent verbal and written communication skills; strong presentations skills a plus.
+5. Associate’s degree, relevant certification, or equivalent combination of education and applicable job experience.
+...",no,
 "Software Development Engineer I 2025, DynamoDB",2025-04-04,https://jobright.ai/jobs/info/67dba0a6d8fe6af6538ceda6?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
 Seattle, WA
 Bellevue, WA
@@ -797,9 +872,6 @@ Austin, TX",Oracle,10000+,"Data Governance,Data Management",$30-$48 /hr,"1. Bach
 4. Confident communicator with ability to collaborate and present concepts clearly
 5. Driven self-starter with strong organizational skills
 ...",no,
-"Software Engineer, Systems Research, PhD, Early Career",2025-04-04,https://jobright.ai/jobs/info/679a4ab0cd27b181379b4358?utm_source=1100&utm_campaign=Software Engineering,On Site,"Sunnyvale, CA",Google,10000+,"Apps,Artificial Intelligence (AI)",$136K-$200K /yr,"1. PhD degree in Computer Science, or a related technical field, or equivalent practical experience.
-2. Experience coding in one of the following programming languages including but not limited to: C, C++, Java, JavaScript, Python, or Golang.
-3. Research experience in an area of computer systems design and implementation.",not sure,
 Software Engineer Graduate- Tiktok Effects 2024 Start (BS/MS),2025-04-04,https://jobright.ai/jobs/info/67d2e8ec96cd410ae1de9d16?utm_source=1100&utm_campaign=Software Engineering,On Site,"San Jose, CA",TikTok,10000+,"Content Creators,Content Discovery",$116K-$177K /yr,"1. B.S. or M.S. in Computer Science or related major
 2. Proficient in C/C++
 3. Experience in AI/CG/ML/AR domain knowledge and development experience
@@ -820,9 +892,7 @@ San Jose",TikTok,10000+,"Content Creators,Content Discovery",$119000-$177000 /yr
 4. Familiar with Linux-based operating systems and common commands.
 5. Strong problem-solving and logical thinking abilities.
 ...",not sure,yes
-SW Development Engineer 1,2025-04-04,https://jobright.ai/jobs/info/67ef9e7ed4f09c5fa852d6a0?utm_source=1100&utm_campaign=Software Engineering,Hybrid,"Multi Location
-United States
-Remote - United States",Dexcom,5001-10000,"Diabetes,Health Care",$68200-$113600 /yr,"1. Bachelor's degree in Computer Science, Information Systems, Mathematics or Engineering from an accredited academic university, or an equivalent combination of education and experience
+SW Development Engineer 1,2025-04-04,https://jobright.ai/jobs/info/67ef9e7ed4f09c5fa852d6a0?utm_source=1100&utm_campaign=Software Engineering,Hybrid,United States,Dexcom,5001-10000,"Diabetes,Health Care",$68200-$113600 /yr,"1. Bachelor's degree in Computer Science, Information Systems, Mathematics or Engineering from an accredited academic university, or an equivalent combination of education and experience
 2. Demonstrated experience and ability to coding in a general-purpose programming language (Prefer Java/Kotlin/Scala)
 3. Good experience with data structures and algorithms
 4. Proven ability to learn new tools and technology
@@ -862,11 +932,11 @@ Software Developer,2025-04-03,https://jobright.ai/jobs/info/67f3480c1f3ad0dfa450
 4. Understanding of code bases and coding languages (C,C++, C#, Python).
 5. Good communication, computer and interpersonal skills are required to enable an effective interface with other professionals, to produce appropriate documentation, and to present results to a limited internal audience.
 ...",no,
-"Customer and Partner Solutions Engineer, third-party Google Identity",2025-04-03,https://jobright.ai/jobs/info/67ef4803dedaf00306a20fb1?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
-Boulder, CO, USA
+"Customer and Partner Solutions Engineer, third-party Google Identity",2025-04-03,https://jobright.ai/jobs/info/67ef4803dedaf00306a20e8d?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
+Atlanta, GA, USA
 New York, NY, USA
 San Francisco, CA, USA
-Atlanta, GA, USA",Google,10000+,"Apps,Artificial Intelligence (AI)",$97500-$140000 /yr,"1. Bachelor's degree in Computer Science, a related technical field or equivalent practical experience in technical support, professional services, software development, or product operations management.
+Boulder, CO, USA",Google,10000+,"Apps,Artificial Intelligence (AI)",$97500-$140000 /yr,"1. Bachelor's degree in Computer Science, a related technical field or equivalent practical experience in technical support, professional services, software development, or product operations management.
 2. Experience working with client-side web technologies (e.g., HTML, CSS, JavaScript, or HTTP).
 3. Experience coding with one or more programming languages (e.g., Java, C/C++, Python).
 4. Experience in technical troubleshooting, and managing internal/external partners or customers.",not sure,
@@ -967,7 +1037,7 @@ Software Engineer,2025-04-03,https://jobright.ai/jobs/info/67ef1bda67c5bb19c72d9
 4. Strong understanding of APIs, SDKs and integrations workflow.
 5. Familiarity with Programmatic advertising, RTB and ad-serving protocols (e.g., VAST, OpenRTB, VPAID etc)
 ...",not sure,
-Quality Assurance Specialist,2025-04-03,https://jobright.ai/jobs/info/67ef009056f6ac260c65cad5?utm_source=1100&utm_campaign=Software Engineering,On Site,"Roseland, NJ",DISH Network,10000+,"Audio,Satellite Communication",$23.83-$34.05 /hr,"1. Have strong customer service skills; friendly, approachable, motivated with a strong work ethic and high degree of integrity
+Quality Assurance Specialist,2025-04-03,https://jobright.ai/jobs/info/67ef0358fd1389e6aa5fb9ef?utm_source=1100&utm_campaign=Software Engineering,On Site,"Roseland, NJ",DISH Network,10000+,"Audio,Satellite Communication",$23.83-$34.05 /hr,"1. Have strong customer service skills; friendly, approachable, motivated with a strong work ethic and high degree of integrity
 2. Ability to collaborate with others to resolve problems and improve processes
 3. Have the drive to learn and master DISH tools and resources
 4. Proficiency of G-Suite
@@ -984,20 +1054,11 @@ Engineering Manager - Growth,2025-04-03,https://jobright.ai/jobs/info/67eef5a229
 3. Experience in a product-led growth (PLG) SaaS environment, preferably in a growth-focused role.
 4. Excellent communication and leadership skills.
 5. Ability to thrive in a fast-paced, dynamic environment.",no,
-Pro Accessibility Software Engineer,2025-04-03,https://jobright.ai/jobs/info/67f4d10c5d03b827d7f43d5d?utm_source=1100&utm_campaign=Software Engineering,On Site,"Cupertino, California, United States",Apple,10000+,"Artificial Intelligence (AI),Consumer Electronics",$175800-$312200 /yr,"1. Bachelor of Science in Computer Science or relevant work experience.
-2. Experience with at least one of the following languages and related development tools: ObjectiveC, Swift, C++, or C
-3. Ability to create and understand maintainable and performant Object-Oriented software designs",not sure,
 Algorithm Engineer (Image Processing),2025-04-03,https://jobright.ai/jobs/info/67eeec132683908e871188b8?utm_source=1100&utm_campaign=Software Engineering,On Site,"Ann Arbor, MI",KLA,10000+,"Electronics,Information Technology",$80000-$136000 /yr,"1. Academic and 1+ years' work experience required in development in Image Processing
 2. Deep understanding of physics and optics as they relate to imaging is required
 3. Very strong experience with C++ coding is required
 4. Great teammate with excellent problem-solving and written and verbal communication skills, as demonstrated by practical experience in academic or work projects or internships.
 5. Master's Level Degree and minimum of 1+ years' related work experience in industry",not sure,
-Amazon Connect Developer,2025-04-03,https://jobright.ai/jobs/info/67eede9f166053085a0d2bdc?utm_source=1100&utm_campaign=Software Engineering,Hybrid,"Boulder, CO",Kyndryl,10000+,,$85920-$163320 /yr,"1. 1-2 years of hands-on experience with Amazon Connect
-2. Familiarity with AWS services such as Lambda, DynamoDB, S3, CloudWatch, CloudFormation, QuickSight, and IAM
-3. Experience with omnichannel call flow design (routing profiles, queues, callbacks, emergency messages, hours of operations), IVR configurations, and contact center operations including voice, chat, email, SMS integrations
-4. Basic programming or scripting experience (Python, JavaScript, or Node.js preferred)
-5. Experience with CI/CD development methodology to enhance deployment efficiency
-...",not sure,
 "Cleared Software Engineer, Computer Vision, Federal",2025-04-03,https://jobright.ai/jobs/info/67eedfbcd7969ba62f7d27a5?utm_source=1100&utm_campaign=Software Engineering,On Site,Chantilly Virginia,General Atomics,10000+,"Energy,Energy Efficiency","$73,700-$128,780 /yr","1. Typically requires a bachelors or masters degree in computer science, information systems or related discipline and two or more years progressive software development experience with a bachelors degree. May substitute equivalent experience in lieu of education.
 2. Strong experience with cloud-based technologies, including AWS or Azure
 3. Experience with software development lifecycle and use of associated tools
@@ -1007,25 +1068,6 @@ Amazon Connect Developer,2025-04-03,https://jobright.ai/jobs/info/67eede9f166053
 Jr. MarTech Solutions Architect,2025-04-03,https://jobright.ai/jobs/info/67eec162357dc4681d86426f?utm_source=1100&utm_campaign=Software Engineering,On Site,"Harrisburg, PA",WebFX,101-250,"Advertising,Content Marketing",$45500-$48500 /yr,"1. A Bachelor’s Degree
 2. Successful FXers in this role have majored in Marketing, Business, Statistics, Mathematics, Business Analytics, Data Science, Management Information Technology, and beyond
 3. GPA above 3.4",not sure,
-"Software Engineer II, Early Career",2025-04-03,https://jobright.ai/jobs/info/67eebd4d9685306e3afc9193?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
-New York, NY
-Austin, TX
-Madison, WI
-Irvine, CA
-Raleigh, NC
-Atlanta, GA
-Kirkland, WA
-Cambridge, MA, USA
-Atlanta, GA, USA
-New York, NY, USA
-Raleigh, NC, USA
-Washington D.C., DC, USA
-Durham, NC, USA
-Pittsburgh, PA, USA
-Chicago, IL, USA
-Madison, WI, USA",Google,10000+,"Apps,Artificial Intelligence (AI)",$118000-$170000 /yr,"1. Bachelor's degree or equivalent practical experience.
-2. 1 year of experience with software development in one or more programming languages (e.g., Python, C, C++, Java, JavaScript) in an industry setting.
-3. Experience working with one or more of the following: Web or Mobile Application Development, Unix/Linux environments, Distributed and Parallel Systems, Machine Learning or AI, Information Retrieval, Natural Language Processing, Networking, Developing Software Systems, or Security Software Development.",not sure,
 Software Development Engineer I 2025,2025-04-03,https://jobright.ai/jobs/info/67db94570d00ac5fbc123367?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
 East Palo Alto, CA
 Seattle, WA
@@ -1051,6 +1093,18 @@ Front-End Engineer (US),2025-04-03,https://jobright.ai/jobs/info/67b6a14cbda3ef7
 3. Knowledge of computer science fundamentals (e.g., data structures & algorithms, OO design)
 4. Are 18 years of age or older
 5. Currently working towards a Bachelor’s or Master’s Degree in Computer Science, Computer Engineering, Information Science, Web Development, Human-Computer Interaction, or other equivalent discipline, with an expected conferral date between September 2024 – September 2025 and/or completed your degree no more than 24 months ago",not sure,
+"Software Engineer II, Early Career",2025-04-03,https://jobright.ai/jobs/info/67ee931008d73ce65147b47d?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
+Chicago, IL, USA
+Cambridge, MA, USA
+Pittsburgh, PA, USA
+Washington D.C., DC, USA
+New York, NY, USA
+Raleigh, NC, USA
+Atlanta, GA, USA
+Durham, NC, USA
+Madison, WI, USA",Google,10000+,"Apps,Artificial Intelligence (AI)",$118000-$170000 /yr,"1. Bachelor's degree or equivalent practical experience.
+2. 1 year of experience with software development in one or more programming languages (e.g., Python, C, C++, Java, JavaScript) in an industry setting.
+3. Experience working with one or more of the following: Web or Mobile Application Development, Unix/Linux environments, Distributed and Parallel Systems, Machine Learning or AI, Information Retrieval, Natural Language Processing, Networking, Developing Software Systems, or Security Software Development.",not sure,
 "AD&S - Flight Software Engineer, Embedded C/C++",2025-04-03,https://jobright.ai/jobs/info/67497caff83b2f73ede9e17e?utm_source=1100&utm_campaign=Software Engineering,On Site,"Costa Mesa, CA",Anduril Industries,1001-5000,"Aerospace,Artificial Intelligence (AI)",$138K-$252K /yr,"1. Bachelor's degree in Computer Science, Electrical Engineering, etc., or equivalent experience
 2. Direct experience with DO-178 standards or similar certifications
 3. Direct experience in aircraft embedded software or other safety critical systems
@@ -1107,13 +1161,10 @@ Kirkland, WA
 Seattle, WA
 Reston, VA
 Sunnyvale, CA
-San Francisco, CA
 San Jose, CA
 Los Angeles, CA
-Durham, NC
 Irvine, CA
-Pittsburgh, PA
-Atlanta, GA",Google,10000+,"Apps,Artificial Intelligence (AI)",$136K-$200K /yr,"1. PhD degree in Computer Science, or a related technical field.
+Pittsburgh, PA",Google,10000+,"Apps,Artificial Intelligence (AI)",$136K-$200K /yr,"1. PhD degree in Computer Science, or a related technical field.
 2. Experience in embedded systems/firmware design.
 3. Experience coding in C or C++.",no,
 "Backend Infrastructure Engineer, New Grad",2025-04-03,https://jobright.ai/jobs/info/67ee1df5fd5225ce3633cfa8?utm_source=1100&utm_campaign=Software Engineering,On Site,"Palo Alto, CA",AppLovin,501-1000,"Advertising,Developer Tools",$144000-$216000 /yr,"1. Have 0-2+ years of experience and a minimum of a BS and/or MS in Computer Science
@@ -1154,6 +1205,12 @@ Test Development Assistant,2025-04-03,https://jobright.ai/jobs/info/67ee7cec9450
 3. Knowledge of front-end and back-end development.
 4. Knowledge of AWS, GCP, Microsoft Azure, or another cloud service.
 5. Knowledge of Agile practices.
+...",no,
+Web App Developer - SharePoint,2025-04-03,https://jobright.ai/jobs/info/67f509164874f15156c69b8b?utm_source=1100&utm_campaign=Software Engineering,Hybrid,"El Segundo, CA","KBR, Inc.",10000+,"Consulting,Cyber Security",$65000-$85000 /yr,"1. Ability to obtain and maintain a DoD Secret clearance required for this position
+2. Computer science or technical degree
+3. Ability to think through, develop, test, and deploy web app solutions using HTML/CSS/JavaScript
+4. Ability to communicate clearly, verbally and in writing
+5. Ability to learn, accept feedback. Ability to work as part of a team
 ...",no,
 Senior Associate Application Engineer,2025-04-03,https://jobright.ai/jobs/info/67ee58ecb4dd13b72b1a0024?utm_source=1100&utm_campaign=Software Engineering,On Site,"Riverwoods, IL",Discover Financial Services,10000+,"Banking,Credit",$73500-$124300 /yr,"1. Bachelors Computer Science, Engineering, Informatics, Information Security, Information Technology, or related.
 2. 1+ years Information Technology, (Software) Engineering, or related
@@ -1197,6 +1254,9 @@ Web App Developer - SharePoint,2025-04-02,https://jobright.ai/jobs/info/67ee179d
 4. Ability to communicate clearly, verbally and in writing
 5. Ability to learn, accept feedback. Ability to work as part of a team
 ...",no,
+C++ Software Engineer (USA),2025-04-02,https://jobright.ai/jobs/info/67ee26d8e84485085b69bc11?utm_source=1100&utm_campaign=Software Engineering,On Site,"Stamford, CT",Trexquant Investment LP,51-100,"Marketing,Real Estate",,"1. A degree in Computer Science, Engineering, Mathematics, or a related field
+2. 1+ years of experience writing production-quality code in C++ (C++ 17/20) with a deep understanding of data structures, algorithms, concurrency patterns, and numeric processing
+3. Experience designing, implementing, and optimizing low-latency and high-throughput systems, particularly for financial applications",not sure,
 Salesforce Developer,2025-04-02,https://jobright.ai/jobs/info/67ee06583ae78beba1f5256b?utm_source=1100&utm_campaign=Software Engineering,On Site,"Knoxville, TN",CGI,10000+,"Analytics,Application Performance Management",$59000-$100000 /yr,"1. 1+ years of professional experience with Salesforce development
 2. A strong understanding of the Salesforce platform.
 3. Experience In Gathering Requirements And Feedback.
@@ -1209,10 +1269,6 @@ Software Engineer,2025-04-02,https://jobright.ai/jobs/info/67ee6285edee517581367
 4. Experience with cloud and web application development, API design, and database management
 5. Knowledge of version control systems (e.g., Git) and continuous integration/continuous deployment (CI/CD) pipelines
 ...",not sure,
-Software Engineer 1,2025-04-02,https://jobright.ai/jobs/info/67f1f6798c365ebaea1cf04a?utm_source=1100&utm_campaign=Software Engineering,On Site,"Ogden, UT",Weber Human Services,251-500,"Health Care,Medical",$27.74-$27.74 /hr,"1. Accredited four-year college or university with a bachelor's degree in computer programming or related field
-2. At least two years completion of an accredited certification
-3. Ability to develop independently in the vb.net and SQL server environment on assigned tasks
-4. Willingness to complete a criminal background check and pre-employment drug screening",not sure,
 Software Engineer Sys 1,2025-04-02,https://jobright.ai/jobs/info/67edfb87a5a4b4558f46c837?utm_source=1100&utm_campaign=Software Engineering,Hybrid,"Fremont, CA",Lam Research,5001-10000,"CleanTech,Manufacturing",$81K-$150K /yr,"1. Bachelor’s degree in Computer Engineering, Electronics, or Mechanical Engineering with no previous professional experience; or equivalent experience.
 2. Knowledge of Object-Oriented Software (OOS), Object-Oriented Design (OOD), or Object-Oriented Programming (OOP) implementation and design, including Design Patterns and Finite State Machines.
 3. Knowledge of multithreading, including preemptive thread scheduling.
@@ -1332,12 +1388,6 @@ Software Development Engineer - 2025 (US),2025-04-02,https://jobright.ai/jobs/in
 2. Are 18 years of age or older.
 3. Currently enrolled in or completed a Bachelor's degree or above in Computer Science, Computer Engineering, Data Science, Electrical Engineering, or majors relating to these fields.
 4. Have an expected graduate date between October 2023 - September 2025 and/or graduated within the last 24 months.",not sure,
-UI/React Developer,2025-04-02,https://jobright.ai/jobs/info/67ed5e6a1287a009ba3bc15f?utm_source=1100&utm_campaign=Software Engineering,Remote,USA,"XTIVIA, Inc.",251-500,"Business Intelligence,Consulting",$60K-$75K /yr,"1. Solid foundation in HTML, CSS, JavaScript/TypeScript and React
-2. Knowledge of layouts, graphic fundamentals, typography, iconography & limitations of the web
-3. Ability to develop Web UI that conforms to visual designs delivered via Adobe XD, Figma
-4. Ability to consume REST APIs
-5. Git (GitHub or GitLab or another Git variant)
-...",no,
 "Frontend Software Engineer, Global E-commerce Supply Chain and Logistics",2025-04-02,https://jobright.ai/jobs/info/67d18f95a2713a1406bc5041?utm_source=1100&utm_campaign=Software Engineering,On Site,"Seattle, WA",TikTok,10000+,"Content Creators,Content Discovery",$138K-$238K /yr,"1. Bachelor or above degree in Computer Science or related major, 1+ years of industry experience in a software development environment.
 2. Proficiency in Javascript, ES5/6, CSS and strong knowledge of data structures and algorithms.
 3. Understanding of component-based development ideas, familiarity with React, Angular, Vue.js, or any other equivalent library / framework.
@@ -1361,19 +1411,6 @@ Technical Solutions Specialist,2025-04-02,https://jobright.ai/jobs/info/67ed3f08
 4. Tech savvy, with experience testing web-based systems and applications on Mac OS X and iOS
 5. Ability to prioritize linguistic issues and distinguish between a true must-fix and a nice-to-have
 ...",no,
-"Software Engineer, PhD, Early Career, Campus, 2025 Start",2025-04-02,https://jobright.ai/jobs/info/66e9216322eef8e427ec682a?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
-Cambridge, MA
-San Bruno, CA
-Reston, VA
-Mountain View, CA
-Sunnyvale, CA
-Seattle, WA
-San Francisco, CA
-Los Angeles, CA
-Irvine, CA
-Durham, NC
-Pittsburgh, PA",Google,10000+,"Apps,Artificial Intelligence (AI)",$136K-$200K /yr,"1. PhD degree in Computer Science or related technical field.
-2. Experience coding in one of the following programming languages including but not limited to: C, C++, Java, JavaScript, Python, or Golang.",not sure,
 "Localization QA Tester / Proofreader - Multiple Languages (Austin, TX)",2025-04-02,https://jobright.ai/jobs/info/67b49674ff041df0d9b11049?utm_source=1100&utm_campaign=Software Engineering,On Site,"Austin, TX",Welocalize,1001-5000,"Consulting,Education",$28-$28 /hr,"1. Native-level fluency in their respective language (grammar, vocabulary, composition, punctuation)
 2. Fluency in English (written and spoken)
 3. Experience working in translation
@@ -1446,12 +1483,6 @@ Seattle, WA",Truveta,251-500,"Analytics,Data Management",$94000-$120000 /yr,"1. 
 3. 1+ years of professional development experience designing, coding and debugging React + TypeScript applications
 4. 1+ years of working on modern cloud platforms (AWS, GCP, Azure)
 5. 1+ years of working with a database system (SQL or NoSQL)
-...",not sure,
-Software Engineer - Service Platform,2025-04-01,https://jobright.ai/jobs/info/67f11dd4e9e506649e10563f?utm_source=1100&utm_campaign=Software Engineering,Hybrid,Greater Seattle Area,Truveta,251-500,"Analytics,Data Management",$94K-$120K /yr,"1. 1+ years of experience with software development in one or more programming languages (e.g., Java, C#, or Python), and with data structures/algorithms
-2. Understanding of basic software architecture principles, design patterns, and best practices
-3. Excellent problem-solving skills
-4. B.S. or M.S. in Computer Science or related field
-5. Have proven experience building reliable, secure and scalable software solutions using modern cloud-based paradigms
 ...",not sure,
 "Quality Assurance Tech, Robotics Development Center",2025-04-01,https://jobright.ai/jobs/info/67ecb51a1c516822e76c8c88?utm_source=1100&utm_campaign=Software Engineering,On Site,"Sumner, WA",Amazon,10000+,"Crowdsourcing,Delivery",$45100-$100900 /yr,"1. Associate’s Degree or 1+ year experience in quality assurance
 2. Manual testing experience
@@ -1653,18 +1684,6 @@ Redmond, WA",Amazon,10000+,"Crowdsourcing,Delivery",$100K-$200K /yr,"1. Currentl
 4. Basic understanding of security principles, cryptographic techniques, and data privacy regulations (e.g., PCI-DSS, GDPR, CCPA).
 5. Passion for building secure and privacy-first applications.
 ...",not sure,
-"Software Engineer, PhD, Early Career, Campus, Systems and Infrastructure, 2025 Start",2025-04-01,https://jobright.ai/jobs/info/66e91a0900a8774bbeaad9ee?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
-Pittsburgh, PA
-Sunnyvale, CA
-Irvine, CA
-Los Angeles, CA
-San Jose, CA
-San Francisco, CA
-Cambridge, MA
-Reston, VA
-Bellevue, WA",Google,10000+,"Apps,Artificial Intelligence (AI)",$136K-$200K /yr,"1. PhD degree in Computer Science or related technical field.
-2. Experience coding in one of the following programming languages including but not limited to: C, C++, Java, JavaScript, Python, or Golang.
-3. Experience in one or more of the following: architecting or developing distributed systems, concurrency, multi-threading, or synchronization.",not sure,
 Vet Academy - Cloud Engineer with CloudLAUNCH – Student U.S. Military and Military Spouse Opportunity,2025-04-01,https://jobright.ai/jobs/info/67ebe58236fc66877758ed13?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
 Nashville, TN
 Austin, TX",Oracle,10000+,"Data Governance,Data Management",$36-$60 /hr,"1. Bachelor’s degree (GPA of 3.2 or greater) in Computer Science, Information Technology, MIS, or related degree
@@ -1673,8 +1692,6 @@ Austin, TX",Oracle,10000+,"Data Governance,Data Management",$36-$60 /hr,"1. Bach
 4. Experience with 2 or more scripting languages (Python, C#, Java, C++, SQL, etc.)
 5. Confident communicator with ability to collaborate and present concepts clearly
 ...",no,
-"Software Engineer - Fullstack, Multiple Locations",2025-04-01,https://jobright.ai/jobs/info/67ebe51c5b77728f1284284c?utm_source=1100&utm_campaign=Software Engineering,Remote,United States,Microsoft,10000+,"Artificial Intelligence (AI),Data Management",$82K-$175K /yr,"1. Bachelor's Degree (or currently pursuing a degree) in Computer Science or related technical discipline with proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python.
-2. OR equivalent experience.",not sure,
 Engineering Manager - Search,2025-04-01,https://jobright.ai/jobs/info/67812a50fffe27ae864b3243?utm_source=1100&utm_campaign=Software Engineering,Remote,United States,Eventbrite,501-1000,"Association,Event Management",$141600-$254900 /yr,"1. 1+ years experience in engineering leadership and people management
 2. Demonstrated ability to grow and lead high-functioning and diverse engineering teams
 3. You’re a polyglot with a solid technical background and the ability to contribute to software design and architectural discussions as a player coach.
@@ -1750,12 +1767,6 @@ Software Engineer (Entry to Mid-Level),2025-03-31,https://jobright.ai/jobs/info/
 4. Understanding of web technologies (REST APIs, HTTP, HTML, CSS).
 5. Strong communication, collaboration, and problem-solving skills.
 ...",no,yes
-Associate Software Engineer,2025-03-31,https://jobright.ai/jobs/info/67eb3c5485fe488069c923c8?utm_source=1100&utm_campaign=Software Engineering,On Site,"Lowell, MA",UKG,10000+,"Bookkeeping and Payroll,Human Resources",$70100-$131500 /yr,"1. Bachelor’s degree in Computer Science, Engineering, or a related field.
-2. Proficiency in at least one programming language such as Java, Python, C++, or JavaScript.
-3. Strong understanding of computer science fundamentals, including algorithms, data structures, and software design principles.
-4. Excellent problem-solving skills and a proactive attitude.
-5. Good communication and teamwork skills, with a willingness to collaborate and learn from others.
-...",no,
 Software Test Tools Engineer I,2025-03-31,https://jobright.ai/jobs/info/67eb282c40c16c66b73e5d37?utm_source=1100&utm_campaign=Software Engineering,On Site,"San Diego, CA",Tandem Diabetes Care,1001-5000,,$34-$43 /hr,"1. Bachelor’s degree in EE or CS is required or related field or equivalent combination of education and applicable job experience.
 2. Must have experience as a test engineer with tools in the system they support.
 3. Proven experience in test case creation, Design Change Assessments, and participation in software review boards.
@@ -1902,10 +1913,6 @@ Integrations Specialist,2025-03-30,https://jobright.ai/jobs/info/67e9f1a582d958b
 3. Strong analytical skills, innovative problem-solving abilities, and a proactive approach to solution development.
 4. Excellent communication and documentation skills; ability to work independently with minimal oversight or in a collaborative team.
 5. Track record of driving business growth through innovation.",not sure,
-Entry Level Software Engineer,2025-03-30,https://jobright.ai/jobs/info/67eb1db4cc873bd9dcc886bf?utm_source=1100&utm_campaign=Software Engineering,Remote,Colorado Springs Area,Lockheed Martin,10000+,"Aerospace,Cyber Security",$60200-$106030 /yr,"1. Software service development experience in Java
-2. UI web / JavaScript development
-3. Experience collaborating with a team in an Agile environment
-4. Must be a US Citizen; this position will require access to sensitive government data.",no,
 Software Engineer,2025-03-30,https://jobright.ai/jobs/info/67f2a3a848ad4025d6c9d971?utm_source=1100&utm_campaign=Software Engineering,On Site,"Anaheim, CA",Calance,501-1000,"Information Technology,Software",$61-$61 /hr,"1. Bachelor’s degree in Computer Science or Computer Engineering
 2. One year of experience in object oriented programming
 3. Experience with web-based APIs
@@ -1929,12 +1936,6 @@ Associate Software Development Engineer in Test,2025-03-30,https://jobright.ai/j
 3. QA Experience: 1-2 years of experience in Software Quality Assurance, with a strong focus on test automation.
 4. Open-source Frameworks: 1-2 years of hands-on experience using open-source automation frameworks such as Selenium, Playwright, or Cypress etc.
 5. UI and API Automation: Extensive experience (1-2 years) in automating UI and API tests, ensuring comprehensive test coverage.
-...",not sure,
-Quality Assurance Specialist,2025-03-29,https://jobright.ai/jobs/info/67f242736afff48b6fc3babb?utm_source=1100&utm_campaign=Software Engineering,On Site,"Las Vegas, NV",Intermountain Health,10000+,Health Care,$19-$29 /hr,"1. High School Diploma or GED. Education will be verified.
-2. 1 year of PSR experience
-3. Demonstrated intermediate skill in spreadsheets and word processing.
-4. Ability to document all call information according to standard operating procedures
-5. Proficient in medical system applications
 ...",not sure,
 Sr Engineer - Finance Inventory Valuation,2025-03-29,https://jobright.ai/jobs/info/67f20c8e53e45b5f46668b1f?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
 Brooklyn Park, MN
@@ -2056,11 +2057,11 @@ Associate Technical Analyst,2025-03-28,https://jobright.ai/jobs/info/67e9b016565
 ...",not sure,
 Software Applications Engineer I – Early Career 2025 University Grad,2025-03-28,https://jobright.ai/jobs/info/67e9aa46c26a9a578c134920?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
 Huntsville, AL
-Van Horn, TX
-Space Coast, FL
 Los Angeles, CA
 Seattle, WA
-Denver, CO",Blue Origin,10000+,"Aerospace,Manufacturing",$99445-$139222.65 /yr,"1. Must be a U.S. citizen or national, U.S. permanent resident (current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum.
+Denver, CO
+Space Coast, FL
+Van Horn, TX",Blue Origin,10000+,"Aerospace,Manufacturing",$99445-$139222.65 /yr,"1. Must be a U.S. citizen or national, U.S. permanent resident (current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum.
 2. Minimum of a BS Degree in computer engineering, computer science, electrical engineering, mathematics, physics, aerospace, or related field.
 3. Will have earned their degree within the last year and able to start by Fall 2025.
 4. Experience with software development skills, particularly in C/C++, Python, or C#/Java.
@@ -2244,17 +2245,17 @@ Liquidity Risk Software Analyst,2025-03-27,https://jobright.ai/jobs/info/67e8ab4
 4. Experience in developing Unix shell scripts and performing database query optimization and performance tuning for large Oracle databases.
 5. Proficient with PL/SQL and RDBMS concepts
 ...",not sure,
+Temporary IT Analyst/Programmer I,2025-03-27,https://jobright.ai/jobs/info/67e6267b0e0daf5f7525203c?utm_source=1100&utm_campaign=Software Engineering,On Site,"Raleigh, NC",North Carolina State University,5001-10000,"Education,Non Profit",$38.50-$40.35 /hr,"1. BS in Computer Science or related field
+2. Experience with software development and systems integration, particularly in research or agriculture technology setting
+3. Strong knowledge of computer vision, IoT technologies, and data collection systems
+4. Strong problem-solving skills and the ability to work independently and as part of a collaborative team
+5. Excellent written and verbal communication skills, with the ability to create clear technical documentation",not sure,
 Software Developer Associate,2025-03-27,https://jobright.ai/jobs/info/67e74609b861e03633dff1fd?utm_source=1100&utm_campaign=Software Engineering,On Site,"Annapolis Junction, MD",General Dynamics Information Technology,10000+,"Artificial Intelligence (AI),Cloud Computing",$102000-$138000 /yr,"1. Top Secret SCI + Polygraph clearance level must currently possess
 2. Top Secret SCI + Polygraph clearance level must be able to obtain
 3. 0+ years of related experience
 4. Software Systems and Software Updates technical skills
 5. Application Development and Software Development skills
 ...",no,yes
-Temporary IT Analyst/Programmer I,2025-03-27,https://jobright.ai/jobs/info/67e6047ee14bbc6333e1ae34?utm_source=1100&utm_campaign=Software Engineering,On Site,"Raleigh, NC",North Carolina State University,5001-10000,"Education,Non Profit",$38.50-$40.35 /hr,"1. BS in Computer Science or related field
-2. Experience with software development and systems integration, particularly in research or agriculture technology setting.
-3. Strong knowledge of computer vision, IoT technologies, and data collection systems
-4. Strong problem-solving skills and the ability to work independently and as part of a collaborative team
-5. Excellent written and verbal communication skills, with the ability to create clear technical documentation",not sure,
 "New College Grad, Software Development Engineering (Apps)",2025-03-27,https://jobright.ai/jobs/info/67e5f3a2d2fb40ba129b59dc?utm_source=1100&utm_campaign=Software Engineering,On Site,"Irvine, CA",Western Digital,10000+,"Big Data,Computer",$64345-$91200 /yr,"1. Bachelor’s in Computer Engineering, Computer Science, Electrical Engineering
 2. Right to work in the US without requiring Western Digital to commence or sponsor an immigration case in order to employ you at any point in the future required
 3. Exceptional written and verbal communication skills
@@ -2271,14 +2272,14 @@ Integration Developer 1,2025-03-27,https://jobright.ai/jobs/info/67e6047ee14bbc6
 3. Familiarity creating web services.
 4. Familiarity with SOAP, REST, JSON, WADL specifications.
 5. Good oral and written communication skills.",no,
+Application Programmer/Analyst,2025-03-27,https://jobright.ai/jobs/info/67e5cf04002722fdd01850b1?utm_source=1100&utm_campaign=Software Engineering,On Site,"Iowa City, IA",University of Iowa,1-10,,$61393-$61393 /yr,"1. Bachelor’s Degree in electrical/Computer Engineering, Computer Science, or related field. An equivalent combination of education and related experience in application development, system administration, and technical support may also serve to meet this requirement.
+2. Demonstrated (typically 6 months to 1 year) direct work-related experiences in workgroup/department level application development.
+3. Excellent written and verbal communication and ability to communicate effectively with technical/non-technical staff.
+4. Experience with modern program development languages and tools, and Object-Oriented programming frameworks.
+5. Capability to implement technical solutions based on user needs and application designs with knowledge of Microsoft .NET framework.
+...",not sure,
 "Software Engineer - Fullstack, Charlotte",2025-03-27,https://jobright.ai/jobs/info/67e5c52fb1866b910ba75cca?utm_source=1100&utm_campaign=Software Engineering,On Site,"Charlotte, NC",Microsoft,10000+,"Artificial Intelligence (AI),Data Management",$82K-$175K /yr,"1. Bachelor's Degree (or currently pursuing a degree) in Computer Science or related technical discipline with proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python.
 2. OR equivalent experience.",not sure,
-Quality Assurance Specialist,2025-03-27,https://jobright.ai/jobs/info/67f035cf1d9a7812443fd257?utm_source=1100&utm_campaign=Software Engineering,On Site,Nevada Central Office,Intermountain Health,10000+,Health Care,$19.27-$29.33 /hr,"1. High School Diploma or GED. Education will be verified.
-2. 1 year of PSR experience
-3. Demonstrated intermediate skill in spreadsheets and word processing.
-4. Ability to document all call information according to standard operating procedures
-5. Proficient in medical system applications
-...",not sure,
 Analyst CS Performance Research,2025-03-27,https://jobright.ai/jobs/info/67e59fe1e6a1b3b50b2826d6?utm_source=1100&utm_campaign=Software Engineering,On Site,"8337 SOUTHPARK CIR,ORLANDO,FL 32819",Walgreens,10000+,"Consumer Goods,Health Care",$51510-$82620 /yr,"1. At least 1 year of call center experience.
 2. Bachelor’s degree and at least 1 year experience in analytical role OR High School Diploma/GED and at least 3 years in analytical role
 3. Experience communicating both verbally (on phone, one-on-one, to groups) and in writing (emails, letters, reports, presentations) to various audiences (work group, team, company management, prospective acquisitions, external clients).
@@ -2374,8 +2375,8 @@ Boulder, CO
 Phoenix, AZ
 Houston, TX
 Richmond, VA
-Las Vegas, NV
 Miami, FL
+Las Vegas, NV
 Cleveland, OH
 San Diego, CA
 Remote US",Affirm,1001-5000,"Financial Services,FinTech",$130000-$170000 /yr,"1. Previous work or internship experience designing, developing and launching backend systems at scale.
@@ -2526,7 +2527,6 @@ Software Engineer,2025-03-26,https://jobright.ai/jobs/info/67c0ddaa2f88f81c7bb56
 4. Ability to develop applications that easily integrate with external APIs.
 5. Knowledge of Service Oriented Architecture (SOA) and MVC Design patterns.
 ...",not sure,
-SLT Systems Software Engineer,2025-03-26,https://jobright.ai/jobs/info/67f4c5ce2c60d08ed9f8835b?utm_source=1100&utm_campaign=Software Engineering,On Site,"Cupertino, California, United States",Apple,10000+,"Artificial Intelligence (AI),Consumer Electronics",$117800-$177900 /yr,1. Bachelor's degree +0 Years of Experience,not sure,yes
 "ADC Engineer I, Amazon Dedicated Cloud Engineering - Support Engineering",2025-03-26,https://jobright.ai/jobs/info/67dbd6d6670e48fac009def6?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
 Seattle, WA
 Denver, CO",Amazon Web Services (AWS),10000+,"Computer,Consulting",$82K-$152K /yr,"1. High school or equivalent diploma, or A+ or CND (Certified Network Defender) or Network+ or Security+
@@ -2588,8 +2588,8 @@ Security Software Engineer - 2025 Grad,2025-03-25,https://jobright.ai/jobs/info/
 ...",not sure,
 Backend Software Engineer,2025-03-25,https://jobright.ai/jobs/info/67e36862b5ddbeae160f68a3?utm_source=1100&utm_campaign=Software Engineering,Remote,"Multi Location
 Seattle, WA
-San Francisco, CA
-Mountain View, CA",Atlassian,1001-5000,"Collaboration,Enterprise Software",$147500-$196600 /yr,"1. 1- 3+ years experience with one or more prominent languages such as Java, Python, Kotlin, Go, or Scala is required.
+Mountain View, CA
+San Francisco, CA",Atlassian,1001-5000,"Collaboration,Enterprise Software",$147500-$196600 /yr,"1. 1- 3+ years experience with one or more prominent languages such as Java, Python, Kotlin, Go, or Scala is required.
 2. Bachelor's or Master's degree (preferably a Computer Science degree or equivalent experience).
 3. Experience performing platform integrations using REST.
 4. A background in working with GIT in a collaborative team setting.
@@ -2601,11 +2601,6 @@ Solutions Engineer,2025-03-25,https://jobright.ai/jobs/info/67e379d82cac52f139eb
 4. Experience with Unix/Linux platforms
 5. Strong understanding of database architecture and design concepts (UML/ERD)
 ...",no,
-"Early Career Computer Science - Software Engineer, Onsite",2025-03-25,https://jobright.ai/jobs/info/67e381aef958b915eef16608?utm_source=1100&utm_campaign=Software Engineering,Hybrid,"Albuquerque, NM",Sandia National Laboratories,10000+,"Government,Information Technology",$99400-$193600 /yr,"1. A Bachelor’s degree in a relevant discipline, or an equivalent combination of directly relevant education and experience defined by the following parameters:
-2. An Associate’s degree in a relevant discipline plus four (4) years of directly related relevant work experience; or
-3. A High School Diploma plus eight (8) years of directly related relevant work experience.
-4. Ability to obtain and maintain a DOE Q and SCI clearance which may require a polygraph test.
-5. Equivalent education and experience must be engineering or scientific experience that demonstrates the knowledge, skills, and ability to perform independent research and development.",no,
 "Financial Systems Developer, AWS Fintech",2025-03-25,https://jobright.ai/jobs/info/67e347536fd9edf4cdbf64be?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
 Jersey City, NJ
 Dallas, TX
@@ -2616,9 +2611,6 @@ Seattle, WA",Amazon Web Services (AWS),10000+,"Computer,Consulting",$81600-$2051
 QA Analyst I (0970),2025-03-25,https://jobright.ai/jobs/info/67e345126fd9edf4cdbf60b4?utm_source=1100&utm_campaign=Software Engineering,On Site,"Sacramento, CA",Corpay,1001-5000,"Financial Services,FinTech",$75000-$110000 /yr,"1. BA/BS or comparable relevant experience
 2. Experience in documenting technical specifications and requirements
 3. Ability to work in a team as well as independently and meet aggressive goals",not sure,
-"Early Career Computer Science - Software Engineer, Onsite",2025-03-25,https://jobright.ai/jobs/info/67e33212129b8df174369654?utm_source=1100&utm_campaign=Software Engineering,Hybrid,"Albuquerque, NM",Sandia National Laboratories,10000+,"Government,Information Technology",$99K-$194K /yr,"1. A Bachelor’s degree in a relevant discipline, or an equivalent combination of directly relevant education and experience defined by the following parameters: An Associate’s degree in a relevant discipline plus four (4) years of directly related relevant work experience; or A High School Diploma plus eight (8) years of directly related relevant work experience.
-2. Ability to obtain and maintain a DOE Q and SCI clearance which may require a polygraph test.
-3. Equivalent education and experience must be engineering or scientific experience that demonstrates the knowledge, skills, and ability to perform independent research and development.",no,
 Junior SAP / SQL Developer,2025-03-25,https://jobright.ai/jobs/info/67e33212129b8df17436961f?utm_source=1100&utm_campaign=Software Engineering,On Site,"Irvine, CA","Madiba, Inc.",101-250,"Consulting,Financial Services",$60K-$80K /yr,"1. Bachelor's degree in computer science, Engineering or Finance/Accounting disciplines encouraged to apply
 2. Hands on SQL coding or scripting capabilities, preferably in industry.
 3. Demonstrated analytical, technical, and problem-solving skills
@@ -2628,19 +2620,6 @@ Implementation Specialist,2025-03-25,https://jobright.ai/jobs/info/67e328496b431
 3. Highly proficient in Excel and Microsoft Office suite
 4. Demonstrate strong problem solving and troubleshooting ability
 5. Excellent oral and written communication skills
-...",no,
-Managed Services - Java Full Stack Support Analyst Experienced Associate,2025-03-25,https://jobright.ai/jobs/info/67f43a638c3cf70bd057ed30?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
-OH-Cleveland
-CO-Denver
-MA-Boston
-TX-Dallas
-FL-Miami
-DC-Washington
-PA-Philadelphia",PwC,10000+,"Accounting,Business Development",$49000-$116000 /yr,"1. Apply a learning mindset and take ownership for your own development.
-2. Appreciate diverse perspectives, needs, and feelings of others.
-3. Adopt habits to sustain high performance and develop your potential.
-4. Actively listen, ask questions to check understanding, and clearly express ideas.
-5. Seek, reflect, act on, and give feedback.
 ...",no,
 Infrastructure Engineer I,2025-03-25,https://jobright.ai/jobs/info/67168151a2764eaddfb5c4aa?utm_source=1100&utm_campaign=Software Engineering,On Site,"Cape Canaveral, Florida",Relativity Space,501-1000,"3D Technology,Aerospace",$95000-$119000 /yr,"1. Bachelor’s degree in civil engineering, structural engineering, or related technical discipline.
 2. Experience with design documentation, construction drawings, construction bid solicitation, contractor selection, construction management, field supervision, permitting, QA/QC, and Safety.
@@ -2675,12 +2654,6 @@ SOFTWARE ENGINEER I (212A31825),2025-03-25,https://jobright.ai/jobs/info/67e2f3e
 3. Knowledge of standard concepts, practices, and procedures in technologies used at Infinite Campus (e.g., Java, Groovy, SQL, XSLT, Spock, Grails, JavaScript, and/or Angular)
 4. Internship or entry level work experience/knowledge of SQL or other relational database languages
 5. Java or other programming languages
-...",not sure,
-"Analyst, Implementation - File Tester",2025-03-25,https://jobright.ai/jobs/info/67e2ce8968cbdce3dbaf694d?utm_source=1100&utm_campaign=Software Engineering,On Site,"Milwaukee, WI","HSA Bank, a division of Webster Bank, N.A.",251-500,,$50000-$58000 /yr,"1. At least 1 year previous file testing experience.
-2. Excellent interpersonal, negotiation, and relationship-building skills.
-3. Exceptional verbal and written communication skills.
-4. Strong problem-solving skills.
-5. Comfortable with advocating for employers internally.
 ...",not sure,
 "Full Stack Tech Fellow [Full Time, Summer Contract] - Menlo Park Program",2025-03-25,https://jobright.ai/jobs/info/6764f6ba53f2ea33e55a0ed1?utm_source=1100&utm_campaign=Software Engineering,On Site,"Menlo Park, CA",CodePath,11-50,"Communities,Education",$30-$45 /hr,"1. 1+ years of formal experience working as a web developer in core technologies
 2. Strong understanding of core technologies: React.js, Node.js, and foundational database knowledge. Our ideal candidate has strong familiarity with relational databases (e.g. Postgres, MySQL, etc.)
@@ -2811,9 +2784,9 @@ Firmware Engineer I,2025-03-24,https://jobright.ai/jobs/info/67e1b1a5c256c8d8792
 3. Basic understanding of Computer Aided Engineering tools
 4. Familiarity with working in multi-disciplinary design and development teams
 5. Basic understanding of digital circuit concepts",no,yes
-Associate App Dev Engineer,2025-03-24,https://jobright.ai/jobs/info/67eae4ea8a2277c2e3093ddd?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
-WI Madison
-MA Boston",American Family Insurance,11-50,"Angel Investment,Finance",$78000-$128000 /yr,"1. Demonstrated experience providing customer-driven solutions, support or service.
+Associate App Dev Engineer,2025-03-24,https://jobright.ai/jobs/info/67eae4ea8a2277c2e3093dde?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
+MA Boston
+WI Madison",American Family Insurance,11-50,"Angel Investment,Finance",$78000-$128000 /yr,"1. Demonstrated experience providing customer-driven solutions, support or service.
 2. Experience with intermediate to advance skills with Java and Python.
 3. Basic knowledge and understanding of integration and migration strategies and technologies.
 4. Basic knowledge and understanding of application architecture, design alternatives, and development standards.
@@ -2852,6 +2825,8 @@ Software Development Engineer (SDN Traffic Intelligence & Control) -2025 Start (
 2. Proficiency in at least one programming language, such as Go, C++, or Python, with a strong foundation in designing and developing distributed systems.
 3. In-depth understanding of networking protocols and the TCP/IP stack.
 4. Practical or research experience in the areas of bandwidth management or distributed rate limiting systems/algorithms will be considered particularly favorable.",not sure,
+"Software Engineer, PhD, Early Career, Campus, 2025 Start",2025-03-24,https://jobright.ai/jobs/info/66e91a0900a8774bbeaad9b9?utm_source=1100&utm_campaign=Software Engineering,On Site,"San Francisco, CA",Google,10000+,"Apps,Artificial Intelligence (AI)",$136K-$200K /yr,"1. PhD degree in Computer Science or related technical field.
+2. Experience coding in one of the following programming languages including but not limited to: C, C++, Java, JavaScript, Python, or Golang.",not sure,
 "Frontend Software Engineer, Global E-commerce Supply Chain and Logistics",2025-03-23,https://jobright.ai/jobs/info/67c3275c81697e4b7053f005?utm_source=1100&utm_campaign=Software Engineering,On Site,"San Jose, CA",TikTok,10000+,"Content Creators,Content Discovery",$119K-$250K /yr,"1. Bachelor or above degree in Computer Science or related major, 1+ years of industry experience in a software development environment.
 2. Proficiency in Javascript, ES5/6, CSS and strong knowledge of data structures and algorithms.
 3. Understanding of component-based development ideas, familiarity with React, Angular, Vue.js, or any other equivalent library / framework.
@@ -2929,6 +2904,9 @@ Software Engineer Graduate (XR Web Platform-PICO) - 2025 Start (BS/MS),2025-03-2
 3. Knowledge of cross-platform mobile or web frameworks (e.g., React, React Native)
 4. Strong problem-solving and debugging skills
 5. Eagerness to learn and grow in a fast-paced, collaborative environment",not sure,yes
+"Software Engineer, PhD, Early Career, Campus, Systems and Infrastructure, 2025 Start",2025-03-23,https://jobright.ai/jobs/info/66e91a0900a8774bbeaad9e6?utm_source=1100&utm_campaign=Software Engineering,On Site,"San Francisco, CA",Google,10000+,"Apps,Artificial Intelligence (AI)",$136K-$200K /yr,"1. PhD degree in Computer Science or related technical field.
+2. Experience coding in one of the following programming languages including but not limited to: C, C++, Java, JavaScript, Python, or Golang.
+3. Experience in one or more of the following: architecting or developing distributed systems, concurrency, multi-threading, or synchronization.",not sure,
 Full Stack Engineer,2025-03-23,https://jobright.ai/jobs/info/67de7662bc30ebe2ca28bcd9?utm_source=1100&utm_campaign=Software Engineering,Hybrid,"Silver Spring, MD",Peraton Labs,10000+,"Consulting,Information Services",$86K-$138K /yr,"1. 2 years with BS; 1 year with MS in Computer Science, Information Technology, or similar technical field. Additional significant relevant experience will be considered in lieu of formal education.
 2. Experience with a JavaScript Framework (React, Svelte, Vue, Angular, etc.)
 3. Experience working with HTML/CSS/JavaScript and related front-end technologies in a professional environment.
@@ -3017,9 +2995,7 @@ Programmer Analyst,2025-03-21,https://jobright.ai/jobs/info/67db4442751dce786cd6
 4. Experience with building databases or programs
 5. Ability to effectively prioritize and manage multiple tasks
 ...",not sure,
-UI Software Developer I,2025-03-21,https://jobright.ai/jobs/info/67de0add3bd0b896121af770?utm_source=1100&utm_campaign=Software Engineering,Hybrid,"Multi Location
-United States
-San Diego, CA","Miva, Inc.",51-100,"Advertising,Digital Media",$38-$44 /hr,"1. 1-3 years of experience as a UI Software Developer
+UI Software Developer I,2025-03-21,https://jobright.ai/jobs/info/67de0add3bd0b896121af770?utm_source=1100&utm_campaign=Software Engineering,Hybrid,United States,"Miva, Inc.",51-100,"Advertising,Digital Media",$38-$44 /hr,"1. 1-3 years of experience as a UI Software Developer
 2. Proficient in web programming languages (ES6 JavaScript, CSS, HTML)
 3. Familiarity with the Unix operating system or derivatives (e.g. Linux)
 4. Basic knowledge of SQL (MySQL, PostgreSQL)
@@ -3142,10 +3118,6 @@ Software Engineer,2025-03-20,https://jobright.ai/jobs/info/67e3b5f48f8497b78af5c
 4. Passionate technologists
 5. Lifelong learners for a passion for technology
 ...",no,
-RF Hardware and Wireless Software Engineer,2025-03-20,https://jobright.ai/jobs/info/67bff19524890c4fd864f7a3?utm_source=1100&utm_campaign=Software Engineering,On Site,"San Diego, CA",Booz Allen Hamilton,10000+,"Consulting,Cyber Security",$60K-$137K /yr,"1. 1+ years of experience in RF hardware and wireless software engineering in LTE or RF
-2. Experience with IT administration, including troubleshooting and maintaining IT and RF systems
-3. Secret clearance
-4. HS diploma or GED",no,
 Software Development Engineer,2025-03-20,https://jobright.ai/jobs/info/67dcc6cb8746d2bdb6a17e7f?utm_source=1100&utm_campaign=Software Engineering,On Site,"San Jose, CA",Adobe,10000+,"Artificial Intelligence (AI),Consulting",$93200-$170600 /yr,"1. Bachelor’s Degree or equivalent experience in Computer Science
 2. 1+ years of product experience developing Apple or Android apps
 3. Experience with Swift or similar languages
@@ -3435,9 +3407,6 @@ Software Engineer III,2025-03-18,https://jobright.ai/jobs/info/67dcdc7f34a371b55
 Control System Software Engineer,2025-03-18,https://jobright.ai/jobs/info/67da5995bfb201d8355d4188?utm_source=1100&utm_campaign=Software Engineering,On Site,"Indianapolis, IN",On-Board Companies,1001-5000,"Consulting,Information Technology",$61.18-$61.18 /hr,"1. Bachelor’s degree in Engineering with 1+ years of experience in software development or testing, OR
 2. Master’s degree in Engineering
 3. In order to be eligible for consideration, you must be a U.S. Citizen",no,
-Solutions Engineer - Microsoft,2025-03-18,https://jobright.ai/jobs/info/67da12487c27ce0112cc0e68?utm_source=1100&utm_campaign=Software Engineering,On Site,"Southern California, USA",Cisco,10000+,"Communications Infrastructure,Enterprise Software",$192200-$246900 /yr,"1. 1-2 years proven experience of related pre-sales.
-2. 1-2 years of experience providing consultative support sessions.
-3. 1-2 years of experience with baseline SE skills and depth in Route/Switch, Datacenter, Security, and Collaboration.",not sure,
 Software Implementation Analyst I (Hybrid),2025-03-18,https://jobright.ai/jobs/info/67d9cc31340a9382e641fcd9?utm_source=1100&utm_campaign=Software Engineering,Hybrid,"Anaheim, CA",Wescom Financial,501-1000,Financial Services,$72216-$104754 /yr,"1. High School Diploma Or Equivalent Experience
 2. Proven experience (one(1) – three(3) years) in enterprise software system installations, configuration, implementations, project life cycles, and software implementation methodologies
 3. Experience in software implementation projects involving integration with 3rd party software
@@ -3479,20 +3448,15 @@ Junior Software Development Engineer,2025-03-18,https://jobright.ai/jobs/info/67
 3. Highly collaborative, a fast learner, and willing to work wherever you’re needed on the team.
 4. Able to effectively communicate technical issues in a manner all can understand.
 5. Able to work with Product Managers to prioritize work relative to both delivering business value and addressing technical debt.",no,
-"Software Engineer, SaaS Data Protection",2025-03-18,https://jobright.ai/jobs/info/67d947b95862b0b2c8727ea3?utm_source=1100&utm_campaign=Software Engineering,On Site,"Palo Alto, CA",Rubrik,1001-5000,"Cloud Computing,Cloud Data Services",$126500-$189700 /yr,"1. 1-2 years of experience in developing large-scale distributed systems
-2. Exceptional understanding of distributed systems
-3. Sound understanding of cloud architecture and internals for AWS, Azure, or GCP
-4. Proven experience in data structures, algorithms, software design, and systems analysis
-5. A degree in Computer Science or equivalent",not sure,
 EHR Applications Analyst I,2025-03-18,https://jobright.ai/jobs/info/67d94a10710806c96f47f4a1?utm_source=1100&utm_campaign=Software Engineering,On Site,"Roswell, GA",University of Rochester,10000+,"Health Care,Medical",$63815-$95723 /yr,"1. Associate's degree and 1 year of relevant experience required
 2. Or equivalent combination of education and experience
 3. Strong attention to detail required
 4. Ability to develop creative solutions to complex problems and develop critical thinking skills required
 5. Strong communication (verbal and written), teamwork and follow-up skills required
 ...",not sure,
-"Partner Engineer, YouTube Music Labels",2025-03-18,https://jobright.ai/jobs/info/67d92591f88c1a91bc6536a0?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
-San Bruno, CA, USA
-New York, NY, USA",Google,10000+,"Apps,Artificial Intelligence (AI)",$97500-$140000 /yr,"1. Bachelor's degree in Computer Science, related technical field, or equivalent practical experience.
+"Partner Engineer, YouTube Music Labels",2025-03-18,https://jobright.ai/jobs/info/67d92591f88c1a91bc6536a4?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
+New York, NY, USA
+San Bruno, CA, USA",Google,10000+,"Apps,Artificial Intelligence (AI)",$97500-$140000 /yr,"1. Bachelor's degree in Computer Science, related technical field, or equivalent practical experience.
 2. Experience with C/C++, Java, TypeScript, or Python programming languages, and Android/Linux systems.
 3. Experience troubleshooting using common web technologies and video streaming technologies.
 4. Experience in software focused program/project management and in the business technology market and working with engineering, sales and marketing teams in networking.",not sure,
@@ -3526,23 +3490,11 @@ Geothermal Software Developer/Analyst,2025-03-17,https://jobright.ai/jobs/info/6
 4. At least one year of experience in simulation and/or modeling, and in particular experience in conducting analytical research, software design/development, and development of modeling/simulation tools.
 5. Excellent data gathering and management skills.
 ...",no,
-Epic Analyst II - MyChart / Epic Ambulatory,2025-03-17,https://jobright.ai/jobs/info/67d899afe4064f56d5a67505?utm_source=1100&utm_campaign=Software Engineering,On Site,"New York, NY",NYU Langone Health,10000+,"Education,Health Care",$81325.15-$119673.57 /yr,"1. Effective oral written communication and follow up skills
-2. Strong interpersonal relationship skills
-3. Strong desktop tool usage including Word, Excel and PowerPoint
-4. Self motivated detail oriented problem solver
-5. Requires 1-3 years of relevant experience and BA/BS Degree or equivalent
-...",not sure,
 "Amazon Dedicated Cloud Engineer, Pyxis ",2025-03-17,https://jobright.ai/jobs/info/67d870282f33852699c4cae0?utm_source=1100&utm_campaign=Software Engineering,On Site,"Denver, Colorado, USA",Amazon,10000+,"Crowdsourcing,Delivery",$105200-$188200 /yr,"1. Associate's degree or equivalent experience
 2. 1+ years of experience operating in a Unix, Linux, or Red Hat environment.
 3. 1+ years of experience with standard Internet protocols and networking fundamentals (Ethernet, ARP, TCP/IP, ICMP, UDP, TCP, SSL, DNS, HTTP, etc.)
 4. 1+ years of experience of proven ability to troubleshoot and identify the root cause of issues.
 5. Current, active US Government Security Clearance of TS/SCI with Polygraph",no,
-"Software Engineer I, Recent Graduate",2025-03-17,https://jobright.ai/jobs/info/675900b46d89e3628d9e3c63?utm_source=1100&utm_campaign=Software Engineering,Hybrid,United States,Acorns,501-1000,"Finance,Financial Services",$120K-$130K /yr,"1. Currently pursuing a Bachelor’s degree in computer science, software engineering, machine learning, mathematics, statistics, or a related field
-2. Required: Senior standing (Graduating 2025)
-3. Excellent command of one or more programming languages; Java, Scala, Ruby, Swift, Kotlin, Typescript, or Javascript
-4. Exceptional communication skills (verbal, written, and presentation)
-5. Hunger to learn new technologies
-...",no,
 Temporary Power Platform Developer,2025-03-17,https://jobright.ai/jobs/info/67d82efd69c9eef141a7c80c?utm_source=1100&utm_campaign=Software Engineering,Hybrid,"West Greenwich, RI",IGT,10000+,"Computer,Gaming",$55631-$98467 /yr,"1. Experience in developing solutions with the latest low-code technologies included in Microsoft´s Power Platform: Power Apps, Power Automate, CoPilot Studio / Power Virtual Agent, Power BI
 2. Experience in PowerShell, C#, SQL, .Net, etc.
 3. Experience in creating custom APIs to connect to 3rd party applications.
@@ -3565,10 +3517,6 @@ Software Developer Associate (TS/SCI with Poly),2025-03-16,https://jobright.ai/j
 3. Software Systems and Software Updates technical skills
 4. Application Development and Software Development skills
 5. US Citizenship Required",no,yes
-Software Engineer Graduate (Ads Measurement Signal and Privacy Technology) - 2025 Start (BS/MS),2025-03-16,https://jobright.ai/jobs/info/67d6d20799405322058b7133?utm_source=1100&utm_campaign=Software Engineering,On Site,"Seattle, WA",TikTok,10000+,"Content Creators,Content Discovery",$114K-$250K /yr,"1. BS/MS Degree in Computer Science, Computer Engineering or relevant technical field.
-2. Strong knowledge of data structures and algorithms, proficient in at least one coding language, including but not limited to Go, Javascript, Java, C++.
-3. Excellent communication, teamwork skills and ability to work under pressure. Strong ownership.
-4. Curiosity towards new technologies and solutions, and outstanding ability to analyze and solve problems.",not sure,yes
 Engineer Software 1 - 22424,2025-03-15,https://jobright.ai/jobs/info/67b90bb6462845fc17bf7ec2?utm_source=1100&utm_campaign=Software Engineering,On Site,"Wright-Patterson Air Force Base, OH","Mission Technologies, a division of HII",5001-10000,,$55K-$70K /yr,"1. 0 years experience with Bachelors in related field; or High School Diploma or equivalent and 4 years relevant experience.
 2. BS degree in Computer Science, Computer Engineering, Electrical Engineering, or a related field
 3. Knowledge of the basic principles of computer science
@@ -3603,12 +3551,10 @@ Associate Software Engineer ,2025-03-14,https://jobright.ai/jobs/info/67d4c68b85
 4. Familiar with the current technical capabilities and limitations of mobile rich media, and know 'what works where' across devices and desktop.
 5. Ability to manage ambiguity, work autonomously, multi-task, and meet fast evolving deadlines with a curiosity and passion for building rich, new experiences.
 ...",not sure,
-SAP ABAP / Java Developer,2025-03-14,https://jobright.ai/jobs/info/67d43bea24a3c10f7519a88e?utm_source=1100&utm_campaign=Software Engineering,On Site,"Dublin, OH",Cardinal Health,10000+,"Health Care,Hospital",$93500-$133600 /yr,"1. Demonstrates knowledge of software development techniques and fluency in software languages and application programming interfaces including SAP ABAP and other languages e.g., Java, JavaScript, MySQL
-2. Demonstrates general understanding of hardware/software platforms including but not limited to operating systems, databases, application servers, web servers and integration technologies
-3. Plans and executes system implementations that ensure success and minimize risk of system outages or other negative production impacts
-4. Understand the value of and be prepared to implement comprehensive unit testing patterns
-5. Experience and be comfortable working on fast-paced Agile teams
-...",not sure,
+"Software Engineer, Android (Bank Tech)",2025-03-14,https://jobright.ai/jobs/info/67f558c1d3a765660612e2fd?utm_source=1100&utm_campaign=Software Engineering,On Site,"Richmond, VA",Capital One,10000+,"Banking,Credit Cards",$120900-$138000 /yr,"1. Bachelor’s Degree
+2. At least 1.5 years of professional software engineering experience (Internship experience does not apply)
+3. At least 1 year of experience building Android applications
+4. At least 1 year of experience with Kotlin",no,
 "Software Engineer(Backend), Multimedia Arch Media Platform, Media Tooling - San Jose",2025-03-14,https://jobright.ai/jobs/info/67d4342d5eadd26f446aed83?utm_source=1100&utm_campaign=Software Engineering,On Site,"San Jose, CA",TikTok,10000+,"Content Creators,Content Discovery",$145K-$250K /yr,"1. Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience
 2. Analytical and problem solving skills
 3. Experience with software development practices such as source control, code reviews, unit testing, debugging and profiling
@@ -3636,6 +3582,16 @@ Mock Quality Assurance Tester,2025-03-13,https://jobright.ai/jobs/info/67d32b1fb
 4. Must be willing to sign Non-Disclosure Agreement (NDA)
 5. Willingness/ability to obtain and abide by TSL safety training
 ...",not sure,
+Associate Software Developer,2025-03-13,https://jobright.ai/jobs/info/67f4ec3c4ae9653186d97cf2?utm_source=1100&utm_campaign=Software Engineering,On Site,"Multi Location
+Pleasant Prairie, WI
+Kenosha, WI
+Glenview, IL
+Waukegan, IL
+Milwaukee, WI",Uline,1001-5000,Office Supplies,$80000-$90000 /yr,"1. Bachelor's degree in Computer Science, IT or related field.
+2. Experience in C#, Java or any object-oriented language and SQL programming.
+3. Experience interacting with REST APIs.
+4. Excellent verbal and written communication skills.
+5. Understanding of object-oriented and relational database design.",no,
 Quality Assurance Team,2025-03-12,https://jobright.ai/jobs/info/67d312975eda54607205db5f?utm_source=1100&utm_campaign=Software Engineering,On Site,"Richmond, ME",Angie's Lobster,1-10,Food and Beverage,$26-$26 /hr,"1. Strong teamwork skills.
 2. Ability to deliver on daily tasks without direct and constant supervision.
 3. Strong communication skills.
