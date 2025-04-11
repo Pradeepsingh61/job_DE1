@@ -1,18 +1,35 @@
 Position Title,Date,Apply,Salary,Work Model,Company,Company Size,Company Industry,Location,Qualifications,H1b Sponsored,Is New Grad
-Jr. Business & Technology Analyst - Data Engineer,2025-04-10,https://jobright.ai/jobs/info/67f7ffd20af7f9a9cbeca081?utm_source=1114&utm_campaign=New Grad Data Engineer,$24-$30 /hr,On Site,Axos Bank,1001-5000,,"HQ - San Diego, CA","1. Bachelor's Degree in Information Technology, Computer Science, Business Administration, Mathematics or a related discipline
-2. Customer Obsession: 'Good enough' isn't good enough for you. You're obsessed with perfecting the customer experience
-3. Leadership: A confident person with the ability to connect and inspire others to achieve success, whether or not they directly report to you
-4. Results Oriented: A driver who possess the ability to take actions and implement effective solutions in a timely manner. Excuses aren’t in your vocabulary because you always find alternative solutions when issues arise
-5. Ethics: Highest level of professional integrity and honesty as well as personal credibility. Your reputation for precedes you in this regard
-...",not sure,
-Analytics Engineer,2025-04-10,https://jobright.ai/jobs/info/67f7eb26c731dedcb2cac182?utm_source=1114&utm_campaign=New Grad Data Engineer,$63000-$70000 /yr,On Site,Curaleaf,5001-10000,"Alternative Medicine,Cannabis","Multi Location
+"Data Engineer, WWASFT",2025-04-10,https://jobright.ai/jobs/info/67f88605c8e25010d3343e2b?utm_source=1114&utm_campaign=New Grad Data Engineer,$91200-$185000 /yr,On Site,Amazon,10000+,"Crowdsourcing,Delivery","Seattle, WA","1. 1+ years of data engineering experience
+2. Experience with data modeling, warehousing and building ETL pipelines
+3. Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)
+4. Experience with one or more scripting language (e.g., Python, KornShell)
+5. Knowledge of writing and optimizing SQL queries in a business environment with large-scale, complex datasets",no,
+Analytics Engineer,2025-04-10,https://jobright.ai/jobs/info/67f832afb1421e117b6565c2?utm_source=1114&utm_campaign=New Grad Data Engineer,$63000-$70000 /yr,On Site,Curaleaf,5001-10000,"Alternative Medicine,Cannabis","Multi Location
+Las Vegas, NV
+Scottsdale, AZ
 Wakefield, MA
-Las Vegas, NV","1. 1–3 years of experience in a data analytics or data engineering role, with a strong understanding of data workflows and best practices
+Stamford, CT","1. 1–3 years of experience in a data analytics or data engineering role, with a strong understanding of data workflows and best practices
 2. 1–2 years of hands-on experience with dbt, SQLMesh, or similar SQL-first transformation frameworks
 3. Proficiency in writing SQL, Python, R, or other languages commonly used for data analysis and engineering (2–4 years preferred)
 4. A bachelor’s or master’s degree in a related field—or equivalent practical experience in a similar role
 5. Proficiency in SQL, dbt, Python, and/or R, with the ability to deliver solutions that balance best practices, scalability, and automation—while meeting data consumers where they are
 ...",no,
+Data Engineer – C11 Tampa,2025-04-10,https://jobright.ai/jobs/info/67f832a0e4436ba6585b1d91?utm_source=1114&utm_campaign=New Grad Data Engineer,$76560-$106840 /yr,Hybrid,Citi,10000+,"Banking,Finance","Multi Location
+Tampa, FL
+Tampa Florida United States","1. 0-2+ years’ experience of implementing data-intensive solutions using agile methodologies.
+2. Proficient in one or more programming languages commonly used in data engineering such as Python, Java, or Scala.
+3. Multiple years of experience with software engineering best practices (unit testing, automation, design patterns, peer review, etc.).
+4. Strong proficiency in working with relational databases and using SQL for data querying, transformation, and manipulation.
+5. Clear understanding of Data Structures and Object Oriented Principles.
+...",no,yes
+Jr. Business & Technology Analyst - Data Engineer,2025-04-10,https://jobright.ai/jobs/info/67f829d31e757015cbded4ae?utm_source=1114&utm_campaign=New Grad Data Engineer,$24-$30 /hr,On Site,Axos Bank,1001-5000,,"Multi Location
+San Diego, CA
+HQ - San Diego, CA","1. Bachelor's Degree in Information Technology, Computer Science, Business Administration, Mathematics or a related discipline
+2. Customer Obsession: 'Good enough' isn't good enough for you. You're obsessed with perfecting the customer experience
+3. Leadership: A confident person with the ability to connect and inspire others to achieve success, whether or not they directly report to you
+4. Results Oriented: A driver who possess the ability to take actions and implement effective solutions in a timely manner. Excuses aren’t in your vocabulary because you always find alternative solutions when issues arise
+5. Ethics: Highest level of professional integrity and honesty as well as personal credibility. Your reputation for precedes you in this regard
+...",not sure,
 Software Engineer - Data Platform,2025-04-10,https://jobright.ai/jobs/info/6749847880c22745be53c5b7?utm_source=1114&utm_campaign=New Grad Data Engineer,$130K-$280K /yr,On Site,Verkada,1001-5000,"Enterprise Software,Internet of Things","San Mateo, CA","1. 1+ years of data engineering related development experience
 2. Flexible and adaptive in a fast-paced startup environment
 3. Passion for product quality and building systems to ship high quality releases
@@ -70,9 +87,9 @@ Engineer I,2025-04-09,https://jobright.ai/jobs/info/67f68e0956f358fc6cb71bca?utm
 4. Basic understanding of databases (Snowflake, MySQL, Postgres, Dynamo, Cassandra, etc)
 5. Basic understanding of containerized environments (Docker, Podman)
 ...",not sure,
-Engineer I,2025-04-09,https://jobright.ai/jobs/info/67f671f4f23dad0c3b5eceb0?utm_source=1114&utm_campaign=New Grad Data Engineer,$80000-$100000 /yr,On Site,Magnite,501-1000,"Advertising,Advertising Platforms","Multi Location
-California - Los Angeles
-Colorado - Broomfield","1. Experience with one or both of the following languages: Python, Java
+Engineer I,2025-04-09,https://jobright.ai/jobs/info/67f671f4f23dad0c3b5ece7a?utm_source=1114&utm_campaign=New Grad Data Engineer,$80000-$100000 /yr,On Site,Magnite,501-1000,"Advertising,Advertising Platforms","Multi Location
+Colorado - Broomfield
+California - Los Angeles","1. Experience with one or both of the following languages: Python, Java
 2. Basic understanding of AWS Services (Kinesis, RDS, EC2, ECS, Cloudwatch, etc.)
 3. Basic understanding of big data distributed systems (Hadoop, Hive, Spark, Kafka)
 4. Basic understanding of databases (Snowflake, MySQL, Postgres, Dynamo, Cassandra, etc)
@@ -84,12 +101,6 @@ Data Engineer I,2025-04-09,https://jobright.ai/jobs/info/67f64c45b968b15a9db9ab4
 4. Experience or exposure to data modeling tools
 5. Exposure to programming skills and ability to utilize a variety of software/languages/tools, e.g., Spark, R, Python, Scala, Java, C++, Hive, SAS, Tableau, PowerBI, etc.
 ...",no,
-Data Engineer – C11 Tampa,2025-04-08,https://jobright.ai/jobs/info/67f74695478b895ceb67e744?utm_source=1114&utm_campaign=New Grad Data Engineer,$76560-$106840 /yr,On Site,Citi,10000+,"Banking,Finance",Tampa Florida United States,"1. 0-2+ years’ experience of implementing data-intensive solutions using agile methodologies.
-2. Proficient in one or more programming languages commonly used in data engineering such as Python, Java, or Scala.
-3. Multiple years of experience with software engineering best practices (unit testing, automation, design patterns, peer review, etc.).
-4. Strong proficiency in working with relational databases and using SQL for data querying, transformation, and manipulation.
-5. Clear understanding of Data Structures and Object Oriented Principles.
-...",no,yes
 "Data Engineer II, gTech Users and Products",2025-04-08,https://jobright.ai/jobs/info/67f5c6bf18f2bbebdb70c5e5?utm_source=1114&utm_campaign=New Grad Data Engineer,$102000-$146000 /yr,On Site,Google,10000+,"Apps,Artificial Intelligence (AI)","Multi Location
 Boulder, CO
 Boulder, CO, USA","1. Bachelor’s degree in Engineering, Computer Science, a related field, or equivalent practical experience.
@@ -181,12 +192,6 @@ Data Engineer,2025-04-01,https://jobright.ai/jobs/info/67f139f320badec0665898f1?
 3. Experience with Spark, Databricks, Kafka, Kinesis, Hadoop, and/or Lambda
 4. Exposure using ETL tools (Azure Data Factory, AWS Glue, Informatica, Talend, IBM DataStage, etc.), and/or database platforms (Snowflake, Redshift, Azure Synapse, or Oracle)
 5. Exposure to data visualization tools (Tableau, Power BI, Looker)
-...",not sure,
-"Engineer - Java, Springboot, Restful web services - Enterprise Data Management",2025-04-01,https://jobright.ai/jobs/info/67ef8924f00df60ab6f5a7b5?utm_source=1114&utm_campaign=New Grad Data Engineer,$70000-$135000 /yr,Hybrid,American Express,501-1000,"Debit Cards,Finance","Sunrise, FL","1. B.Tech. / B.E. / M.Tech. / M.S. in Computer Science or relevant field
-2. 1 to 3 years of experience in design and development of highly-scalable applications and platform development
-3. Extensive hands-on experience building services using these technologies (Java, Springboot, Microservices)
-4. In depth knowledge and Hands-on working experience on Restful web services
-5. Good Knowledge in messaging systems: Kafka/RabbitMQ
 ...",not sure,
 Software Engineer Graduate (Ads CRM Data Application) - 2025 Start (BS/MS),2025-03-29,https://jobright.ai/jobs/info/67cb10d6f2145135fa8bebb8?utm_source=1114&utm_campaign=New Grad Data Engineer,$114K-$250K /yr,On Site,TikTok,10000+,"Content Creators,Content Discovery","San Jose, CA","1. Bachelor’s or higher degree in Computer Science, Software Engineering, or a related field.
 2. Strong computer science fundamentals in data structures, algorithms, and distributed systems.
