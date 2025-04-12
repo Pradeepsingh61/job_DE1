@@ -1,4 +1,10 @@
 Position Title,Date,Apply,Salary,Work Model,Company,Company Size,Company Industry,Location,Qualifications,H1b Sponsored,Is New Grad
+Data Engineer Graduate (Ads Data Application) - 2025 Start (BS/MS),2025-04-11,https://jobright.ai/jobs/info/67dcebdd63685ca47f6068ea?utm_source=1114&utm_campaign=New Grad Data Engineer,$112000-$250000 /yr,On Site,TikTok,10000+,"Content Creators,Content Discovery","San Jose, CA","1. Bachelor's degree in Computer Science, Engineering, or a related field.
+2. Experience as a Data Engineer or similar role in supporting data-centric business.
+3. Strong knowledge of SQL and experience working with relational and non-relational databases.
+4. Proficiency in programming languages such as Python, Java, Go etc.
+5. Solid understanding of data modeling and data warehousing concepts, data integration and ETL/ELT techniques.
+...",not sure,yes
 "Data Engineer, WWASFT",2025-04-10,https://jobright.ai/jobs/info/67f88605c8e25010d3343e2b?utm_source=1114&utm_campaign=New Grad Data Engineer,$91200-$185000 /yr,On Site,Amazon,10000+,"Crowdsourcing,Delivery","Seattle, WA","1. 1+ years of data engineering experience
 2. Experience with data modeling, warehousing and building ETL pipelines
 3. Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)
@@ -87,9 +93,9 @@ Engineer I,2025-04-09,https://jobright.ai/jobs/info/67f68e0956f358fc6cb71bca?utm
 4. Basic understanding of databases (Snowflake, MySQL, Postgres, Dynamo, Cassandra, etc)
 5. Basic understanding of containerized environments (Docker, Podman)
 ...",not sure,
-Engineer I,2025-04-09,https://jobright.ai/jobs/info/67f671f4f23dad0c3b5ece7a?utm_source=1114&utm_campaign=New Grad Data Engineer,$80000-$100000 /yr,On Site,Magnite,501-1000,"Advertising,Advertising Platforms","Multi Location
-Colorado - Broomfield
-California - Los Angeles","1. Experience with one or both of the following languages: Python, Java
+Engineer I,2025-04-09,https://jobright.ai/jobs/info/67f671f4f23dad0c3b5eceb0?utm_source=1114&utm_campaign=New Grad Data Engineer,$80000-$100000 /yr,On Site,Magnite,501-1000,"Advertising,Advertising Platforms","Multi Location
+California - Los Angeles
+Colorado - Broomfield","1. Experience with one or both of the following languages: Python, Java
 2. Basic understanding of AWS Services (Kinesis, RDS, EC2, ECS, Cloudwatch, etc.)
 3. Basic understanding of big data distributed systems (Hadoop, Hive, Spark, Kafka)
 4. Basic understanding of databases (Snowflake, MySQL, Postgres, Dynamo, Cassandra, etc)
@@ -101,12 +107,6 @@ Data Engineer I,2025-04-09,https://jobright.ai/jobs/info/67f64c45b968b15a9db9ab4
 4. Experience or exposure to data modeling tools
 5. Exposure to programming skills and ability to utilize a variety of software/languages/tools, e.g., Spark, R, Python, Scala, Java, C++, Hive, SAS, Tableau, PowerBI, etc.
 ...",no,
-"Data Engineer II, gTech Users and Products",2025-04-08,https://jobright.ai/jobs/info/67f5c6bf18f2bbebdb70c5e5?utm_source=1114&utm_campaign=New Grad Data Engineer,$102000-$146000 /yr,On Site,Google,10000+,"Apps,Artificial Intelligence (AI)","Multi Location
-Boulder, CO
-Boulder, CO, USA","1. Bachelor’s degree in Engineering, Computer Science, a related field, or equivalent practical experience.
-2. 1 year of experience coding with one or more programming languages (e.g., Python, Java, C/C++).
-3. 1 year of experience designing data pipelines (ETL) and model data for synch and asynch system integration and implementation.
-4. 1 year of experience analyzing data, database querying (e.g., SQL), and creating dashboards/reports.",not sure,
 Data Engineer,2025-04-08,https://jobright.ai/jobs/info/67f59b07e36827517bce20b0?utm_source=1114&utm_campaign=New Grad Data Engineer,$145100-$165600 /yr,On Site,Capital One,10000+,"Banking,Credit Cards","New York, NY","1. Bachelor’s Degree
 2. At least 1.5 years of experience in application development (Internship experience does not apply)
 3. At least 1 year of experience in big data technologies",no,
@@ -193,6 +193,10 @@ Data Engineer,2025-04-01,https://jobright.ai/jobs/info/67f139f320badec0665898f1?
 4. Exposure using ETL tools (Azure Data Factory, AWS Glue, Informatica, Talend, IBM DataStage, etc.), and/or database platforms (Snowflake, Redshift, Azure Synapse, or Oracle)
 5. Exposure to data visualization tools (Tableau, Power BI, Looker)
 ...",not sure,
+"Data Engineer II, gTech Users and Products",2025-03-31,https://jobright.ai/jobs/info/67eb44a0c05d970407c1714a?utm_source=1114&utm_campaign=New Grad Data Engineer,$102000-$146000 /yr,On Site,Google,10000+,"Apps,Artificial Intelligence (AI)","Boulder, CO, USA","1. Bachelor’s degree in Engineering, Computer Science, a related field, or equivalent practical experience.
+2. 1 year of experience coding with one or more programming languages (e.g., Python, Java, C/C++).
+3. 1 year of experience designing data pipelines (ETL) and model data for synch and asynch system integration and implementation.
+4. 1 year of experience analyzing data, database querying (e.g., SQL), and creating dashboards/reports.",not sure,
 Software Engineer Graduate (Ads CRM Data Application) - 2025 Start (BS/MS),2025-03-29,https://jobright.ai/jobs/info/67cb10d6f2145135fa8bebb8?utm_source=1114&utm_campaign=New Grad Data Engineer,$114K-$250K /yr,On Site,TikTok,10000+,"Content Creators,Content Discovery","San Jose, CA","1. Bachelor’s or higher degree in Computer Science, Software Engineering, or a related field.
 2. Strong computer science fundamentals in data structures, algorithms, and distributed systems.
 3. Experience with big data technologies such as Flink, Spark, Kafka, Hive, ClickHouse, Doris, or similar frameworks.
@@ -244,11 +248,13 @@ New York, New York, USA","1. 1+ years of data engineering experience
 2. Experience with data modeling, warehousing and building ETL pipelines
 3. Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)
 4. Experience with one or more scripting language (e.g., Python, KornShell)",not sure,
-Data Engineer Graduate (Ads Data Application) - 2025 Start (BS/MS),2025-03-20,https://jobright.ai/jobs/info/67dcebdd63685ca47f6068ea?utm_source=1114&utm_campaign=New Grad Data Engineer,$112000-$250000 /yr,On Site,TikTok,10000+,"Content Creators,Content Discovery","San Jose, CA","1. Bachelor's degree in Computer Science, Engineering, or a related field.
-2. Experience as a Data Engineer or similar role in supporting data-centric business.
-3. Strong knowledge of SQL and experience working with relational and non-relational databases.
-4. Proficiency in programming languages such as Python, Java, Go etc.
-5. Solid understanding of data modeling and data warehousing concepts, data integration and ETL/ELT techniques.
+"Data Engineer 1 - Chicago, IL OR Reston, VA - ONSITE (4 days per week)",2025-03-20,https://jobright.ai/jobs/info/67f935357f40332007daf073?utm_source=1114&utm_campaign=New Grad Data Engineer,$71903.29-$107854.93 /yr,On Site,Comcast,10000+,"Internet,Telecommunications","Multi Location
+VA - Reston, 11951 Freedom Dr Ste 900
+IL - Chicago, 33 W Monroe St Suite 1900","1. Bachelor’s or master’s degree in computer science, Engineering, or a related field.
+2. Familiarity with programming languages, including Scala, Java, Python, and SQL.
+3. Exposure to big data processing frameworks, such as Apache Flink, Apache Spark (Batch & Streaming), and Databricks Delta Live Tables (DLT).
+4. Understanding of data storage technologies, including AWS S3, Delta Lake, Apache Iceberg, Hadoop HDFS, and Apache Druid.
+5. Familiarity with Data Lakehouse architectures, data modeling techniques, ETL processes, and relational databases (e.g., MySQL).
 ...",not sure,yes
 "Backend Software Engineer, Recommendation - Data Infrastructure (Data Lake)",2025-03-19,https://jobright.ai/jobs/info/67865ccc27b8aef311752aa7?utm_source=1114&utm_campaign=New Grad Data Engineer,$145K-$355K /yr,On Site,TikTok,10000+,"Content Creators,Content Discovery","San Jose, CA","1. Bachelor's Degree or above, majoring in Computer Science, or related fields.
 2. 1+ years of experience building scalable systems.
