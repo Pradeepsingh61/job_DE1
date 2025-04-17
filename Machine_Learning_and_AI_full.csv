@@ -1,4 +1,51 @@
 Position Title,Date,Apply,Work Model,Location,Company,Company Size,Company Industry,Salary,Qualifications,H1b Sponsored,Is New Grad
+Associate AI Engineer,2025-04-16,https://jobright.ai/jobs/info/67ffde7e4ba4129e07b062f1?utm_source=1100&utm_campaign=ml,Hybrid,"Fort Lauderdale, FL",OneStream Software,1001-5000,"Information Technology,Software",$80000-$100000 /yr,"1. Bachelors Degree or similar work experience.
+2. CS/EE/CE Degree or similar experience.
+3. 1-2 years of experience building and deploying production-level machine learning solutions or similar experience.
+4. 1-2 years of strong programming experience with one of the following: Python, C++, C, CSharp, Java, Rust, or Go (or similar experience).
+5. Self-Starter to decompose a problem and plan a solution.
+...",no,
+Forward Deployed AI Engineer,2025-04-16,https://jobright.ai/jobs/info/67ffdadfabbabd04569ef82d?utm_source=1100&utm_campaign=ml,On Site,New York City,MongoDB,1001-5000,"Cloud Computing,Database",$78000-$200000 /yr,"1. Comfortable diving into design and code, particularly Python.
+2. Ability to learn from existing examples, explore APIs, triage bugs, and speak on any of the technical aspects of the tools in your portfolio.
+3. Strong communication skills, both verbal and written.
+4. Curiosity and creativity; desire to learn and experiment; self-starter and thrive in ambiguity.
+5. 1-3 years of experience in software engineering.
+...",no,
+"Software Engineer, AI Platform - New Grad",2025-04-16,https://jobright.ai/jobs/info/67f19993d3fe73ef75717866?utm_source=1100&utm_campaign=ml,On Site,"Mountain View, CA",Nuro,501-1000,"Artificial Intelligence (AI),Autonomous Vehicles",$145000-$170000 /yr,"1. You are a current Bachelor’s Degree or Master’s Degree candidate in Computer Science, Electrical Engineering, Robotics, or related field, graduating before July 2025.
+2. You have experience in one or more of the following areas: large-scale distributed systems; data storage and processing systems; advanced algorithms using C++ and Python; machine learning, multithreading; x86 architecture; and software performance tuning and optimization, robotics software frameworks, different compute modalities (CPU, GPU, FPGA) etc.
+3. You have strong problem-solving and programming skills.",not sure,yes
+Software Engineer II (Merchant Risk Intelligence & Platform),2025-04-16,https://jobright.ai/jobs/info/67ee276e4f69707233b63079?utm_source=1100&utm_campaign=ml,Hybrid,"Multi Location
+Philadelphia, PA
+San Diego, CA
+Cleveland, OH
+Las Vegas, NV
+Remote US
+San Jose, CA
+Miami, FL
+Palo Alto, CA
+Boulder, CO
+Richmond, VA
+Denver, CO
+Phoenix, AZ
+Raleigh, NC
+Charlotte, NC
+Minneapolis, MN
+Sioux Falls, SD
+Detroit, MI
+Washington, DC
+Dallas, TX
+Nashville, TN
+Madison, WI
+Houston, TX
+Baltimore, MD
+Portland, OR
+St Louis, MO
+Boise, ID",Affirm,1001-5000,"Financial Services,FinTech",$160000-$210000 /yr,"1. You have a total of 1.5+ years of experience as a software engineer.
+2. You are familiar with the building blocks of distributed systems, and the technologies like AWS, MySQL and Kubernetes.
+3. You have experience designing, developing and launching APIs at scale using languages like Python or Kotlin.
+4. You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code.
+5. You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews.
+...",not sure,
 Machine Learning Engineer,2025-04-15,https://jobright.ai/jobs/info/67ff550b0ddf16a0eec80aa2?utm_source=1100&utm_campaign=ml,On Site,Poway California,General Atomics,10000+,"Energy,Energy Efficiency","$98,100-$171,398 /yr","1. Typically requires a bachelors or master's degree in computer science, engineering, mathematics, or a related technical discipline from an accredited institution and two or more years of machine learning experience with a bachelors degree. May substitute equivalent machine learning engineer experience in lieu of education.
 2. Must have an understanding of machine learning concepts, principles, and theory.
 3. Demonstrates the ability to follow and apply advanced machine learning knowledge, adapt cutting edge standard techniques, and utilize the required diagnostics, tools and equipment, while ensuring safety and regulatory compliance.
@@ -31,8 +78,8 @@ Data Scientist - Generative AI,2025-04-15,https://jobright.ai/jobs/info/67ff1072
 ...",not sure,
 "SDE I - Systems, Runtime, and ML Infrastructure (AWS Custom Silicon), Annapurna Labs",2025-04-15,https://jobright.ai/jobs/info/67fefa8ff371ad217db526d4?utm_source=1100&utm_campaign=ml,On Site,"Multi Location
 Austin, TX
-Seattle, WA
-Cupertino, CA",Amazon Web Services (AWS),10000+,"Computer,Consulting",$99500-$200000 /yr,"1. To qualify, applicants should have earned (or expect to earn) a Bachelor’s or Master’s degree between December 2022 to September 2025.
+Cupertino, CA
+Seattle, WA",Amazon Web Services (AWS),10000+,"Computer,Consulting",$99500-$200000 /yr,"1. To qualify, applicants should have earned (or expect to earn) a Bachelor’s or Master’s degree between December 2022 to September 2025.
 2. Strong programming skills in C/C++ or Python, with solid understanding of data structures and algorithms
 3. Understanding of computer architecture, operating systems, and Linux environments
 4. Internship or project experience related to systems programming, networking, or ML",not sure,
@@ -55,8 +102,8 @@ Cupertino, California, USA",Amazon,10000+,"Crowdsourcing,Delivery",$129300-$2236
 "ML Compiler Engineer I, Annapurna Labs",2025-04-15,https://jobright.ai/jobs/info/67ff1da40877d60eff1bd719?utm_source=1100&utm_campaign=ml,On Site,"Multi Location
 Seattle, WA
 Cupertino, CA
-Cupertino, California, USA
-Seattle, Washington, USA",Amazon,10000+,"Crowdsourcing,Delivery",$99500-$200000 /yr,"1. To qualify, applicants should have earned (or will earn) a Bachelors or Masters degree between December 2022 and September 2025.
+Seattle, Washington, USA
+Cupertino, California, USA",Amazon,10000+,"Crowdsourcing,Delivery",$99500-$200000 /yr,"1. To qualify, applicants should have earned (or will earn) a Bachelors or Masters degree between December 2022 and September 2025.
 2. Proficiency in C++ and Python programming, applied to compiler projects
 3. Experience developing compiler optimizations or ML framework internals",not sure,
 AI Engineer,2025-04-15,https://jobright.ai/jobs/info/67fef2a1d08ba43505ad815c?utm_source=1100&utm_campaign=ml,Hybrid,"Fort Lauderdale, FL",OneStream Software,1001-5000,"Information Technology,Software",$100000-$140000 /yr,"1. Bachelors Degree or similar work experience
@@ -344,11 +391,6 @@ Postdoctoral Appointee - Physics-Aware Multimodal Deep Learning,2025-04-11,https
 2. Speak, write, and read fluently in English
 3. Experience with Microsoft Office products and applications
 4. 1+ years of proven experience in data annotation and labeling for ML model training and evaluation.",not sure,
-AI Engineer,2025-04-11,https://jobright.ai/jobs/info/67ff62c92dc522aea1bcba8c?utm_source=1100&utm_campaign=ml,On Site,"San Francisco, CA, US",Structured Labs,1-10,"Machine Learning,Software",,"1. Experience working with ML models, embeddings, LLMs, vector databases, and real-time inference.
-2. Ability to prototype quickly, experiment, and iterate.
-3. Comfortable working across ML infrastructure, backend data processing, and APIs.
-4. Care about the developer experience, ensuring AI tools are intuitive, fast, and easy to integrate.
-5. Desire to own a key part of an early-stage company and build something game-changing.",not sure,
 High-Performance LLM Training Engineer - New College Grad 2025,2025-04-11,https://jobright.ai/jobs/info/67f9fa32b78f81c7f3866780?utm_source=1100&utm_campaign=ml,On Site,"Multi Location
 Santa Clara, CA
 US, CA, Santa Clara",NVIDIA,10000+,"Artificial Intelligence (AI),GPU",$104000-$189750 /yr,"1. MS or PhD in Computer Science, Electrical Engineering or Computer Engineering (or equivalent experience).
@@ -413,11 +455,6 @@ Government and Public Sector - Junior GenAI Developer,2025-04-10,https://jobrigh
 4. At least 1-2+ year of experience with the following: Modern web development (JavaScript/TypeScript etc.), Backend development (Node.js, Python, FastAPI or similar), Familiar with integrating generative AI models into applications (APIs or fine-tuned models), Familiar with deploying applications on cloud platforms (AWS, Azure, Vercel, etc.)
 5. Experience with JavaScript and frameworks like React, Next.js or similar
 ...",no,
-Researcher II,2025-04-10,https://jobright.ai/jobs/info/67f84477430b176b51d8343a?utm_source=1100&utm_campaign=ml,On Site,"Redmond, Washington, United States",Microsoft,10000+,"Artificial Intelligence (AI),Data Management",$98300-$193200 /yr,"1. Master's Degree in relevant field AND 1+ year(s) related-research experience OR equivalent experience.
-2. 6 months+ of experience training/fine tuning AI/ML models, preferably LLMs/ Small Language Models (SLMs).
-3. 1+ years of experience with statistics and core data science concepts, including data preprocessing, feature engineering, and predictive modeling.
-4. 6 months+ practical experience in building and optimizing Generative AI pipelines, including techniques like Retrieval-Augmented Generation (RAG), model deployment, function calling, and grounding.
-5. Ability to meet Microsoft, customer and/or government security screening requirements are required for this role.",no,
 Postdoctoral Appointee – Machine Learning for X-ray Science,2025-04-10,https://jobright.ai/jobs/info/67ca235e81318318d4c41980?utm_source=1100&utm_campaign=ml,On Site,"Lemont, IL",Argonne National Laboratory,1001-5000,"Energy,Security",$71K-$110K /yr,"1. To qualify for this position, you must have obtained your PhD in computer science or engineering, the physical sciences, or a related field within the last five years.
 2. Comprehensive programming proficiency, preferably in Python.
 3. Experience with machine learning methods and frameworks especially applied to physical science problems.
@@ -804,14 +841,12 @@ Machine Learning Engineer Graduate (TikTok E-Commerce - Conversational AI) - 202
 4. Working knowledge working with large-scale compute/cluster infrastructure
 5. Proficiency in using and modifying probabilistic learning or deep learning models such as RNNs, GNNs, protein sequence models, or natural language processing models
 ...",not sure,
-Entry-Level Full Stack AI-Enabled Developer,2025-04-04,https://jobright.ai/jobs/info/67f03391e504a93899e078d5?utm_source=1100&utm_campaign=ml,On Site,"Multi Location
-Bethesda, Fort Worth, Littleton, Orlando, Sunnyvale California, Colorado, Florida, Maryland, Texas
-Texas, United States",Lockheed Martin,10000+,"Aerospace,Cyber Security",$70600-$124430 /yr,"1. Partner with application teams to rapidly deploy MVPs for in-house software development, using a build vs. buy approach
+Entry-Level Full Stack AI-Enabled Developer,2025-04-04,https://jobright.ai/jobs/info/67fff6bf34c4a53a19cab1c2?utm_source=1100&utm_campaign=ml,On Site,"Bethesda, MD",Lockheed Martin,10000+,"Aerospace,Cyber Security",$81200-$140645 /yr,"1. Partner with application teams to rapidly deploy MVPs for in-house software development, using a build vs. buy approach
 2. Contribute to the development of IDE application/tools patterns for AI-driven development within EBDT
 3. Design, develop, test, and deploy full stack applications, using a combination of front-end and back-end technologies
 4. Collaborate with cross-functional teams to identify and prioritize project requirements
 5. Participate in code reviews, ensuring high-quality code and adherence to best practices
-...",no,
+...",not sure,
 Research Engineer Graduate (Vision AI Platform - Seattle）- 2025 Start (BS/MS),2025-04-04,https://jobright.ai/jobs/info/67d2df55fb11b68fc00d8a64?utm_source=1100&utm_campaign=ml,On Site,"Seattle, WA",ByteDance,10000+,"Content,Data Mining",$178K-$266K /yr,"1. Research and engineering experience in one or more areas of computer vision and natural language processing, including but not limited to.
 2. Work and collaborate well with team members.
 3. Ability to work independently; Strong communication skills.",not sure,yes
@@ -989,8 +1024,8 @@ Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance)- 
 4. Deep Understanding of machine learning, statistics, scaling distributed computing, and big data engineering",not sure,yes
 "Software Engineer, PhD, Campus, Machine Learning, Systems and Cloud AI, GPU Performance, 2025 Start",2025-04-02,https://jobright.ai/jobs/info/67f9c45994004a34d6028557?utm_source=1100&utm_campaign=ml,On Site,"Multi Location
 Sunnyvale, CA
-Kirkland, WA
 New York, NY
+Kirkland, WA
 Seattle, WA",Google,10000+,"Apps,Artificial Intelligence (AI)",$141000-$202000 /yr,"1. PhD degree in Computer Science, or a related technical field, or equivalent practical experience.
 2. Experience coding in one of the following programming languages including but not limited to: C, C++, Java or Python.",not sure,
 (General Hire) Machine Learning Engineer Graduate (Advertisement Team) - 2025 Start (BS/MS),2025-04-02,https://jobright.ai/jobs/info/67d18f95a2713a1406bc5050?utm_source=1100&utm_campaign=ml,On Site,"San Jose, CA",TikTok,10000+,"Content Creators,Content Discovery",$114K-$250K /yr,"1. Bachelor's degree in Computer Science, Computer Engineering, or other relevant majors.
@@ -1050,8 +1085,8 @@ Software Engineer in Machine Learning Systems Graduate (AML - Machine Learning S
 Ann Arbor, MI
 Frisco, TX
 Eagan, MN
-USA-MSP-2900 Ames Crossing Road
 USA-Ann Arbor-6300 Interfirst Dr
+USA-MSP-2900 Ames Crossing Road
 USA-Frisco-6160 Warren Parkway",Thomson Reuters,10000+,"Advice,Analytics",$70000-$130000 /yr,"1. Legal domain expertise. This can mean experience in legal practice, a JD-holder in a 'non-traditional' legal career path, a paralegal, or legal industry experience
 2. One to two years of production level experience in software engineering on an engineering/product team, preferably at a startup
 3. Proficiency in Python - if Python skills are low, then strong experience in other programming languages is necessary
@@ -1261,12 +1296,6 @@ NESAP Machine Learning Postdoctoral Fellow,2025-03-29,https://jobright.ai/jobs/i
 4. Familiar with at least one framework of TensorFlow / PyTorch / MXNet and its training and deployment details, as well as the training acceleration methods such as mixed precision training and distributed training;
 5. Familiar with big data related frameworks and application, those who are familiar with MR or Spark are preferred
 ...",not sure,yes
-PhD Research Scientist- AI and Machine Learning: Bayesian Modelling and Probabilistic Programming,2025-03-29,https://jobright.ai/jobs/info/67ae4a43863ece03dac1583a?utm_source=1100&utm_campaign=ml,On Site,"Burlington, MA",Oracle,10000+,"Data Governance,Data Management",$79K-$178K /yr,"1. Completed a Ph.D. degree in Computer Science, relevant technical field, or equivalent practical experience (degree must be completed prior to joining) by Aug 2025.
-2. Strong background in theory and practice machine learning, deep learning, and large language models
-3. Excellent programming and debug skills in Python, plus hands on experience with common machine learning frameworks, such as PyTorch
-4. Genuine commitment to doing impactful research
-5. Outstanding research track record
-...",no,
 "Machine Learning Engineer, Enterprise GenAI",2025-03-28,https://jobright.ai/jobs/info/67f1603e622ab02b6413b0d5?utm_source=1100&utm_campaign=ml,On Site,"Multi Location
 San Francisco Bay Area
 NYC Metro Area",Scale AI,501-1000,"Artificial Intelligence (AI),Data Collection and Labeling",$176000-$300000 /yr,"1. At least 1-3 years of model training, deployment and maintenance experience in a production environment
@@ -1290,46 +1319,11 @@ Machine Learning Engineer Graduate (Ads Measurement Signal and Privacy Technolog
 4. Good theoretical grounding in the machine and deep learning concepts and techniques (CNN/RNN/LSTM, etc.).
 5. Familiar with the architecture and implementation of at least one mainstream machine learning programming framework (TensorFlow/PyTorch/MXNet), familiar with its architecture and implementation mechanism.
 ...",not sure,yes
-"Software Engineer, AI Platform - New Grad",2025-03-27,https://jobright.ai/jobs/info/67f19993d3fe73ef75717866?utm_source=1100&utm_campaign=ml,On Site,"Mountain View, CA",Nuro,501-1000,"Artificial Intelligence (AI),Autonomous Vehicles",$145000-$170000 /yr,"1. You are a current Bachelor’s Degree or Master’s Degree candidate in Computer Science, Electrical Engineering, Robotics, or related field, graduating before July 2025.
-2. You have experience in one or more of the following areas: large-scale distributed systems; data storage and processing systems; advanced algorithms using C++ and Python; machine learning, multithreading; x86 architecture; and software performance tuning and optimization, robotics software frameworks, different compute modalities (CPU, GPU, FPGA) etc.
-3. You have strong problem-solving and programming skills.",not sure,yes
 Machine Learning Engineer,2025-03-27,https://jobright.ai/jobs/info/67e60cab8594ad2301ef5b5e?utm_source=1100&utm_campaign=ml,Remote,"Rothschild, WI",Foundation Finance Company LLC,101-250,"Credit,Finance",$110K-$130K /yr,"1. Bachelor's degree in computer science, data science, mathematics, or a related field
 2. Minimum 1 year of professional experience in data acquisition, cleansing, feature engineering, debugging and software documentation, using programming languages, and using cloud platforms such as AWS, Azure, or GCP
 3. Knowledge of Word Processing software
 4. Knowledge of Spreadsheet software
 5. Knowledge of Development software
-...",not sure,
-Software Engineer II (Merchant Risk Intelligence & Platform),2025-03-27,https://jobright.ai/jobs/info/67e2dd38494beb615b9fe8b7?utm_source=1100&utm_campaign=ml,Hybrid,"Multi Location
-Remote US
-San Jose, CA
-Miami, FL
-Palo Alto, CA
-Las Vegas, NV
-Boulder, CO
-Philadelphia, PA
-Richmond, VA
-Denver, CO
-Phoenix, AZ
-Raleigh, NC
-Charlotte, NC
-Minneapolis, MN
-Sioux Falls, SD
-Detroit, MI
-Washington, DC
-Dallas, TX
-Nashville, TN
-Madison, WI
-Houston, TX
-Baltimore, MD
-San Diego, CA
-Portland, OR
-Cleveland, OH
-St Louis, MO
-Boise, ID",Affirm,1001-5000,"Financial Services,FinTech",$160000-$210000 /yr,"1. 1.5+ years of experience as a software engineer.
-2. Familiarity with the building blocks of distributed systems, and the technologies like AWS, MySQL and Kubernetes.
-3. Experience designing, developing and launching APIs at scale using languages like Python or Kotlin.
-4. Mastery in taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code.
-5. Comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews.
 ...",not sure,
 Machine Learning Scientist,2025-03-27,https://jobright.ai/jobs/info/67e5a934c881d3ed390e5602?utm_source=1100&utm_campaign=ml,Remote,United States,Qloo,11-50,"Artificial Intelligence (AI),Consumer Research",$120000-$150000 /yr,"1. 1+ years in a Machine Learning or ML Engineering role, with hands-on experience in deep learning frameworks (e.g., TensorFlow, PyTorch). Motivated recent graduates are encouraged to apply!
 2. A degree in Mathematics, Engineering, Statistics, Computer Science, Physics, or a related field.
@@ -1473,9 +1467,9 @@ Jr. Machine Learning/ Date Scientist,2025-03-20,https://jobright.ai/jobs/info/67
 4. Experience with database software
 5. Comprehensive knowledge of machine learning and deep learning methods and techniques
 ...",not sure,
-"Postdoctoral Researcher, FAIR",2025-03-20,https://jobright.ai/jobs/info/67dc7aedaecb7779b2d1cddb?utm_source=1100&utm_campaign=ml,On Site,"Multi Location
-Menlo Park, CA
-Seattle, WA",Meta,10000+,Internet,US$117000-US$173000 /yr,"1. Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta.
+"Postdoctoral Researcher, FAIR",2025-03-20,https://jobright.ai/jobs/info/67dc7aedaecb7779b2d1cd17?utm_source=1100&utm_campaign=ml,On Site,"Multi Location
+Seattle, WA
+Menlo Park, CA",Meta,10000+,Internet,US$117000-US$173000 /yr,"1. Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta.
 2. Currently has or is in the process of obtaining a PhD degree in the field of Artificial Intelligence, in a related field, such as Neuroscience, Philosophy, or Sociology, with a focus on understanding human social interactions, cognition, and behavior, or equivalent practical experience. Degree must be completed prior to joining Meta.
 3. Experience in cognitive science, social psychology/neuroscience/data analysis with applications in social computing, or related field.
 4. Experience in training and use of language models and Transformers.
@@ -1502,9 +1496,9 @@ Machine Learning Engineer Graduate (Search E-Commerce) - 2025 Start (PhD),2025-0
 4. Strong proficiency in Python and/or C/C++, and familiarity with a machine learning framework.
 5. Solid knowledge of data structure and algorithms.
 ...",no,yes
-AI Research Engineer – Early Career,2025-03-19,https://jobright.ai/jobs/info/67f6c44e5b3452d523c358ee?utm_source=1100&utm_campaign=ml,On Site,"Multi Location
-Nebraska
-Possible",Lockheed Martin,10000+,"Aerospace,Cyber Security",$70600-$124430 /yr,"1. BS in Computer Science, Software Engineering, Computer Engineering, or equivalent STEM field (equivalent experience/combined education)
+AI Research Engineer – Early Career,2025-03-19,https://jobright.ai/jobs/info/67f6c44e5b3452d523c35bd3?utm_source=1100&utm_campaign=ml,On Site,"Multi Location
+Possible
+Nebraska",Lockheed Martin,10000+,"Aerospace,Cyber Security",$70600-$124430 /yr,"1. BS in Computer Science, Software Engineering, Computer Engineering, or equivalent STEM field (equivalent experience/combined education)
 2. Must be a US Citizen; this position will require a government security clearance. This position is located at a facility that requires special access
 3. Experience with AI/ML: disciplines, domain programming languages (including Python and Linux), models, frameworks, and toolsets.",no,
 Machine Learning - Ops,2025-03-18,https://jobright.ai/jobs/info/67d81fd7d23d0839edf8dc7d?utm_source=1100&utm_campaign=ml,Hybrid,"Charlotte, NC",SCOR,1001-5000,"Financial Services,Health Insurance",$109K-$134K /yr,"1. ~1-3 years' experience in software programming capabilities and knowledge running models into production (containers, API)
@@ -1521,9 +1515,3 @@ Founding Forward Deployed AI Engineer,2025-03-17,https://jobright.ai/jobs/info/6
 "Associate, Machine Learning Engagement Management",2025-03-17,https://jobright.ai/jobs/info/67b79256c43bd24fa0a7e1d5?utm_source=1100&utm_campaign=ml,Hybrid,United States,OfferFit,51-100,"A/B Testing,Artificial Intelligence (AI)",$89K-$134K /yr,"1. Candidates must be able to fully overlap and support North America time zones
 2. Must be fluent in English, both written and verbal
 3. Up to 10-15% travel for company-wide quarterly gatherings, team offsite workshops, customer meetings, and industry-related events",not sure,
-Core ML Engineer,2025-03-17,https://jobright.ai/jobs/info/67d866af9417872435e8b584?utm_source=1100&utm_campaign=ml,On Site,"Charlotte, NC",SCOR,1001-5000,"Financial Services,Health Insurance",$110K-$134K /yr,"1. Master’s degree in Software engineering, Technology, Engineering, Computer Science or similar quantitative field
-2. Bachelor’s degree or similar work experience is accepted in place of a relevant Master’s degree
-3. ~1-3 years’ experience in software programming capabilities and knowledge running models into production (containers, API)
-4. Be an efficient software engineer with a good command of at least one of the following languages: Python, Java, Golang or C++
-5. Be able to industrialize machine learning or deep learning models in the cloud
-...",no,
