@@ -1,4 +1,18 @@
 Position Title,Date,Apply,Salary,Work Model,Company,Company Size,Company Industry,Location,Qualifications,H1b Sponsored,Is New Grad
+"Data Operating Center, Analyst",2025-05-21,https://jobright.ai/jobs/info/6811e115903fbeac8d8b5ff9?utm_source=1114&utm_campaign=New Grad Data Engineer,$66500-$85000 /yr,Hybrid,BlackRock,10000+,"Asset Management,Crowdfunding","Wilmington, DE","1. Bachelor's degree in computer science, Information Technology, or related field.
+2. At least 1+ years’ experience as a software engineer
+3. Experience in Python, Unit/Integration/Functional testing, SQL
+4. Experience / Familiarity with Database Modeling, Normalization techniques
+5. Experience / Familiarity with object-oriented design patterns
+...",not sure,
+Software Engineer - Data,2025-05-21,https://jobright.ai/jobs/info/68112d58ac7873c7f4b037b9?utm_source=1114&utm_campaign=New Grad Data Engineer,$120000-$162000 /yr,Hybrid,Obsidian Security,101-250,"Computer,Cyber Security","Multi Location
+Newport Beach, CA
+Palo Alto, CA or Newport Beach, CA","1. You are an analytically inclined engineer who loves solving complex problems using data.
+2. You possess strong algorithmic skills.
+3. Have demonstrated experience working with data processing systems.
+4. Extensive experience with Python and SQL is required.
+5. BS/MS Computer Science or a highly quantitative discipline.
+...",not sure,
 Data Engineer Associate,2025-05-20,https://jobright.ai/jobs/info/682d75cf530208f5a0716d23?utm_source=1114&utm_campaign=New Grad Data Engineer,$75600.0-$157200.0 /yr,On Site,Tencent,10000+,"Advertising,Internet","Palo Alto, CA","1. Proficiency in Python, Java, and Go for backend and data engineering tasks.
 2. Strong command of SQL for querying and transforming data.
 3. Hands-on experience with AWS services (e.g., S3, Lambda, Redshift, Glue) and GCP tools (e.g., BigQuery, Dataflow, Cloud Storage).
@@ -117,9 +131,9 @@ Data Engineer,2025-05-14,https://jobright.ai/jobs/info/6824bd35c5b53708fde4a49c?
 5. Strong understanding of NW risk assessments",not sure,
 Data Engineer - Retail Analytics Engineering,2025-05-14,https://jobright.ai/jobs/info/6824a853445b1c3ae81cff51?utm_source=1114&utm_campaign=New Grad Data Engineer,$72100-$158620 /yr,Hybrid,CVS Health,10000+,"Health Care,Medical","Multi Location
 Irving, TX
-TX - Irving
 Woonsocket-1 CVS Drive
-Richardson-1300 E Campbell Rd","1. 1-2 years of related work experience including:
+Richardson-1300 E Campbell Rd
+TX - Irving","1. 1-2 years of related work experience including:
 2. Experience in Azure/GCP (Big Query, GCS, Pub/Sub, DataProc, Airflow/Composer, Snowflake, Azure Cloud Services etc.)
 3. Experience in Unix/Shell Scripting
 4. Experience in Python
@@ -156,10 +170,10 @@ Possible","1. Experience working to integrate and deliver data and/or provide da
 4. Experience with Microsoft Office applications to include Access and/or Excel
 5. Must be a US Citizen.
 ...",no,
-"Junior Splunk Data Engineer - Join us in Huntsville, AL!",2025-05-13,https://jobright.ai/jobs/info/682396252be141bb2826e8db?utm_source=1114&utm_campaign=New Grad Data Engineer,$93400-$176200 /yr,On Site,Accenture Federal Services,10000+,"Consulting,Finance","Multi Location
-Los Angeles, CA
+"Junior Splunk Data Engineer - Join us in Huntsville, AL!",2025-05-13,https://jobright.ai/jobs/info/682396252be141bb2826e548?utm_source=1114&utm_campaign=New Grad Data Engineer,$93400-$176200 /yr,On Site,Accenture Federal Services,10000+,"Consulting,Finance","Multi Location
 Tampa, FL
-Atlanta, GA","1. 1 year of experience in IT and/or Cyber
+Atlanta, GA
+Los Angeles, CA","1. 1 year of experience in IT and/or Cyber
 2. Bachelor's Degree required (In lieu of a degree, an additional 4 years of experience may be substituted)
 3. Splunk experience
 4. Data analysis and/or engineering experience
@@ -301,20 +315,6 @@ Seattle, Washington, USA","1. 1+ years of data engineering experience
 Arlington, VA
 Seattle, WA","1. Bachelor’s degree or higher in Computer Science, Engineering, Mathematics or a related field with a conferral date within May 2023 to May 2025
 2. 1+ years of hands-on experience of programming in languages such as Python, Ruby, Go, Swift, Java, .Net, C++, Node.js, or similar object-oriented language.",not sure,
-"Data Operating Center, Analyst",2025-04-30,https://jobright.ai/jobs/info/6811e115903fbeac8d8b5ff9?utm_source=1114&utm_campaign=New Grad Data Engineer,$66500-$85000 /yr,Hybrid,BlackRock,10000+,"Asset Management,Crowdfunding","Wilmington, DE","1. Bachelor's degree in computer science, Information Technology, or related field.
-2. At least 1+ years’ experience as a software engineer
-3. Experience in Python, Unit/Integration/Functional testing, SQL
-4. Experience / Familiarity with Database Modeling, Normalization techniques
-5. Experience / Familiarity with object-oriented design patterns
-...",not sure,
-Software Engineer - Data,2025-04-29,https://jobright.ai/jobs/info/68113bda7a1fb3d948847f34?utm_source=1114&utm_campaign=New Grad Data Engineer,$120000-$162000 /yr,Hybrid,Obsidian Security,101-250,"Computer,Cyber Security","Multi Location
-Palo Alto, CA or Newport Beach, CA
-Newport Beach, CA","1. You are an analytically inclined engineer who loves solving complex problems using data.
-2. You possess strong algorithmic skills.
-3. Have demonstrated experience working with data processing systems.
-4. Extensive experience with Python and SQL is required.
-5. BS/MS Computer Science or a highly quantitative discipline.
-...",no,
 Senior Associate Data Engineer (multiple openings) - IHM,2025-04-24,https://jobright.ai/jobs/info/6826b04778eb994ae6e329ce?utm_source=1114&utm_campaign=New Grad Data Engineer,$73500-$124300 /yr,On Site,Discover Financial Services,10000+,"Banking,Credit","Riverwoods, IL","1. Bachelor's degree in Computer Science, Information Technology, or related field
 2. 1 year of experience in the job offered or in a Data Engineer-related occupation
 3. Experience in utilizing ETL pipelines including Apache, Oracle, or Informatica
@@ -333,7 +333,3 @@ Underwriting Data Engineer,2025-04-22,https://jobright.ai/jobs/info/6807e72b6bd3
 4. Familiarity with the AWS ecosystem, specifically Redshift and RDS
 5. Experience in building or maintaining ETL processes
 ...",not sure,
-Engineer Data Platform Associate - US Remote,2025-04-21,https://jobright.ai/jobs/info/68067c603457a0ad577aec71?utm_source=1114&utm_campaign=New Grad Data Engineer,$70000-$85000 /yr,Remote,Anywhere Real Estate Inc.,5001-10000,"Insurance,Property Management","US Remote Address 1, US Remote City, US Remote State, 00000, US","1. Bachelor’s in Computer Science, Engineering, or a related technical discipline, or an equivalent combination of training and experience.
-2. One or more years of experience with programming languages such as Go, Java, Python, or NodeJS.
-3. Excellent written and verbal communication skills in English.
-4. Strong analytical & problem-solving skills to identify data issues and performance bottlenecks.",not sure,

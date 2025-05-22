@@ -1,4 +1,39 @@
 Position Title,Date,Apply,Work Model,Location,Company,Company Size,Company Industry,Salary,Qualifications,H1b Sponsored,Is New Grad
+"Data Analyst, TOM Data Infra Team",2025-05-21,https://jobright.ai/jobs/info/682e0cd5d559f41eb3dc681f?utm_source=1100&utm_campaign=Data Analysis,On Site,"Bellevue, WA",Amazon,10000+,"Crowdsourcing,Delivery",$42000-$79800 /yr,"1. 1+ years of experience conducting data analysis (dealing with large complex data)
+2. 1+ years experience extracting and processing data using SQL or Python
+3. 1+ years of experience using data visualization tools, such as Quicksight, Tableau",not sure,
+Analytics Rep,2025-05-21,https://jobright.ai/jobs/info/680a6fb8e8009282f5bf8b5d?utm_source=1100&utm_campaign=Data Analysis,Remote,United States,Sony Music Entertainment,5001-10000,"Digital Entertainment,Media and Entertainment",$16.50-$16.50 /yr,"1. Currently enrolled as either an undergraduate or graduate student in an accredited program. Must have at least 1 year left of academic program (preferably two years).
+2. Strong work ethic, knowledge and passion for music
+3. Interest in analytics, research and how data is used in the music industry
+4. Excellent Powerpoint, Word and Excel skills
+5. Experience using a diverse range of analytics tools and basic knowledge on how to query databases (e.g. SQL, Alteryx, Brandwatch, Looker, Tableau, R, Qualtrics, etc).
+...",not sure,
+Analyst Operational Quality,2025-05-21,https://jobright.ai/jobs/info/682dcc3d4f920521e67ea019?utm_source=1100&utm_campaign=Data Analysis,On Site,"New York, NY",JetBlue,10000+,"Air Transportation,Transportation",$50000-$89600 /yr,"1. Bachelor’s degree in Mathematics, Statistics, Economics, Business, Industrial Engineering, Industrial/Organizational Psychology or a related field; OR demonstrated capability to perform job responsibilities with a combination of a High School Diploma/GED and four (4) years of previous related work experience
+2. One (1) year of analytical experience with proven ability to analyze, compare, evaluate, reconcile and order data
+3. Proficient with descriptive and inferential statistics
+4. Strong capabilities with database querying (e.g., Structured Query Language [SQL]) and/or high-level programming languages (such as Python, R, or Visual Basic)
+5. Proficient knowledge of Microsoft Office, Word, Excel and Power Point
+...",no,
+Program Analyst,2025-05-21,https://jobright.ai/jobs/info/6808db902e89730e00ef0c10?utm_source=1100&utm_campaign=Data Analysis,Hybrid,"Multi Location
+Miami, FL
+Utica-Rome Area",Wellhub,1001-5000,"Employee Benefits,Fitness",$26-$32 /hr,"1. Bachelor's degree in an analytical degree, such as Economics, Mathematics, Engineering, or other similar degrees
+2. Detail-oriented and comfortable working with data and creating simple data visualizations
+3. Self-starter who can multi-task, work on multiple priorities, and is comfortable asking questions in a hybrid environment
+4. Ability to work both autonomously and collaborate in a Global team environment
+5. Strong communicator, comfortable communicating ideas both verbally and in written communication
+...",not sure,
+Associate Data Insights Analyst – AI Analysis (Spanish),2025-05-21,https://jobright.ai/jobs/info/67d9a292ba17fa76fefeb7e2?utm_source=1100&utm_campaign=Data Analysis,On Site,"Centennial, CO",Spectrum,10000+,"Digital Entertainment,Internet",$67K-$107K /yr,"1. Relevant technical or business work experience: 1 year or more
+2. Bachelor’s degree in computer science, engineering or related field, or equivalent experience
+3. Foundational knowledge of SQL, Python with the ability to build queries using operators and conditional statements
+4. Understanding of relational databases, data structures, and ETL processes for data transformation and extraction
+5. Exposure to NLP libraries and frameworks (such as spaCy, NLTK, Hugging Face, or OpenAI API) for text processing and analysis
+...",not sure,
+Regulatory Research Analyst,2025-05-21,https://jobright.ai/jobs/info/681124bd5fe245eb3afbbdea?utm_source=1100&utm_campaign=Data Analysis,Remote,United States,Oracle,10000+,"Data Governance,Data Management",$19.62-$38.32 /hr,"1. Experience in collecting organizing synthesizing and analyzing data.
+2. Utilizing Microsoft Excel or similar programs to create pivot tables, charts and detailed reports that are sourced from multiple data locations to be shared with managers and peers across the company.
+3. Establish monthly reporting schedule and automating where applicable.
+4. Create visual charts/images to represent results of data analysis.
+5. Reports to provide a concise story behind the data, what are we trying to convey.
+...",not sure,
 IT Analyst – Service Management Data Analyst,2025-05-20,https://jobright.ai/jobs/info/682d74fd2212c734858d1c8c?utm_source=1100&utm_campaign=Data Analysis,On Site,"Philadelphia, PA",City of Philadelphia,10000+,"Law Enforcement,News",$65000-$70000 /yr,"1. High School Diploma or equivalent and 1-3 years of experience performing data analysis related tasks.
 2. Knowledge of, or willingness to learn IT industry frameworks for service management.
 3. Highly detail-oriented and organized, consistent follow-through.
@@ -16,14 +51,6 @@ Research Specialist,2025-05-20,https://jobright.ai/jobs/info/682d33db780c574a1a3
 3. Strong interest in current events (including political and business affairs)
 4. Comfort and confidence in problem-solving autonomously
 5. Impeccable attention to detail and superior organizational skills",not sure,
-Data Analyst,2025-05-20,https://jobright.ai/jobs/info/682d4badb4b5be35be2a6868?utm_source=1100&utm_campaign=Data Analysis,On Site,"Multi Location
-Costa Mesa, CA
-Los Angeles, CA",AAA Auto Club Enterprises,5001-10000,,$72700-$96800 /yr,"1. Minimum Bachelor’s degree in a quantitative or technical field (math, statistics, computer science, engineering) or comparable experience.
-2. Experience in speech analytics (e.g., with tools like Verint, NICE Nexidia, CallMiner, Genesys, or AWS Transcribe).
-3. Experience in contact center analytics, customer experience, or operations (especially in insurance).
-4. SQL & databases: Ability to query databases and analyze structured/unstructured data.
-5. Data visualization: Experience with Tableau, Power BI, or similar tools.
-...",not sure,
 "Accounts, Data Analyst (Hybrid - Wallingford, CT)",2025-05-20,https://jobright.ai/jobs/info/682d281d4389d9a2d9f980e5?utm_source=1100&utm_campaign=Data Analysis,Hybrid,"Multi Location
 Hartford, CT
 Wallingford, CT","NFP, an Aon company",5001-10000,"Consulting,Financial Services",$47000-$85000 /yr,"1. Demonstrated proficiency and advanced functions within Excel, including pivot tables, creating and using macros and the ability to manage large volumes of data
@@ -38,12 +65,24 @@ Wallingford, CT","NFP, an Aon company",5001-10000,"Consulting,Financial Services
 4. Ability to communicate complex ideas in a simple, easily digestible manner to a range of audiences
 5. Produces detailed documentation including business requirements, process flows, communications, use cases, and user stories outlining problems, and opportunities.
 ...",not sure,
+"Analyst, Distribution Insights & Analytics",2025-05-20,https://jobright.ai/jobs/info/682dcc0225703b6942072531?utm_source=1100&utm_campaign=Data Analysis,On Site,"30 Rockefeller Plaza, New York, NEW YORK",DreamWorks Animation,1001-5000,"Animation,Film",$70000-$95000 /yr,"1. Bachelor’s degree in Business Analytics, Data Science, Computer Science, Statistics, Mathematics, Economics or other relevant quantitative fields
+2. SQL proficiency – qualified candidates will be asked to complete a skills assessment
+3. Experience with Tableau or similar data visualization tools
+4. Strong ability to identify patterns and anomalies
+5. Experience compiling and transforming data in spreadsheets (e.g., Excel, Google Sheets)
+...",not sure,
 "Analyst, Distribution Insights & Analytics",2025-05-20,https://jobright.ai/jobs/info/682d1d1c655ed94f8f627c5e?utm_source=1100&utm_campaign=Data Analysis,On Site,"New York, NY",NBCUniversal,10000+,"Broadcasting,Media and Entertainment",$70000-$95000 /yr,"1. Bachelor’s degree in Business Analytics, Data Science, Computer Science, Statistics, Mathematics, Economics or other relevant quantitative fields
 2. SQL proficiency – qualified candidates will be asked to complete a skills assessment
 3. Experience with Tableau or similar data visualization tools
 4. Strong ability to identify patterns and anomalies
 5. Experience compiling and transforming data in spreadsheets (e.g., Excel, Google Sheets)
 ...",not sure,
+Data Analyst 2,2025-05-20,https://jobright.ai/jobs/info/682dc4204c86deb3d23fc878?utm_source=1100&utm_campaign=Data Analysis,Hybrid,"Chicago, Illinois, United States of America",PayPal,10000+,"E-Commerce Platforms,FinTech",$93974-$148100 /yr,"1. Master’s degree, or foreign equivalent in Computer Science, Statistics, Mathematics or a related field plus one year of experience in the job offered or a related occupation.
+2. Machine learning (model development/deployment; optimization including parameter tuning, dimension reduction, feature selection, and model validation)
+3. Predictive analytics and segmentation (classification models, regression models, and statistical analysis)
+4. Experimental design (A/B testing)
+5. Profit & Loss (P&L) analytics
+...",no,
 Data Analyst,2025-05-20,https://jobright.ai/jobs/info/6815b21e02d9973bcb20c2b7?utm_source=1100&utm_campaign=Data Analysis,On Site,"Elmhurst, IL",McMaster-Carr,1001-5000,"Customer Service,Logistics",$144K-$166K /yr,"1. Strong analytical & critical thinking ability
 2. Demonstrated ability and interest in using data to drive business decisions
 3. Proficiency in SQL, Python, and Microsoft Office
@@ -116,33 +155,31 @@ Data Analyst,2025-05-19,https://jobright.ai/jobs/info/682b906f97896f586429a36a?u
 Data Analyst,2025-05-19,https://jobright.ai/jobs/info/682b9a97902306e52f8495b6?utm_source=1100&utm_campaign=Data Analysis,Hybrid,"New York, NY",Vevo,251-500,"Media and Entertainment,Music",$55K-$68K /yr,"1. 1+ years of hands-on experience within a data analytics team
 2. Advanced experience with MS Excel, including the use of pivot tables and v-lookups
 3. SQL and Python experience",not sure,
-GIS Production Analyst,2025-05-19,https://jobright.ai/jobs/info/682b8595dea2955c03038a7f?utm_source=1100&utm_campaign=Data Analysis,On Site,"Multi Location
-Colorado, United States
-Georgia, United States
-Texas, United States
-Illinois, United States
-Florida, United States
+GIS Production Analyst,2025-05-19,https://jobright.ai/jobs/info/682b8595dea2955c03038a7e?utm_source=1100&utm_campaign=Data Analysis,On Site,"Multi Location
 New York, United States
+Illinois, United States
 Arizona, United States
+Georgia, United States
+Florida, United States
+Texas, United States
+Colorado, United States
 California, United States",Harris Computer,1001-5000,,$45000-$55000 /yr,"1. Ability to edit and manage geographic information system (GIS) data utilizing an array of documentation including but not limited to public land survey system (PLSS), railroad and highway strip maps, platted subdivisions, surveys, deeds, and legal descriptions to complete tax parcel and land records GIS.
 2. Ability to work and learn various processes within ArcGIS Pro.
 3. Ability to learn new technologies, work independently, and quickly turnaround maps, application prototypes or other deliverables.
 4. Meet/Exceed monthly goals and projections.
 5. Strong written, verbal, and interpersonal skills.
 ...",not sure,
-Data Analyst,2025-05-19,https://jobright.ai/jobs/info/682b815aa73e9ca2b385f6af?utm_source=1100&utm_campaign=Data Analysis,Hybrid,"Minneapolis, MN",Gravie,251-500,"Employee Benefits,Health Care",$49500-$82500 /yr,"1. Demonstrated analytics aptitude and problem solving skills
+Data Analyst,2025-05-19,https://jobright.ai/jobs/info/682e0709f460e30e9a41de74?utm_source=1100&utm_campaign=Data Analysis,On Site,"Rock Island, IL",IMEG,1001-5000,"Consulting,Information Technology",$65K-$75K /yr,"1. Excellent oral and written communication
+2. This position is not eligible for Sponsorship",no,
+"Analyst, Yield & Optimization",2025-05-19,https://jobright.ai/jobs/info/682b5cb01131d9215b9d7174?utm_source=1100&utm_campaign=Data Analysis,Hybrid,"New York, NY",Vevo,251-500,"Media and Entertainment,Music",$65000-$65000 /yr,"1. At least 1 year of Inventory, Yield or Pricing & Planning experience in the digital media industry
+2. Proficient in Excel & Powerpoint
+3. Experience working with dynamic digital products such as: Programmatic Guaranteed, Private Marketplace & Open Auction",not sure,
+Data Analyst,2025-05-19,https://jobright.ai/jobs/info/682b5cb01131d9215b9d7147?utm_source=1100&utm_campaign=Data Analysis,Hybrid,"Minneapolis, MN",Gravie,251-500,"Employee Benefits,Health Care",$49500-$82500 /yr,"1. Demonstrated analytics aptitude and problem solving skills
 2. Quantitative proficiency, with an understanding of basic mathematical and statistical principles
 3. Strong Microsoft Excel skills, with ability to manipulate large and complex datasets and perform insightful analysis on that data
 4. Proficiency using SQL to query databases and explore data
 5. Knowledge of Python, R, or other statistical programming languages
 ...",no,
-Data Analyst,2025-05-19,https://jobright.ai/jobs/info/682b7e5e3d1db86ce8705108?utm_source=1100&utm_campaign=Data Analysis,On Site,"Multi Location
-Black Hawk, IA
-Rock Island | Black Hawk Commons",IMEG,1001-5000,"Consulting,Information Technology",$65000-$75000 /yr,"1. Excellent oral and written communication
-2. This position is not eligible for Sponsorship",no,
-"Analyst, Yield & Optimization",2025-05-19,https://jobright.ai/jobs/info/682b5cb01131d9215b9d7174?utm_source=1100&utm_campaign=Data Analysis,Hybrid,"New York, NY",Vevo,251-500,"Media and Entertainment,Music",$65000-$65000 /yr,"1. At least 1 year of Inventory, Yield or Pricing & Planning experience in the digital media industry
-2. Proficient in Excel & Powerpoint
-3. Experience working with dynamic digital products such as: Programmatic Guaranteed, Private Marketplace & Open Auction",not sure,
 Data Science and Analytics Analyst,2025-05-19,https://jobright.ai/jobs/info/67eb2f40c3d9fbbefd7be114?utm_source=1100&utm_campaign=Data Analysis,Hybrid,"Chicago, IL",Razorfish,5001-10000,"Advertising,Internet",$52500-$83500 /yr,"1. Able to identify / focus on key issues and objectives based on internal and client needs with oversight
 2. Is an active listener and seeks to positively contribute to internal discussions
 3. Able to prepare internal and client presentations with oversight
@@ -157,17 +194,17 @@ Internet Researcher,2025-05-18,https://jobright.ai/jobs/info/6829ee60a2281ce1fac
 ...",no,
 Data Business Analyst (Remote),2025-05-17,https://jobright.ai/jobs/info/680bd70c8c0fa0556b623224?utm_source=1100&utm_campaign=Data Analysis,Remote,"Multi Location
 Fort Mill, SC
-USA, South Carolina, Fort Mill
-USA, South Carolina, Remote
+USA, Georgia, Remote
+USA, Illinois, Remote
 USA, Texas, Remote
 USA, Florida, Remote
+USA, Iowa, Remote
+USA, Virginia, Remote
+USA, South Carolina, Fort Mill
+USA, Ohio, Remote
 Minnesota Home - G3
 USA, Michigan, Remote
-USA, Virginia, Remote
-USA, Ohio, Remote
-USA, Iowa, Remote
-USA, Illinois, Remote
-USA, Georgia, Remote
+USA, South Carolina, Remote
 USA, North Carolina, Remote",First American,10000+,"Financial Services,Insurance",$57000-$75975 /yr,"1. One to five years of recent experience as a data analyst or another related title in a financial or banking environment
 2. Formal SQL query language training classes or certificate program
 3. Strong proficiency with the SQL query language, preferably Microsoft T-SQL
@@ -178,12 +215,6 @@ Junior E-Commerce Analyst,2025-05-17,https://jobright.ai/jobs/info/68287d83c2dd7
 3. Ability to work collaboratively in a team-oriented setting.
 4. Excellent communication, problem-solving, and organizational skills.
 5. Eagerness to learn, adapt, and contribute to meaningful projects.",no,
-Data Coordinator,2025-05-16,https://jobright.ai/jobs/info/6824e211f3233344872cf4ad?utm_source=1100&utm_campaign=Data Analysis,On Site,"Monument, CO",Jabil,10000+,"Electronics,Hardware",$58800-$94200 /yr,"1. Beginning use and application of principles, theories, and concepts in major field of specialization.
-2. Participates in solutions to a variety of problems using standard techniques.
-3. Works under general supervision and follows established procedures.
-4. Participates in projects with responsibility to complete tasks adequately and on time.
-5. Primarily intra-organizational with less frequent interorganizational and outside customer contacts on routine matters.
-...",not sure,
 Data Analyst,2025-05-16,https://jobright.ai/jobs/info/682796ddba9e73b7d0061805?utm_source=1100&utm_campaign=Data Analysis,On Site,"Madison, WI",Rural Mutual Insurance Company,251-500,Insurance,$95000-$110000 /yr,"1. Experience in developing reports using Microsoft Power BI
 2. Gathering technical requirements from business stakeholders
 3. Data modeling
@@ -255,30 +286,18 @@ Insights Analyst,2025-05-15,https://jobright.ai/jobs/info/67ee874634b9809ed63558
 4. Comfortable conducting qualitative interviews and interpreting the data, excelling at synthesizing both qualitative and quantitative insights to drive strategy.
 5. Motivated by seeing your insights lead to measurable improvements in business outcomes.
 ...",not sure,
-Junior Data Analyst,2025-05-15,https://jobright.ai/jobs/info/680930c0608766f84c98b1ec?utm_source=1100&utm_campaign=Data Analysis,On Site,"Nashville, TN",IDEXX,10000+,"Biotechnology,Health Care",$75000-$85000 /yr,"1. 1+ years of intermediate SQL experience
-2. 1+ years in leveraging data to present solutions to common business questions
-3. 1+ years designing visualizations in Looker, Power BI, Tableau, or similar
-4. Adept experience with Excel
-5. Fundamental understanding of statistics and associated assumptions
-...",not sure,
 Data Analyst (Contact Center-Hybrid),2025-05-15,https://jobright.ai/jobs/info/6809e1fa43df30534ede5255?utm_source=1100&utm_campaign=Data Analysis,Hybrid,"Princeton, NJ",Dow Jones,5001-10000,"Digital Media,News",$60000-$75000 /yr,"1. 1-2 years of customer service experience and/or experience with large data sets.
 2. Advanced knowledge of MS Excel, with proficiency in PivotTables, Macros and Charts.
 3. Proficiency with Google Collaboration tools such as Drive, Docs, Sheets, Slides and Forms.
 4. Knowledge of Microsoft Access and Word.
 5. Intermediate VBA programming skills.
 ...",not sure,
-"Analyst, Pricing and Promotions Analytics",2025-05-14,https://jobright.ai/jobs/info/68259b3ca93ccc39f8f8ca9a?utm_source=1100&utm_campaign=Data Analysis,On Site,"San Diego, CA",Petco,,"Animal Feed,Nutrition",$76500-$114700 /yr,"1. Bachelor’s degree in economics, statistics, math or related business field.
+"Analyst, Pricing and Promotions",2025-05-15,https://jobright.ai/jobs/info/68259b3ca93ccc39f8f8ca9a?utm_source=1100&utm_campaign=Data Analysis,On Site,"San Diego, CA",Petco,,"Animal Feed,Nutrition",$76500-$114700 /yr,"1. Bachelor’s degree in economics, statistics, math or related business field.
 2. Minimum of 1 years of experience in analytics or statistics capacity, 2 years ideal
 3. Experience with SQL programming languages required
 4. Experience building large data sets across disparate sources required (SQL, Hive, Hadoop)
 5. Desire to learn new analytic and data manipulation techniques to become an ‘local expert’
 ...",not sure,
-Data Analyst,2025-05-14,https://jobright.ai/jobs/info/682d45d9eb938b1b1687a983?utm_source=1100&utm_campaign=Data Analysis,On Site,"Battle Creek, MI",Constellis,5001-10000,"Risk Management,Security",$17.20-$17.20 /hr,"1. US Citizenship
-2. Candidates will be required to undergo a background check
-3. High School diploma or GED
-4. Computer skills -- Utilizes a personal computer with word processing, spreadsheet and related software with reasonable speed and accuracy
-5. Proficient in Word, Excel, and data entry
-...",no,
 2025 MiLB Data Operations (Seasonal),2025-05-14,https://jobright.ai/jobs/info/6825517c58d0c2db31c39350?utm_source=1100&utm_campaign=Data Analysis,On Site,"Round Rock, TX",Major League Baseball (MLB),10000+,"Association,Baseball",$25-$25 /hr,"1. Exceptional (and demonstrable) knowledge of baseball and how to score a baseball game
 2. Strong computer proficiency (Windows OS, Windows-based software and Chrome browser) and the ability to quickly learn and operate new software
 3. Knowledge and use of Slack chat software
@@ -302,12 +321,24 @@ Ad Operations Specialist,2025-05-14,https://jobright.ai/jobs/info/6824fad6ff3627
 3. Familiarity with HTML, JavaScript, and other web technologies related to ad tech.
 4. Experience with Tealium Tag Manager or similar tools.
 5. Experience managing analytic and/or development projects.",not sure,
+Geospatial Research Specialist - Entry level,2025-05-14,https://jobright.ai/jobs/info/6824fad6ff362725c9fd739f?utm_source=1100&utm_campaign=Data Analysis,On Site,"Minneapolis, MN",East View Information Services,101-250,"Information Technology,News",$21-$23.50 /hr,"1. Associate’s degree in GIS, Geography or a related field
+2. 1+ years of working with ERP/CRM systems
+3. 3+ years of using Microsoft Office products in a professional or educational environment
+4. 1+ years working with or using maps in a professional or educational environment
+5. Understanding of maps, map series, and geospatial information
+...",not sure,
 Data Analyst 1 (1 Year Fixed Term),2025-05-14,https://jobright.ai/jobs/info/6824ddfea05210536c909844?utm_source=1100&utm_campaign=Data Analysis,On Site,"Stanford, CA",Stanford University School of Medicine,5001-10000,"Education,Higher Education",$82468-$106256 /yr,"1. Bachelor's degree or a combination of education and relevant experience.
 2. Experience in a quantitative discipline such as economics, finance, statistics or engineering.
 3. Basic knowledge and demonstrated experience using and applying analytical software, database management system software, database reporting software, database user interface and query software, and data mining software.
 4. Ability to collect data using a variety of methods, such as data mining and hardcopy or electronic documentation study, to improve or expand databases.
 5. Strong listening, verbal and written communication skills.
 ...",not sure,
+Data Coordinator,2025-05-14,https://jobright.ai/jobs/info/682e1d3d06643252b2ade9f3?utm_source=1100&utm_campaign=Data Analysis,On Site,"Monument, CO",Jabil,10000+,"Electronics,Hardware",$58800-$94200 /yr,"1. 1–2 years of experience working with data in a technical, analytical, or implementation support role (internships, project work, or entry-level experience welcome)
+2. Advanced level of experience with Microsoft Office applications (Excel, Word, PowerPoint).
+3. Ability to define problems, collect data, establish facts, and draw valid conclusions.
+4. Ability to add, subtract, multiply, and divide in all units of measure, using whole numbers, common fractions, and decimals.
+5. Ability to compute rate, ratio, and percent and to draw and interpret graphs.
+...",no,
 Sr Operations Coordinator,2025-05-13,https://jobright.ai/jobs/info/6824353d0d5aae8b44d030ca?utm_source=1100&utm_campaign=Data Analysis,On Site,"Multi Location
 Lewisville, TX
 Dallas, TX",Mosaic North America,5001-10000,"Advertising,Brand Marketing",$85000-$90000 /yr,"1. A Bachelor’s degree in Economics, Business, Statistics, Computer Science, STEM, or related quantitative field, or equivalent practical experience
@@ -343,7 +374,7 @@ Sports Trading Analyst,2025-05-13,https://jobright.ai/jobs/info/68235e4eb8c92c2c
 4. Ability to take immediate action in a fast-moving trading environment
 5. Excellent communication skills – both written and verbal
 ...",not sure,
-Data Collection Specialist II,2025-05-12,https://jobright.ai/jobs/info/6822ae892a6c1046d5270dbb?utm_source=1100&utm_campaign=Data Analysis,On Site,"Multi Location
+Data Collection Specialist II,2025-05-12,https://jobright.ai/jobs/info/6822ae892a6c1046d5270e09?utm_source=1100&utm_campaign=Data Analysis,On Site,"Multi Location
 Scott AFB, IL
 Shiloh, IL",Leidos,10000+,"Computer,Government",$34450-$62275 /yr,"1. Currently possess an active Secret security clearance.
 2. Basic understanding of IT ticketing processes, applications and Data Analytics
@@ -418,12 +449,6 @@ Warranty Compliance Data Analyst L3,2025-05-07,https://jobright.ai/jobs/info/681
 4. SQL skills for querying relational databases
 5. Experience with complex data analysis
 ...",not sure,
-Information Strategy Analyst - Information Technology Associate (ITA),2025-05-06,https://jobright.ai/jobs/info/682d4344eb05768db8e0054c?utm_source=1100&utm_campaign=Data Analysis,On Site,"Sacramento, CA",California Department of Technology,501-1000,"Information Services,Information Technology",$4791-$8485 /mon,"1. Demonstrate an understanding of data processing concepts, practices, methods, and principles, including current and evolving industry trends and standards.
-2. Strong team-building and communication skills are essential and required.
-3. Ability to work in a fast-paced environment on leading-edge technology platforms and systems in a team environment alongside other IT professionals.
-4. Authorized to work in the US without the need for visa sponsorship now or in the future.
-5. Candidates must provide proof of residence in California prior to their appointment becoming effective.
-...",no,
 "Product Analytics and Data Specialist (backed by Y Combinator, $1M+ ARR, $6.3M+ raised)",2025-05-06,https://jobright.ai/jobs/info/681aadba867475a7aa0de30e?utm_source=1100&utm_campaign=Data Analysis,On Site,US,Legion Health,11-50,"Home Health Care,Mental Health",$50000-$200000 /yr,"1. Proven rollout of Segment/RudderStack, PostHog/MixPanel/Amplitude, GA4, BigQuery/Snowflake, and BI tools at an early‑stage startup.
 2. Fluency in JavaScript/TypeScript tagging, server‑side events, and schema design.
 3. Strong SQL; comfortable joining product, revenue, and ops tables for cohort and LTV analyses.
@@ -447,19 +472,13 @@ Data Analyst,2025-05-05,https://jobright.ai/jobs/info/6818c1fe1ca17e206f250c49?u
 4. Strong knowledge of data visualization tools like Tableau, Power BI, or similar platforms.
 5. Experience with data manipulation, cleaning, and transformation techniques.
 ...",not sure,
-Programmatic Trader (Advertising),2025-05-04,https://jobright.ai/jobs/info/67c23f4ae525c3192c86f451?utm_source=1100&utm_campaign=Data Analysis,On Site,"New York, NY",MiQ,501-1000,"Analytics,Internet",$60K-$70K /yr,"1. Analytical skills are essential
-2. Experience with large datasets in Excel and BI tools
-3. A start-up mind-set
-4. Attention to detail
-5. Accomplished communicator
-...",no,
 "Staff, Digital Analyst",2025-05-02,https://jobright.ai/jobs/info/681598d1c5b5256d7fe8a519?utm_source=1100&utm_campaign=Data Analysis,Hybrid,"New York, NY",Scholastic,10000+,"Books,EdTech",$84000-$94100 /yr,"1. 1-3 years of Digital Analytics experience
 2. Ability to analyze data, build dashboards, and generate insights with Adobe Analytics or Google Analytics
 3. Can manipulate, aggregate, enrich, and connect data using domain-specific tools
 4. Ability to interpret data and find insights
 5. Proven track record of working in a team setting to collaborate and execute on projects
 ...",not sure,
-Data Analyst,2025-05-02,https://jobright.ai/jobs/info/68156b54cfc3e6ef7a82231e?utm_source=1100&utm_campaign=Data Analysis,Hybrid,"Multi Location
+Data Analyst,2025-05-02,https://jobright.ai/jobs/info/68156b54cfc3e6ef7a82231d?utm_source=1100&utm_campaign=Data Analysis,Hybrid,"Multi Location
 New York, United States
 Boston, MA",Criteo,1001-5000,"Ad Retargeting,Advertising",$79700-$98000 /yr,"1. Minimum 1 year full-time, analytics-relevant work experience with Python
 2. Native-level English fluency and strong presentation and public speaking skills, with the ability to present and defend complex analyses to both technical and non-technical audiences
@@ -482,8 +501,8 @@ Data Analyst,2025-05-02,https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e2289a?u
 "Data Collection Specialist, CoRo",2025-05-02,https://jobright.ai/jobs/info/68149f25820ff6db6c7c0644?utm_source=1100&utm_campaign=Data Analysis,On Site,"Multi Location
 Bellevue, WA
 Sunnyvale, CA
-Sunnyvale, California, USA
-Bellevue, Washington, USA",Amazon,10000+,"Crowdsourcing,Delivery",$32700-$70000 /yr,"1. Bachelor’s degree required or GED with 1+ year of experience in data collection, technical support, project management, data processing, machine learning, or related field",not sure,
+Bellevue, Washington, USA
+Sunnyvale, California, USA",Amazon,10000+,"Crowdsourcing,Delivery",$32700-$70000 /yr,"1. Bachelor’s degree required or GED with 1+ year of experience in data collection, technical support, project management, data processing, machine learning, or related field",not sure,
 "Analyst, Digital Merchandise Ops",2025-05-01,https://jobright.ai/jobs/info/68140c450440843860728c69?utm_source=1100&utm_campaign=Data Analysis,On Site,"San Diego, CA",Petco,,"Animal Feed,Nutrition",$64800-$97200 /yr,"1. Bachelor's degree in Business, Economics, Merchandising, Analytics, or a related field.
 2. 1-3 years of work experience.
 3. Strong analytical skills with an ability to work with large datasets and draw meaningful insights.
@@ -517,28 +536,22 @@ Solutions/Software Analyst/Scientist/Engineer - Workflow,2025-05-01,https://jobr
 Chicago, IL
 Minneapolis, MN
 New York, United States
-Chicago
 New York
+Chicago
 Minneapolis",Ovative Group,501-1000,"Consulting,Consumer Goods",$48000-$72000 /yr,"1. 1+ years experience with paid media metrics and key performance indicators
 2. Intermediate to advanced Excel experience",not sure,
+"Analyst, Performance Media Analytics",2025-04-30,https://jobright.ai/jobs/info/682dbd8cb3342ccee7f02236?utm_source=1100&utm_campaign=Data Analysis,On Site,New York,Horizon Media,1001-5000,"Advertising,Brand Marketing",$64350-$75000 /yr,"1. Bachelor’s degree required plus 0 to 1 years of industry experience
+2. Coursework in statistics, mathematics, computer science, or engineering
+3. Working knowledge of digital display media; programmatic knowledge is a plus
+4. Strong analytical skills, including the ability to analyze raw data, draw conclusions, and make recommendations based on forecasted outcomes
+5. Basic proficiency with Microsoft Excel and PowerPoint
+...",not sure,yes
 Reporting Analyst l,2025-04-30,https://jobright.ai/jobs/info/682269c96def68e8e42a7ea3?utm_source=1100&utm_campaign=Data Analysis,Remote,"Remote, NJ (US)",Holman,1001-5000,"Automotive,Sales Automation",$56400-$81775 /yr,"1. BA/BS degree required.
 2. Basic knowledge of Tableau, Power BI, Business Objects or other business intelligence reporting tools is required.
 3. Basic understanding of programming languages and script/query writing is required.",not sure,
-Associate Data Insights Analyst – AI Analysis (Spanish),2025-04-30,https://jobright.ai/jobs/info/67d9a292ba17fa76fefeb7e2?utm_source=1100&utm_campaign=Data Analysis,On Site,"Centennial, CO",Spectrum,10000+,"Digital Entertainment,Internet",$67K-$107K /yr,"1. Relevant technical or business work experience: 1 year or more
-2. Bachelor’s degree in computer science, engineering or related field, or equivalent experience
-3. Foundational knowledge of SQL, Python with the ability to build queries using operators and conditional statements
-4. Understanding of relational databases, data structures, and ETL processes for data transformation and extraction
-5. Exposure to NLP libraries and frameworks (such as spaCy, NLTK, Hugging Face, or OpenAI API) for text processing and analysis
-...",not sure,
 Data Sync Analyst,2025-04-29,https://jobright.ai/jobs/info/6814656b8f419a4fb29d0835?utm_source=1100&utm_campaign=Data Analysis,On Site,"Camden, NJ",The Campbell's Company,10000+,"Food and Beverage,Food Processing",$55300-$79500 /yr,"1. Bachelors degree required
 2. 1-3 years’ work experience required, analyst experience preferred
 3. Intermediate Excel skills required",not sure,
-Regulatory Research Analyst,2025-04-29,https://jobright.ai/jobs/info/681124bd5fe245eb3afbbdea?utm_source=1100&utm_campaign=Data Analysis,Remote,United States,Oracle,10000+,"Data Governance,Data Management",$19.62-$38.32 /hr,"1. Experience in collecting organizing synthesizing and analyzing data.
-2. Utilizing Microsoft Excel or similar programs to create pivot tables, charts and detailed reports that are sourced from multiple data locations to be shared with managers and peers across the company.
-3. Establish monthly reporting schedule and automating where applicable.
-4. Create visual charts/images to represent results of data analysis.
-5. Reports to provide a concise story behind the data, what are we trying to convey.
-...",not sure,
 Data Collection Specialist,2025-04-28,https://jobright.ai/jobs/info/68197e228c4c3cee1da3853c?utm_source=1100&utm_campaign=Data Analysis,On Site,"Corona, CA",Monster Energy,5001-10000,"Energy,Food and Beverage",$57000-$72000 /yr,"1. Analyze and audit depletion data against the reporting distribution partners internal systems to ensure data accuracy and data quality meet the agreed upon standards
 2. Perform audits; daily, weekly, monthly, and quarterly, volume and call point audits to ensure alignment in both internal and external systems
 3. Manages the end-to-end process from creation to quarterly auditing of call points and their retail outlets ensuring alignment with outlet numbers, 'doing business as' (dba), address, class of trade, premise type, and reporting hierarchy
@@ -573,18 +586,12 @@ Fraud Analyst,2025-04-24,https://jobright.ai/jobs/info/67f0a2d128a38bd8c6056a15?
 4. Detect edited or forged documentation
 5. Prevent identity theft via picture ID analysis and analyzing identity databases
 ...",not sure,
-Data Operations Associate,2025-04-24,https://jobright.ai/jobs/info/680ab4d59cff3c078f3d2ebd?utm_source=1100&utm_campaign=Data Analysis,On Site,"New York, NY","Enigma Technologies, Inc.",101-250,"Big Data,Developer APIs",$80000-$150000 /yr,"1. Is a self starter with the ability to manage multiple tasks and prioritize effectively
+Data Operations Associate,2025-04-24,https://jobright.ai/jobs/info/680a6fb8e8009282f5bf8b14?utm_source=1100&utm_campaign=Data Analysis,On Site,"New York, NY","Enigma Technologies, Inc.",101-250,"Big Data,Developer APIs",$80000-$150000 /yr,"1. Is a self starter with the ability to manage multiple tasks and prioritize effectively
 2. Has strong analytical and quantitative skills and the ability to extract, manipulate and analyze data with a keen eye for detail
 3. Has proficiency in one or two data wrangling tools for tabular data, incl. SQL
 4. Brings strong business intuition to make sense of complex business data
 5. Has project management experience owning complex, custom deliverables and onboarding workflows end-to-end
 ...",not sure,yes
-Analytics Rep,2025-04-24,https://jobright.ai/jobs/info/680a6fb8e8009282f5bf8b5d?utm_source=1100&utm_campaign=Data Analysis,On Site,"New York, NY",Sony Music Entertainment,5001-10000,"Digital Entertainment,Media and Entertainment",$16.50-$16.50 /yr,"1. Currently enrolled as either an undergraduate or graduate student in an accredited program. Must have at least 1 year left of academic program (preferably two years).
-2. Strong work ethic, knowledge and passion for music
-3. Interest in analytics, research and how data is used in the music industry
-4. Excellent Powerpoint, Word and Excel skills
-5. Experience using a diverse range of analytics tools and basic knowledge on how to query databases (e.g. SQL, Alteryx, Brandwatch, Looker, Tableau, R, Qualtrics, etc).
-...",not sure,
 Data Analyst (Contact Center),2025-04-23,https://jobright.ai/jobs/info/6809a0f6c29886eae31c138a?utm_source=1100&utm_campaign=Data Analysis,Hybrid,"Princeton, NJ",Dow Jones,5001-10000,"Digital Media,News",$60K-$75K /yr,"1. 1-2 years of customer service experience and/or experience with large data sets.
 2. Advanced knowledge of MS Excel, with proficiency in PivotTables, Macros and Charts.
 3. Proficiency with Google Collaboration tools such as Drive, Docs, Sheets, Slides and Forms.
@@ -620,10 +627,6 @@ Data Analyst 2,2025-04-22,https://jobright.ai/jobs/info/682d4ca8c2d326b158fad26e
 4. Computer skills -- Utilizes a personal computer with word processing, spreadsheet and related software with reasonable speed and accuracy
 5. Proficient in Word, Excel, and data entry
 ...",no,
-Data Analyst,2025-04-22,https://jobright.ai/jobs/info/682d7bffcc9d1c236c10ba91?utm_source=1100&utm_campaign=Data Analysis,On Site,"California, US",S&P Global,10000+,"Analytics,Business Intelligence",$40000-$50000 /yr,"1. Proven working experience as a data analyst or business data analyst.
-2. Strong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy.
-3. Adept at queries, report writing and presenting finding.
-4. Strong computer aptitude with intermediate Microsoft Office experience with products like Excel, VBA, Word, Outlook, and SQL; web scraping is a plus.",not sure,
 Associate Revenue Operations Analyst,2025-04-22,https://jobright.ai/jobs/info/6807ebeb64c1bea1d1367fa9?utm_source=1100&utm_campaign=Data Analysis,Hybrid,"Multi Location
 Denver, CO
 Denver, Colorado, United States",Contentful,501-1000,"Cloud Computing,CMS",$88000-$96000 /yr,"1. Bachelor’s degree in Business, Finance, Economics, Data Analytics, or a related field.
@@ -632,17 +635,3 @@ Denver, Colorado, United States",Contentful,501-1000,"Cloud Computing,CMS",$8800
 4. Familiarity with Salesforce CRM.
 5. High work-ethic and a curiosity to deep dive and solve business issues.
 ...",not sure,yes
-Program Analyst,2025-04-22,https://jobright.ai/jobs/info/6807a9d8f3b07810215463f0?utm_source=1100&utm_campaign=Data Analysis,Hybrid,"Multi Location
-US (Miami - Hybrid)
-US (New York - Hybrid)",Gympass,1001-5000,,$63974-$95962 /yr,"1. You have a bachelors degree in an analytical degree, such as Economics, Mathematics, Engineering, or other similar degrees
-2. You are detail-oriented and comfortable working with data and creating simple data visualizations
-3. You are a self-starter who can multi-task, work on multiple priorities, and is comfortable asking questions in a hybrid environment
-4. You have the ability to work both autonomously and collaborate in a Global team environment
-5. You are a strong communicator. You’re comfortable communicating your ideas both verbally and in written communication
-...",not sure,
-2025 Football Data Scout,2025-04-21,https://jobright.ai/jobs/info/6806883be1bc0e69f4831c02?utm_source=1100&utm_campaign=Data Analysis,Remote,United States,Sports Info Solutions,,Sports,$12-$12 /hr,"1. Demonstrated knowledge of NFL and NCAA rules
-2. Ability to identify and differentiate between players
-3. Computer proficiency and the ability to learn new software
-4. High attention to detail
-5. Must be able to work nights, weekends & holidays
-...",no,
