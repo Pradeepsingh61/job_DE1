@@ -1,4 +1,9 @@
 Position Title,Date,Apply,Salary,Work Model,Company,Company Size,Company Industry,Location,Qualifications,H1b Sponsored,Is New Grad
+Data Engineer (Junior),2025-05-24,https://jobright.ai/jobs/info/683278f3df19df45c410cfb3?utm_source=1114&utm_campaign=New Grad Data Engineer,$100K-$150K /yr,On Site,Paces,11-50,"Battery,Data Center","New York, NY","1. Solid understanding of data engineering concepts, with a strong grasp of data structures, algorithms, and system design
+2. Strong coding skills with demonstrated proficiency in relevant programming languages, such as Python, Rust, Scala
+3. Advanced SQL expertise, including experience with complex queries, query optimization, and working with various database systems
+4. Hands-on experience with big data tools (e.g. Spark) and data pipeline orchestration tools (e.g. Dagster, Airflow, Prefect)
+5. Proven experience in building robust, scalable and performant data pipelines on the cloud (AWS / GCP / Azure)",not sure,
 "Data Engineer, Accounting",2025-05-23,https://jobright.ai/jobs/info/68143b165dc4e835c756b92b?utm_source=1114&utm_campaign=New Grad Data Engineer,$91200-$185000 /yr,On Site,Amazon,10000+,"Crowdsourcing,Delivery","Multi Location
 Seattle, WA
 Seattle, Washington, USA","1. 1+ years of data engineering experience
@@ -26,8 +31,8 @@ Data Engineer (Junior),2025-05-22,https://jobright.ai/jobs/info/682f83d333bd7838
 "Junior Splunk Data Engineer - Join us in Huntsville, AL!",2025-05-22,https://jobright.ai/jobs/info/682f7ff2f5fecbead929d0d9?utm_source=1114&utm_campaign=New Grad Data Engineer,$93400-$176200 /yr,On Site,Accenture Federal Services,10000+,"Consulting,Finance","Multi Location
 Nashville, TN
 Tampa, FL
-Los Angeles, CA
-Atlanta, GA","1. 1 year of experience in IT and/or Cyber
+Atlanta, GA
+Los Angeles, CA","1. 1 year of experience in IT and/or Cyber
 2. Bachelor's Degree required (In lieu of a degree, an additional 4 years of experience may be substituted)
 3. Splunk experience
 4. Data analysis and/or engineering experience
@@ -146,9 +151,9 @@ Data Engineer,2025-05-14,https://jobright.ai/jobs/info/6824bd35c5b53708fde4a49c?
 5. Strong understanding of NW risk assessments",not sure,
 Data Engineer - Retail Analytics Engineering,2025-05-14,https://jobright.ai/jobs/info/6824a853445b1c3ae81cff51?utm_source=1114&utm_campaign=New Grad Data Engineer,$72100-$158620 /yr,Hybrid,CVS Health,10000+,"Health Care,Medical","Multi Location
 Irving, TX
+Woonsocket-1 CVS Drive
 TX - Irving
-Richardson-1300 E Campbell Rd
-Woonsocket-1 CVS Drive","1. 1-2 years of related work experience including:
+Richardson-1300 E Campbell Rd","1. 1-2 years of related work experience including:
 2. Experience in Azure/GCP (Big Query, GCS, Pub/Sub, DataProc, Airflow/Composer, Snowflake, Azure Cloud Services etc.)
 3. Experience in Unix/Shell Scripting
 4. Experience in Python
@@ -258,9 +263,3 @@ Data Engineer Graduate (Ads Data Application) - 2025 Start (BS/MS),2025-05-03,ht
 4. Proficiency in programming languages such as Python, Java, Go etc.
 5. Solid understanding of data modeling and data warehousing concepts, data integration and ETL/ELT techniques.
 ...",not sure,yes
-Senior Associate Data Engineer (multiple openings) - IHM,2025-04-24,https://jobright.ai/jobs/info/6826b04778eb994ae6e329ce?utm_source=1114&utm_campaign=New Grad Data Engineer,$73500-$124300 /yr,On Site,Discover Financial Services,10000+,"Banking,Credit","Riverwoods, IL","1. Bachelor's degree in Computer Science, Information Technology, or related field
-2. 1 year of experience in the job offered or in a Data Engineer-related occupation
-3. Experience in utilizing ETL pipelines including Apache, Oracle, or Informatica
-4. Experience in utilizing SQL, SAS, Python, Teradata, and Snowflake technologies to analyze and deliver data analysis
-5. Experience in creating technical documentation for overall business solutions
-...",not sure,
