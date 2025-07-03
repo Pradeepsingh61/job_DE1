@@ -1,4 +1,13 @@
 Position Title,Date,Apply,Salary,Work Model,Company,Company Size,Company Industry,Location,Qualifications,H1b Sponsored,Is New Grad
+Data Engineer,2025-07-02,https://jobright.ai/jobs/info/6865ec12534cb9e5381a7c63?utm_source=1114&utm_campaign=New Grad Data Engineer,"$96,100-$141,620 /yr",On Site,Navy Federal Credit Union,10000+,"Association,Financial Services","Vienna, VA, United States","1. Bachelor's Degree
+2. Experience in designing, developing, and optimizing data pipelines and systems for the collection, connection, and storage of data
+3. Ability to manage, interpret, and derive insights from data
+4. Experience implementing data processing tasks, ensuring data quality and system reliability
+5. Understanding of business needs and objectives
+...",not sure,
+Data Management Specialist,2025-07-02,https://jobright.ai/jobs/info/68659ab5154555281e43db2f?utm_source=1114&utm_campaign=New Grad Data Engineer,$30.50-$39.75 /hr,On Site,Brigham Young University,,,"Provo, UT","1. A firm commitment to the mission of BYU.
+2. Bachelor’s degree in a related field
+3. 1+ years of experience with building and managing data pipelines or related work",not sure,
 IT Data Engineer,2025-07-01,https://jobright.ai/jobs/info/6864ac34a6315c4a0e6fe8f4?utm_source=1114&utm_campaign=New Grad Data Engineer,$41.92-$62.88 /hr,On Site,Qualcomm,10000+,"Artificial Intelligence (AI),Generative AI","San Diego, CA","1. 1+ Years of prior experience in Data Engineering and Databases, SQL
 2. 1+ years of Python programming experience
 3. Experience with ETL framework like Airflow, Dagster (desired)
@@ -86,12 +95,6 @@ Analytics Engineer,2025-06-23,https://jobright.ai/jobs/info/685a3c45e184ac13345e
 2. Proficiency in SQL and knowledge of RDBMs like Postgres and Redshift
 3. Experience with ETL processing and data wrangling including fetching, munging, cleaning, pivoting, analyzing, aggregating, distributing, and visualizing
 4. Basic knowledge of statistics, algorithms, data structures, and machine learning",not sure,
-"Engineer, Data Engineering & Intelligence",2025-06-23,https://jobright.ai/jobs/info/685a165a94c29930fe0138fd?utm_source=1114&utm_campaign=New Grad Data Engineer,$55K-$83K /yr,Hybrid,Publicis Groupe,10000+,"Advertising,Marketing","New York, NY","1. Detail oriented while keeping sight of the bigger picture.
-2. Highly proficient in SQL and Python.
-3. Prior experience in Google Cloud services such as BigQuery, GCS, Cloud SQL, ML, or similar Cloud services experience.
-4. Experience building and optimizing data pipelines, architectures and data sets.
-5. Experience analyzing data to identify issues and inconsistencies.
-...",not sure,
 "Data Engineer, Analytics Engineering (Buffalo Grove, IL)",2025-06-23,https://jobright.ai/jobs/info/6859c9169299ffe63efbe5ad?utm_source=1114&utm_campaign=New Grad Data Engineer,$79310-$158620 /yr,Hybrid,CVS Health,10000+,"Health Care,Medical",IL - Buffalo Grove,"1. 1+ years of business experience leading analyses and initiatives with track record of business impact
 2. 1+ years of experience programming using Python or SQL
 3. 1+ years of experience in cloud preferably GCP",no,
@@ -126,6 +129,12 @@ Associate Data Engineer,2025-06-19,https://jobright.ai/jobs/info/681acfb9541609d
 3. Experience with multiple types of data stores – not only relational databases
 4. Problem solving and analytical skills with the ability to apply knowledge and creativity to resolve complex issues
 5. Project and time management skills with the ability to organize and prioritize multiple tasks
+...",not sure,
+Technology Engineer,2025-06-18,https://jobright.ai/jobs/info/6865fffb1e8de5dc34d614c8?utm_source=1114&utm_campaign=New Grad Data Engineer,$100000-$100000 /yr,On Site,"Glazer Capital, LLC",11-50,"Advice,Financial Services","New York, NY","1. Bachelor’s in computer science, computer engineering, industrial engineering, or related engineering field
+2. 1 year of experience in software development and data process automation
+3. Developing financial process automation and analytics tools for a Fortune 500 company using VBA and Python to automate financial reporting, accounting, and data scraping/analytics
+4. Developing VBA tools to automate Excel tasks and stand-alone Excel tools with macros
+5. Developing Natural Language Processing tools
 ...",not sure,
 "Data Engineer, Associate/ Senior Associate",2025-06-18,https://jobright.ai/jobs/info/68534b455c0dc4a3719f8e87?utm_source=1114&utm_campaign=New Grad Data Engineer,$140K-$180K /yr,On Site,Cerberus Capital Management,501-1000,"Finance,Financial Services",NYC Metro Area,"1. Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field
 2. Must be available to work on-site 5 days a week in a fast-paced, collaborative environment
@@ -243,10 +252,4 @@ Data Analytics Engineer,2025-06-04,https://jobright.ai/jobs/info/68409bccd7dad30
 3. Experience in SQL programming and data transformation skills
 4. Experience in DBT programming
 5. Experience making sense of data for analytical insights
-...",not sure,
-"Data Engineer, Amazon Smart Vehicles, Amazon Smart Vehicles",2025-06-02,https://jobright.ai/jobs/info/684ca76bc4f4494a851f3f47?utm_source=1114&utm_campaign=New Grad Data Engineer,$91200-$185000 /yr,On Site,Amazon,10000+,"Crowdsourcing,Delivery","Sunnyvale, California, USA","1. 1+ years of data engineering experience
-2. Experience with data modeling, warehousing and building ETL pipelines
-3. Experience with SQL
-4. Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)
-5. Experience with one or more scripting language (e.g., Python, KornShell)
 ...",not sure,
