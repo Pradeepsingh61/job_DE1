@@ -1,4 +1,16 @@
 Position Title,Date,Apply,Salary,Work Model,Company,Company Size,Company Industry,Location,Qualifications,H1b Sponsored,Is New Grad
+"Data Engineer, Amazon Smart Vehicles, Amazon Smart Vehicles",2025-07-05,https://jobright.ai/jobs/info/684cf8c365c1bf1131256ef6?utm_source=1114&utm_campaign=New Grad Data Engineer,$91K-$185K /yr,On Site,Amazon,10000+,"Crowdsourcing,Delivery","Sunnyvale, CA","1. 1+ years of data engineering experience
+2. Experience with data modeling, warehousing and building ETL pipelines
+3. Experience with SQL
+4. Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)
+5. Experience with one or more scripting language (e.g., Python, KornShell)
+...",not sure,
+Data Engineer,2025-07-04,https://jobright.ai/jobs/info/6869fb5835584b6542151862?utm_source=1114&utm_campaign=New Grad Data Engineer,$105100-$131400 /yr,On Site,Rivian,10000+,"Automotive,Electric Vehicle","Palo Alto, CA","1. Bachelor's degree in CS or any STEM discipline.
+2. 1-3 years of professional software development experience, ideally with some exposure to Data Engineering or Analytics Engineering.
+3. Proficiency in Python and SQL
+4. Proficiency with cloud infrastructures (AWS preferred)
+5. Familiarity working with AWS Lambdas, Docker and Kubernetes or other serverless and container-based architectures
+...",not sure,
 Associate Customer Engineer,2025-07-04,https://jobright.ai/jobs/info/6868800335584b65420c2929?utm_source=1114&utm_campaign=New Grad Data Engineer,$61000-$90000 /yr,Hybrid,Reltio,251-500,"Analytics,Data Governance","Multi Location
 Mesquite, TX
 Austin TX, Dallas, TX","1. Bachelor's degree in Computer Science or equivalent field of study.
@@ -13,6 +25,11 @@ GIS Developer- Junior,2025-07-04,https://jobright.ai/jobs/info/68685fed35584b654
 4. Familiarity with web development technologies such as HTML, CSS, JavaScript, and/or Typescript
 5. Exposure to spatial databases such as PostgreSQL or SQL Server Spatial
 ...",no,
+Data Engineer,2025-07-04,https://jobright.ai/jobs/info/6869f87e35584b654209b611?utm_source=1114&utm_campaign=New Grad Data Engineer,$110K-$137K /yr,Hybrid,Engine,1001-5000,"Advertising,Digital Media","Pittsburgh, PA","1. Strong expertise in SQL and SQL Server (stored procedures, scripting, optimization)
+2. Excellent communication and interviewing skills for working with non-technical stakeholders
+3. Experience designing data models for reporting/BI consumption
+4. Maintain and enhance the company’s SQL Server-based data infrastructure
+5. Provide guidance on data quality, structure, and reporting consistency",no,
 GIS Developer- Junior,2025-07-04,https://jobright.ai/jobs/info/68683b0535584b6542cc50a8?utm_source=1114&utm_campaign=New Grad Data Engineer,$57K-$134K /yr,Hybrid,CGI,10000+,"Analytics,Application Performance Management","Fairfax, VA","1. Bachelor's degree in computer science, geography, GIS, Geomatics, or a related field
 2. Strong foundational knowledge of GIS principles and concepts
 3. Proficiency in at least one programming language such as Python, JavaScript, Java, or C#
@@ -30,9 +47,9 @@ Chicago, IL
 Denver, CO
 San Francisco, CA
 Atlanta, GA
+Santa Barbara, CA
 Dallas, TX
-San Diego, CA
-Santa Barbara, CA","1. 1+ years of experience with Apache Kafka and similar technologies used as distributed message brokers
+San Diego, CA","1. 1+ years of experience with Apache Kafka and similar technologies used as distributed message brokers
 2. 1+ years of experience in real time stream processing technologies, such as Apache Flink
 3. 1+ years of experience with AWS primitives (IAM, VPC, S3, MSK, EKS, etc.)
 4. 2+ years of experience working with programming languages like Python or Ruby
@@ -93,6 +110,13 @@ Associate Embedded Software Engineer - Data Engineer & Analyst,2025-06-30,https:
 4. Proficiency in SQL (SQL Server / Azure SQL)
 5. Proficiency in KQL (Kusto / Azure Data Explorer)
 ...",no,
+Software Engineer Graduate (Experimentation and Evaluation) - 2025 Start (BS/MS),2025-06-30,https://jobright.ai/jobs/info/6869fdec35584b65421f1f7a?utm_source=1114&utm_campaign=New Grad Data Engineer,$115K-$154K /yr,On Site,TikTok,10000+,"Content Creators,Content Discovery","San Jose, CA","1. Bachelor's or Master's degree in Computer Science or related fields or equivalent practical experience.
+2. Final year or recent graduate with a background in Software Development, Computer Science, Computer Engineering, or a related technical discipline.
+3. Experience with coding in Python, Java, Golang, C#, or C++.
+4. Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment.",no,yes
+Software Engineer Graduate (Recommendation Infrastructure) - 2025 Start (BS/MS),2025-06-30,https://jobright.ai/jobs/info/6869f9ea35584b6542112113?utm_source=1114&utm_campaign=New Grad Data Engineer,$112K-$147K /yr,On Site,TikTok,10000+,"Content Creators,Content Discovery","San Jose, CA","1. Bachelor's degree or above, majoring in Computer Science, or related fields, expected to start in 2025
+2. Experience in programming, included but not limited to, the following programming languages: C, C++, Java or Python
+3. Effective communication skills, self-driven learner, a sense of ownership",not sure,yes
 Temporary IT Integration and Solutions II - Data Flow Manager,2025-06-30,https://jobright.ai/jobs/info/68634e1fa95141c2a0f50208?utm_source=1114&utm_campaign=New Grad Data Engineer,$44-$46 /hr,On Site,North Carolina State University,5001-10000,"Education,Non Profit","Raleigh, NC","1. Master’s degree and at least one year of relevant experience; or Bachelor’s degree with at least two years’ of relevant experience; or an equivalent combination of education, training and relevant experience
 2. Experience in sustainable agriculture practices and field data collection
 3. Excellent oral and written communication skills
@@ -179,6 +203,9 @@ Virtual, NY","1. 1-3+ years advanced programming skills in Python
 4. Experience building and optimizing data pipelines, architectures and data sets.
 5. Experience analyzing data to identify issues and inconsistencies.
 ...",not sure,
+Software Engineer Graduate (Recommendation Infrastructure) - 2025 Start (BS/MS),2025-06-21,https://jobright.ai/jobs/info/6869e92635584b6542b515eb?utm_source=1114&utm_campaign=New Grad Data Engineer,$107K-$140K /yr,On Site,TikTok,10000+,"Content Creators,Content Discovery","Seattle, WA","1. Bachelor's degree or above, majoring in Computer Science, or related fields, expected to start in 2025.
+2. Experience in programming, included but not limited to, the following programming languages: C, C++, Java or Python.
+3. Effective communication skills, self-driven learner, a sense of ownership.",not sure,yes
 Artificial Intelligence (AI) Engineer - Associate,2025-06-20,https://jobright.ai/jobs/info/6868c8d435584b6542729083?utm_source=1114&utm_campaign=New Grad Data Engineer,$85K-$121K /yr,Hybrid,Deutsche Bank,10000+,"Banking,Finance","Cary, NC","1. Bachelor’s degree or equivalent required
 2. AI Expertise and proficiency in frameworks (Langchain, Streamlit or similar), libraries (Scikit-learn or similar) and cloud platforms (Vertex AI or OpenAI)
 3. Prompt Engineering & Red Amber Green (RAG) skills in crafting effective prompts and enhancing AI outputs with external data integration
@@ -253,12 +280,6 @@ Data Engineer (Starlink),2025-06-13,https://jobright.ai/jobs/info/684cc3c71e326d
 2. 1+ years of professional data/software engineering experience (internship experience is applicable)
 3. Development experience in an object-oriented programming language (i.e. C, C++, Python)
 4. Must be willing to work extended hours and weekends as needed",no,
-"Data Engineer, Amazon Smart Vehicles, Amazon Smart Vehicles",2025-06-13,https://jobright.ai/jobs/info/684cf8c365c1bf1131256ef6?utm_source=1114&utm_campaign=New Grad Data Engineer,$91K-$185K /yr,On Site,Amazon,10000+,"Crowdsourcing,Delivery","Sunnyvale, CA","1. 1+ years of data engineering experience
-2. Experience with data modeling, warehousing and building ETL pipelines
-3. Experience with SQL
-4. Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)
-5. Experience with one or more scripting language (e.g., Python, KornShell)
-...",not sure,
 "Data Engineer, Accounting",2025-06-13,https://jobright.ai/jobs/info/68143b165dc4e835c756b92b?utm_source=1114&utm_campaign=New Grad Data Engineer,$91200-$185000 /yr,On Site,Amazon,10000+,"Crowdsourcing,Delivery","Seattle, WA","1. 1+ years of data engineering experience
 2. Experience with data modeling, warehousing and building ETL pipelines
 3. Experience with SQL
@@ -275,10 +296,10 @@ Data Engineer I,2025-06-11,https://jobright.ai/jobs/info/684a2df39b809477d9c1605
 2. 1+ years of experience in full stack development, software engineering, data engineering, or data science
 3. Active Top Secret or TS/SCI clearance
 4. Willing to work extended hours and weekends when needed",no,
-"Data Engineer, AIS",2025-06-09,https://jobright.ai/jobs/info/6855e30dd3f4851fe7758784?utm_source=1114&utm_campaign=New Grad Data Engineer,$91200-$185000 /yr,On Site,Amazon,10000+,"Crowdsourcing,Delivery","Multi Location
-Seattle, Washington, USA
+"Data Engineer, AIS",2025-06-09,https://jobright.ai/jobs/info/6855e30dd3f4851fe7758785?utm_source=1114&utm_campaign=New Grad Data Engineer,$91200-$185000 /yr,On Site,Amazon,10000+,"Crowdsourcing,Delivery","Multi Location
 Herndon, Virginia, USA
-Arlington, Virginia, USA","1. 1+ years of data engineering experience
+Arlington, Virginia, USA
+Seattle, Washington, USA","1. 1+ years of data engineering experience
 2. Experience with data modeling, warehousing and building ETL pipelines
 3. Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)",not sure,
 Big Data Engineer I,2025-06-06,https://jobright.ai/jobs/info/684353728c77815ebc127edf?utm_source=1114&utm_campaign=New Grad Data Engineer,$171300-$187200 /yr,On Site,SHEIN Technology LLC,101-250,,San Diego,"1. Master’s degree or a foreign equivalent in Applied Data Science, Computer Science, or a related field
@@ -293,8 +314,3 @@ Big Data Engineer I,2025-06-06,https://jobright.ai/jobs/info/684353728c77815ebc1
 4. Experience with one or more scripting language (e.g., Python, KornShell)
 5. Knowledge of writing and optimizing SQL queries in a business environment with large-scale, complex datasets
 ...",not sure,
-Data Engineer,2025-06-05,https://jobright.ai/jobs/info/684234a4547e65971a7045f4?utm_source=1114&utm_campaign=New Grad Data Engineer,$70K-$100K /yr,On Site,Arch,51-100,"Hedge Funds,Real Estate Investment","New York, NY","1. Are proficient in JavaScript or another mainstream programming language
-2. Know SQL
-3. Are excited to work hard on solving difficult and ambiguous problems
-4. Are a quick learner who enjoys partnering with others on rapid development
-5. Enjoy writing code to process and understand data with a high degree of accuracy",not sure,
