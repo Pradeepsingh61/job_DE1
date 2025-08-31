@@ -1,4 +1,9 @@
 Position Title,Date,Apply,Salary,Work Model,Company,Company Size,Company Industry,Location,Qualifications,H1b Sponsored,Is New Grad
+Data Engineer,2025-08-30,https://jobright.ai/jobs/info/68b3df54bc187f64e1be1fe6?utm_source=1114&utm_campaign=New Grad Data Engineer,$70K-$80K /yr,On Site,Labcorp,10000+,"Biotechnology,Health Care","Burlington, NC","1. Previous Labcorp internship experience (required).
+2. Hands-on experience in data engineering or equivalent demonstrated academic/project work.
+3. Strong Python development experience.
+4. Familiarity with Databricks, Spark, Hive, AWS EMR/S3, DataStage (or similar systems).
+5. Understanding of CI/CD concepts, modern build pipelines, and DevOps best practices.",not sure,
 "Software Engineer, C++ (2026)",2025-08-30,https://jobright.ai/jobs/info/68793c7ded63844c94499cd3?utm_source=1114&utm_campaign=New Grad Data Engineer,$150K-$180K /yr,On Site,Tower Research Capital,501-1000,,"New York, United States","1. A Bachelor’s, Master’s, or PhD degree in computer science or a related field
 2. 0-1 years of experience
 3. Deep knowledge of programming concepts and object-oriented programming
@@ -14,11 +19,19 @@ Mountain View, CA","1. You will graduate in Fall 2025 or Spring 2026 with a degr
 5. You have experience managing end-to-end projects",not sure,yes
 Business Intelligence Developer,2025-08-30,https://jobright.ai/jobs/info/6898351083d13d1f5b68bc33?utm_source=1114&utm_campaign=New Grad Data Engineer,$73K-$89K /yr,Remote,Navitus Health Solutions,501-1000,"Health Care,Information Technology","Madison, WI","1. Experience with BI tools such as Tableau, Qlikview/QlikSense, SAS, Power B.I. or other Business Intelligence software and/or data visualization programs is required
 2. The ability to consistently interact cooperatively and respectfully with other employees",not sure,
+GenAI Python Systems Engineer – Experienced Associate,2025-08-29,https://jobright.ai/jobs/info/68b3cebf1ade4306aa63c78a?utm_source=1114&utm_campaign=New Grad Data Engineer,$63K-$140K /yr,On Site,PwC,10000+,"Accounting,Business Development","California, United States","1. Bachelor's Degree in Management Information Systems, Computer and Information Science, Systems Engineering, Mathematics, Engineering, Electrical Engineering, Chemical Engineering, Industrial Engineering, Mathematics, Statistics, or Mathematical Statistics
+2. 1 year of experience",no,
 Associate Data Engineer,2025-08-29,https://jobright.ai/jobs/info/68b268651ade4306aa6361dc?utm_source=1114&utm_campaign=New Grad Data Engineer,$62K-$124K /yr,Hybrid,CVS Health,10000+,"Health Care,Medical","Irving, TX","1. 1+ years Data Engineering / Data Integration experience
 2. 1+ years SQL
 3. 1+ years ETL (i.e. Informatica/DataStage) experience
 4. 1+ years Relational Database experience (Teradata, SQL Server, Oracle)
 5. 1+ years Cloud computing (preferably GCP but open to AWS or Azure)
+...",not sure,
+Data Engineer,2025-08-29,https://jobright.ai/jobs/info/68b3bde7bc187f64e1be0d6f?utm_source=1114&utm_campaign=New Grad Data Engineer,$73200-$131700 /yr,On Site,Target,10000+,"Communities,E-Commerce","Brooklyn Park, MN","1. 4-year degree or equivalent experience
+2. 1+ years' of software development experience preferably in data engineering/Hadoop development (Hive, Spark etc.)
+3. Hands-on experience in object oriented or functional programming such as Scala, Java, Python, Spark
+4. Experience with cloud platforms like Google Cloud, AWS, or Azure
+5. Experience with visualization tools like Power BI and Domo
 ...",not sure,
 Associate Data Engineer,2025-08-29,https://jobright.ai/jobs/info/68b2353af4e41a61efd82af8?utm_source=1114&utm_campaign=New Grad Data Engineer,$68K-$85K /yr,Hybrid,Orlando Utilities Commission (OUC - The Reliable One),1001-5000,"Government,Water","Orlando, FL","1. Bachelor’s Degree in Information Technology, Computer Science, Computer Engineering, Management Information Systems, Mathematics, Statistics, or a related field of study from an accredited college or university. In lieu of a degree, equivalent combination of education, certifications, and experience may be substitutable on a 1:1 basis.
 2. Minimum of (6) months of experience in SQL or Python programming, ETL/ELT processes, data warehousing & cloud, data modeling and architecture, data security and governance, and visualization and reporting.
@@ -44,8 +57,6 @@ GIS Database Developer,2025-08-29,https://jobright.ai/jobs/info/68b27368f4e41a61
 4. Building and designing Geodatabases.
 5. Deployment and administration of ArcGIS Enterprise, either in a network or cloud environment.
 ...",no,
-GenAI Python Systems Engineer – Experienced Associate,2025-08-29,https://jobright.ai/jobs/info/68b1ee36f4e41a61efd80d98?utm_source=1114&utm_campaign=New Grad Data Engineer,$63K-$140K /yr,Hybrid,PwC,10000+,"Accounting,Business Development","California, United States","1. Bachelor's Degree in Management Information Systems, Computer and Information Science, Systems Engineering, Mathematics, Engineering, Electrical Engineering, Chemical Engineering, Industrial Engineering, Mathematics, Statistics, or Mathematical Statistics
-2. 1 year of experience",no,
 "Data Engineer I, QuBIT",2025-08-29,https://jobright.ai/jobs/info/68b1e782bc187f64e1bd7ac0?utm_source=1114&utm_campaign=New Grad Data Engineer,$91K-$185K /yr,On Site,Amazon,10000+,"Delivery,E-Commerce","Bellevue, WA","1. 1+ years of data engineering experience
 2. Experience with data modeling, warehousing and building ETL pipelines
 3. Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)
@@ -173,12 +184,6 @@ Data Engineer - Palantir,2025-08-27,https://jobright.ai/jobs/info/68afc5cfb47fb0
 3. Bachelor's degree or equivalent
 4. Experience defining requirements and using data and metrics to draw business insights
 5. Experience with SQL or ETL",not sure,
-Associate Data Science Analyst- Tao Lab,2025-08-27,https://jobright.ai/jobs/info/68af89e4962903596357d81c?utm_source=1114&utm_campaign=New Grad Data Engineer,"$76,731.20-$115,003.20 /yr",Remote,Mayo Clinic,10000+,"Biotechnology,Health Care","Jacksonville, FL, United States","1. Utilizes data analysis, data mining, pattern analysis, data visualization, reporting, and data management skills.
-2. Supports projects under close supervision of senior data analysts or data scientists.
-3. Types of work include descriptive analytics, data query scripting, data analysis, data engineering, visualizations, and forecasting.
-4. Provides data insights for business problems that can be approached with analytics techniques to collect, explore, and extract insights from structured and unstructured data.
-5. Has basic expertise in the data science methods used to analyze data.
-...",not sure,
 "Business Analyst , Fulfillment by Amazon (FBA) Science",2025-08-27,https://jobright.ai/jobs/info/68af6f1f962903596357caa1?utm_source=1114&utm_campaign=New Grad Data Engineer,"$50,200-$107,400 /yr",On Site,Amazon,10000+,"Delivery,E-Commerce","Bellevue, Washington, USA","1. 1+ years of tax, finance or a related analytical field experience
 2. 2+ years of complex Excel VBA macros writing experience
 3. Bachelor's degree or equivalent
@@ -237,12 +242,6 @@ Data Engineer - Early Career,2025-08-26,https://jobright.ai/jobs/info/68ae059675
 4. Ability to gather and translate business requirements into analytical applications
 5. Design and develop optimal code to maintain exceptional performance in processing large volumes of data across diverse sources
 ...",no,
-Entry-Level Database Administrator- V739MM917,2025-08-26,https://jobright.ai/jobs/info/68ae04db758f2e4ac3010567?utm_source=1114&utm_campaign=New Grad Data Engineer,$58850-$68800 /yr,On Site,R.W. Mercer Co.,51-100,,"Milwaukee, Wisconsin, United States","1. Essential understanding of database concepts, SQL, and data modeling.
-2. Skilled in database administration systems such as MySQL, SQL Server, and Oracle.
-3. Strong analytical and problem-solving skills with careful attention to detail.
-4. Outstanding communication and teamwork abilities.
-5. Skilled in time management and work prioritization in a high-pressure environment.
-...",not sure,
 Data Engineer Senior - Level 3,2025-08-26,https://jobright.ai/jobs/info/68affef6b47fb001d688efa9?utm_source=1114&utm_campaign=New Grad Data Engineer,$93200-$164450 /yr,Hybrid,Lockheed Martin,10000+,"Aerospace,Cyber Security","Multi Location
 Fort Worth Texas
 Possible","1. Bachelor's degree or higher in Engineering, Data Analysis or Computer Science related field, or equivalent experience/combined education
@@ -299,25 +298,7 @@ Software Engineer - Data Streaming,2025-08-25,https://jobright.ai/jobs/info/689a
 4. Familiar with Kafka or similar streaming technologies; knowledge of Kafka Connect, Flink, or Spark Streaming is a plus.
 5. Capable of identifying and addressing performance bottlenecks related to serialization, buffering, and data flow in streaming systems.
 ...",not sure,
-Entry-Level Database Administrator- X686M89L,2025-08-25,https://jobright.ai/jobs/info/68ac5e24d627244576e45657?utm_source=1114&utm_campaign=New Grad Data Engineer,$56000-$68000 /yr,On Site,R.W. Mercer Co.,51-100,,"Columbus, Georgia, United States","1. Essential understanding of database concepts, SQL, and data modeling.
-2. Skilled in database administration systems such as MySQL, SQL Server, and Oracle.
-3. Strong analytical and problem-solving skills with careful attention to detail.
-4. Outstanding communication and teamwork abilities.
-5. Skilled in time management and work prioritization in a high-pressure environment.
-...",not sure,
-Entry-Level Database Administrator- QO927N229,2025-08-25,https://jobright.ai/jobs/info/68ac5e1edaf1431824c94b5e?utm_source=1114&utm_campaign=New Grad Data Engineer,$56190-$68800 /yr,On Site,R.W. Mercer Co.,51-100,,"Louisville, Kentucky, United States","1. Essential understanding of database concepts, SQL, and data modeling.
-2. Skilled in database administration systems such as MySQL, SQL Server, and Oracle.
-3. Strong analytical and problem-solving skills with careful attention to detail.
-4. Outstanding communication and teamwork abilities.
-5. Skilled in time management and work prioritization in a high-pressure environment.
-...",not sure,
 Entry-Level Database Administrator- W82N83MM4,2025-08-25,https://jobright.ai/jobs/info/68ac5df5d627244576e45632?utm_source=1114&utm_campaign=New Grad Data Engineer,"$58,000-$69,300 /yr",On Site,R.W. Mercer Co.,51-100,,"Baltimore, Maryland, United States","1. Essential understanding of database concepts, SQL, and data modeling.
-2. Skilled in database administration systems such as MySQL, SQL Server, and Oracle.
-3. Strong analytical and problem-solving skills with careful attention to detail.
-4. Outstanding communication and teamwork abilities.
-5. Skilled in time management and work prioritization in a high-pressure environment.
-...",not sure,
-Entry-Level Database Administrator- M9182L828,2025-08-25,https://jobright.ai/jobs/info/68ac5d82daf1431824c94af9?utm_source=1114&utm_campaign=New Grad Data Engineer,"$58,000-$69,300 /yr",On Site,R.W. Mercer Co.,51-100,,"Philadelphia, Pennsylvania, United States","1. Essential understanding of database concepts, SQL, and data modeling.
 2. Skilled in database administration systems such as MySQL, SQL Server, and Oracle.
 3. Strong analytical and problem-solving skills with careful attention to detail.
 4. Outstanding communication and teamwork abilities.
@@ -335,18 +316,6 @@ Entry-Level Database Administrator- HI2817M922,2025-08-25,https://jobright.ai/jo
 4. Outstanding communication and teamwork abilities.
 5. Skilled in time management and work prioritization in a high-pressure environment.
 ...",not sure,
-Entry-Level Database Administrator- FQ828M27,2025-08-24,https://jobright.ai/jobs/info/68abb3f7758f2e4ac3fffb67?utm_source=1114&utm_campaign=New Grad Data Engineer,$56000-$68000 /yr,On Site,R.W. Mercer Co.,51-100,,"Denver, Colorado, United States","1. Essential understanding of database concepts, SQL, and data modeling.
-2. Skilled in database administration systems such as MySQL, SQL Server, and Oracle.
-3. Strong analytical and problem-solving skills with careful attention to detail.
-4. Outstanding communication and teamwork abilities.
-5. Skilled in time management and work prioritization in a high-pressure environment.
-...",not sure,
-Entry-Level Database Administrator- MN87302J71,2025-08-24,https://jobright.ai/jobs/info/68abb3f3d627244576e3fe65?utm_source=1114&utm_campaign=New Grad Data Engineer,$56900-$68010 /yr,On Site,R.W. Mercer Co.,51-100,,"Fort Worth, Texas, United States","1. Essential understanding of database concepts, SQL, and data modeling.
-2. Skilled in database administration systems such as MySQL, SQL Server, and Oracle.
-3. Strong analytical and problem-solving skills with careful attention to detail.
-4. Outstanding communication and teamwork abilities.
-5. Skilled in time management and work prioritization in a high-pressure environment.
-...",not sure,
 Entry-Level Database Administrator- LY9293M29,2025-08-24,https://jobright.ai/jobs/info/68abb3cf758f2e4ac3fffb5a?utm_source=1114&utm_campaign=New Grad Data Engineer,"$56,300-$68,900 /yr",On Site,R.W. Mercer Co.,51-100,,"Jacksonville, Florida, United States","1. Essential understanding of database concepts, SQL, and data modeling.
 2. Skilled in database administration systems such as MySQL, SQL Server, and Oracle.
 3. Strong analytical and problem-solving skills with careful attention to detail.
@@ -359,42 +328,30 @@ Entry-Level Database Administrator- T79M1828K,2025-08-24,https://jobright.ai/job
 4. Outstanding communication and teamwork abilities.
 5. Skilled in time management and work prioritization in a high-pressure environment.
 ...",not sure,
-Entry-Level Database Administrator- YB927G792,2025-08-24,https://jobright.ai/jobs/info/68abb3c6d627244576e3fe53?utm_source=1114&utm_campaign=New Grad Data Engineer,"$55,900-$67,100 /yr",On Site,R.W. Mercer Co.,51-100,,"Chicago, Illinois, United States","1. Essential understanding of database concepts, SQL, and data modeling.
-2. Skilled in database administration systems such as MySQL, SQL Server, and Oracle.
-3. Strong analytical and problem-solving skills with careful attention to detail.
-4. Outstanding communication and teamwork abilities.
-5. Skilled in time management and work prioritization in a high-pressure environment.
-...",not sure,
-Entry-Level Database Administrator- H878U210M,2025-08-24,https://jobright.ai/jobs/info/68abb3c1758f2e4ac3fffb55?utm_source=1114&utm_campaign=New Grad Data Engineer,"$55,900-$67,100 /yr",On Site,R.W. Mercer Co.,51-100,,"Oklahoma City, Oklahoma, United States","1. Essential understanding of database concepts, SQL, and data modeling.
-2. Skilled in database administration systems such as MySQL, SQL Server, and Oracle.
-3. Strong analytical and problem-solving skills with careful attention to detail.
-4. Outstanding communication and teamwork abilities.
-5. Skilled in time management and work prioritization in a high-pressure environment.
-...",not sure,
-Entry-Level Database Administrator- M4J39288Q,2025-08-24,https://jobright.ai/jobs/info/68abb38dd627244576e3fe49?utm_source=1114&utm_campaign=New Grad Data Engineer,$56000-$68000 /yr,On Site,R.W. Mercer Co.,51-100,,"New York, New York, United States","1. Essential understanding of database concepts, SQL, and data modeling.
-2. Skilled in database administration systems such as MySQL, SQL Server, and Oracle.
-3. Strong analytical and problem-solving skills with careful attention to detail.
-4. Outstanding communication and teamwork abilities.
-5. Skilled in time management and work prioritization in a high-pressure environment.
-...",not sure,
-Entry-Level Database Administrator- JJ7398B73,2025-08-24,https://jobright.ai/jobs/info/68abb380daf1431824c8f2fd?utm_source=1114&utm_campaign=New Grad Data Engineer,$56000-$68000 /yr,On Site,R.W. Mercer Co.,51-100,,"Charlotte, North Carolina, United States","1. Essential understanding of database concepts, SQL, and data modeling.
-2. Skilled in database administration systems such as MySQL, SQL Server, and Oracle.
-3. Strong analytical and problem-solving skills with careful attention to detail.
-4. Outstanding communication and teamwork abilities.
-5. Skilled in time management and work prioritization in a high-pressure environment.
-...",not sure,
-Entry-Level Database Administrator- J3M43298B,2025-08-24,https://jobright.ai/jobs/info/68abb374daf1431824c8f2fa?utm_source=1114&utm_campaign=New Grad Data Engineer,$56000-$68000 /yr,On Site,R.W. Mercer Co.,51-100,,"San Antonio, Texas, United States","1. Essential understanding of database concepts, SQL, and data modeling.
-2. Skilled in database administration systems such as MySQL, SQL Server, and Oracle.
-3. Strong analytical and problem-solving skills with careful attention to detail.
-4. Outstanding communication and teamwork abilities.
-5. Skilled in time management and work prioritization in a high-pressure environment.
-...",not sure,
 Junior Backend Engineer,2025-08-24,https://jobright.ai/jobs/info/68950a188c6d6b4426776d6b?utm_source=1114&utm_campaign=New Grad Data Engineer,$122K-$142K /yr,Hybrid,Baselayer,11-50,,"San Francisco, CA","1. 1-3 years of experience in backend development, working with Python and building APIs
 2. Comfortable working with large-scale data and enjoy optimizing performance for high-volume systems
 3. Strong interest in AI/ML integration, particularly with LLMs, and eager to learn about new technologies
 4. Prioritize security and compliance in backend systems, especially in regulated environments like KYC/KYB
 5. Keen eye for detail and take pride in writing clean, maintainable code while optimizing for performance
 ...",not sure,
+Engineer – ATP Ship Methods,2025-08-23,https://jobright.ai/jobs/info/68b3d7151ade4306aa63ccda?utm_source=1114&utm_campaign=New Grad Data Engineer,$73200-$131700 /yr,On Site,Target,10000+,"Communities,E-Commerce","Brooklyn Park, MN","1. 4 year degree or equivalent experience
+2. 1+ years of software development experience
+3. Experience in JVM based language, tools, and frameworks
+4. Demonstrates familiarity with current and emerging technologies in own scope of responsibility, and develops ability to apply these technologies
+5. Understands concepts of package solutions and package specific programming language with knowledge of development objects
+...",not sure,
+Data Engineer,2025-08-23,https://jobright.ai/jobs/info/68b3ce67bc187f64e1be16b9?utm_source=1114&utm_campaign=New Grad Data Engineer,"$105,100-$131,400 /yr",On Site,Rivian,10000+,"Automotive,Electric Vehicle","Palo Alto, CA","1. Bachelor's degree in CS or any STEM discipline.
+2. 1-3 years of professional software development experience, ideally with some exposure to Data Engineering or Analytics Engineering.
+3. Proficiency in Python and SQL
+4. Proficiency with cloud infrastructures
+5. Solid understanding of databases (SQL and NoSQL.)
+...",not sure,
+Software Engineer,2025-08-23,https://jobright.ai/jobs/info/68b3ce6e1ade4306aa63c715?utm_source=1114&utm_campaign=New Grad Data Engineer,$91K-$140K /yr,On Site,Mayo Clinic Healthcare,251-500,,"Rochester, MN","1. Bachelor's Degree in Computer Science/Engineering or related field; Or an Associates’ degree in Computer Science/Engineering or related field with an additional 2 years of experience as described below.
+2. Have working knowledge and experience of Software Engineering with a minimum of internships and a minimum of 1 yr. of experience, or 2yrs of experience coding applications or services in a high-level language (C, C++, Golang, Java, C# etc.).
+3. Demonstrated problem solving and time management skills.
+4. Possesses strong technical aptitude for designing and implementing software solutions.
+5. Experience with modern application development frameworks.
+...",no,
 Software Engineer Graduate (Data Arch - E-commerce) - 2026 Start (PhD),2025-08-23,https://jobright.ai/jobs/info/68aa6db26acf96396f72a18e?utm_source=1114&utm_campaign=New Grad Data Engineer,$119K-$259K /yr,On Site,TikTok,10000+,"Content Creators,Content Discovery","San Jose, CA","1. Masters or above, majoring in Computer Science, or related fields, expected to graduate in 2026
 2. Strong software development experience with C++, Java or other programming language
 3. Good teamwork and communication skills, positive and optimistic, and strong sense of ownership",not sure,yes
@@ -526,8 +483,8 @@ Work At Home-Louisiana
 Work At Home-Michigan
 Work At Home - Utah
 Work At Home-Idaho
-Work At Home-Virginia
 Work At Home-Wyoming
+Work At Home-Virginia
 Work At Home-Vermont
 Work At Home-South Dakota
 Work At Home-Connecticut
@@ -535,20 +492,20 @@ Work At Home-New Hampshire
 Work At Home-Maryland
 Work At Home-Arizona
 Work At Home-North Carolina
-Work At Home-Pennsylvania
 Work At Home-Tennessee
+Work At Home-Pennsylvania
 Work At Home-Kansas
 Work At Home-Florida
 Work At Home-Oregon
 Work At Home-Delaware
-Work At Home-District of Columbia
 Work At Home-Nevada
+Work At Home-District of Columbia
 Work At Home-West Virginia
 Work At Home-Kentucky
 Work At Home-South Carolina
+Work At Home-Ohio
 Work At Home-Illinois
 Work At Home-Alabama
-Work At Home-Ohio
 Work At Home-New York
 Work At Home-Georgia
 Work At Home-Washington
@@ -560,8 +517,8 @@ Work At Home-Iowa
 Work At Home-Massachusetts
 Work At Home-Texas
 Work At Home-Arkansas
-Work At Home-Indiana
 Work At Home-Colorado
+Work At Home-Indiana
 Work At Home-Minnesota
 Work At Home-Nebraska","1. 1+ years of experience building, scaling, and optimizing machine learning systems.
 2. 1+ years of experience programming with one or more modern languages, such as Python, C++, Java, etc.
@@ -1298,15 +1255,3 @@ Campus Full Time 2026 - Software Developer,2025-08-01,https://jobright.ai/jobs/i
 4. Experience connecting to exchanges
 5. Skills in designing trader-facing interfaces
 ...",not sure,
-Business Intel Engineer II - AMZ24240.1,2025-08-01,https://jobright.ai/jobs/info/688bbbb8906ac06e1d1cdc3b?utm_source=1114&utm_campaign=New Grad Data Engineer,$89600-$185000 /yr,On Site,Amazon,10000+,"Delivery,E-Commerce","Morrisville, North Carolina, USA","1. Master's degree or foreign equivalent in Computer Science, Engineering, Mathematics, Statistics, Economics, or a related field and one year of experience in the job offered, or as a Data Engineer, Data Miner, or a related occupation.
-2. Employer will accept a Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, Statistics, Economics, or a related field and five years of experience in the job offered or a related occupation as equivalent to the Master's degree and one year of experience.
-3. Must have one year of experience in the following skill(s): using SQL, ETL or Oracle; processing large, multi-dimensional datasets from multiple sources; performing statistical analysis; and developing automated reporting.",not sure,
-Postdoctoral Associate,2025-07-31,https://jobright.ai/jobs/info/68a82189d627244576e31967?utm_source=1114&utm_campaign=New Grad Data Engineer,$60000-$60000 /yr,On Site,University of Florida,10000+,Higher Education,"Gainesville, FL","1. PhD in Computer Science, Geographic Information Science, Data Engineering, or a related technical field.
-2. Evaluate, configure, and manage cloud-native data warehouses for scalable spatial analytics
-3. Design data flows from warehouse to spatial databases to enable downstream APIs and feature services
-4. Develop ETL workflows for cross-domain spatial data integration using staged refinement (e.g. Medallion Architecture)
-5. Engage with UF faculty leading FLDT projects to align data integration workflows with project-specific needs and technical requirements
-...",no,
-Business Intel Engineer II - AMZ24205.1,2025-07-31,https://jobright.ai/jobs/info/688bbd223a30793eb963d183?utm_source=1114&utm_campaign=New Grad Data Engineer,$89600-$185000 /yr,On Site,Amazon,10000+,"Delivery,E-Commerce","Atlanta, Georgia, USA","1. Master's degree or foreign equivalent in Computer Science, Engineering, Mathematics, Statistics, Economics, or a related field and one year of experience in the job offered, or as a Data Engineer, Data Miner, or a related occupation.
-2. Employer will accept a Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, Statistics, Economics, or a related field and five years of experience in the job offered or a related occupation as equivalent to the Master's degree and one year of experience.
-3. Must have one year of experience in the following skill(s): using SQL, ETL or Oracle; processing large, multi-dimensional datasets from multiple sources; performing statistical analysis; and developing automated reporting.",not sure,
