@@ -36,78 +36,123 @@ def connect_db():
         logging.error(f"Error connecting to the database: {e}")
         raise
 
-def create_table_if_not_exists(conn, table_name):
-    create_sql = f"""
-    CREATE TABLE IF NOT EXISTS {table_name} (
-        id SERIAL PRIMARY KEY,
-        job_id TEXT UNIQUE,
-        job_title TEXT,
-        job_seniority TEXT,
-        job_location TEXT,
-        work_model TEXT,
-        publish_time TEXT,
-        employment_type TEXT,
-        job_summary TEXT,
-        original_url TEXT,
-        apply_link TEXT,
-        salary_Desc TEXT,
-        core_responsibilities JSONB,
-        skill_summaries JSONB,
-        education_summaries JSONB,
-        intern_hire_date TEXT,
-        intern_graduate_date TEXT,
-        qualifications JSONB,
-        preferred_have JSONB,
-        jd_core_skills JSONB,
-        company_id TEXT,
-        company_name TEXT,
-        company_size TEXT,
-        company_desc TEXT,
-        company_categories TEXT,
-        company_found_year TEXT,
-        company_location TEXT,
-        company_url TEXT,
-        fundraising_current_stage TEXT,
-        created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-    );
+def parse_csv_filename_to_category(csv_file):
+    """Parse CSV filename to extract job category and determine level"""
+    # Remove .csv extension and convert to lowercase
+    base_name = os.path.splitext(csv_file)[0].lower()
+    
+    # Replace spaces and special characters with underscores
+    category = base_name.replace(' ', '_').replace('&', 'and')
+    
+    # Map common variations
+    category_mapping = {
+        'accounting_and_finance': 'accounting_and_finance',
+        'arts_and_entertainment': 'arts_and_entertainment', 
+        'business_analyst': 'business_analyst',
+        'consulting': 'consulting',
+        'creatives_and_design': 'creatives_and_design',
+        'data_analyst': 'data_analyst',
+        'data_engineer': 'data_engineer',
+        'engineering_and_development': 'engineering_and_development',
+        'human_resources': 'human_resources',
+        'legal_and_compliance': 'legal_and_compliance',
+        'management_and_executive': 'management_and_executive',
+        'marketing': 'marketing',
+        'product_management': 'product_management',
+        'project_manager': 'project_manager',
+        'public_sector_and_government': 'public_sector_and_government',
+        'sales': 'sales',
+        'software_engineering': 'software_engineering',
+        'customer_service_and_support': 'customer_service_and_support',
+        'machine_learning_and_ai': 'machine_learning_and_ai',
+        'education_and_training': 'education_and_training'
+    }
+    
+    return category_mapping.get(category, category)
+
+def ensure_unified_table_exists(conn):
+    """Ensure the unified_jobs table exists (should already exist from migration)"""
+    check_sql = """
+        SELECT EXISTS (
+            SELECT 1 FROM information_schema.tables 
+            WHERE table_name = 'unified_jobs'
+        )
     """
     try:
         with conn.cursor() as cur:
-            cur.execute(create_sql)
-        conn.commit()
-        logging.info(f"Table '{table_name}' created or already exists")
+            cur.execute(check_sql)
+            exists = cur.fetchone()[0]
+            if exists:
+                logging.info("Using existing unified_jobs table")
+                return True
+            else:
+                logging.error("unified_jobs table not found! Please run the migration script first.")
+                return False
     except Exception as e:
-        logging.error(f"Error creating table: {e}")
-        conn.rollback()
+        logging.error(f"Error checking unified_jobs table: {e}")
+        return False
 
-def insert_into_postgres(conn, table_name, job_data):
-    sql = f"""
-        INSERT INTO {table_name} (
-            job_id, job_title, job_seniority, job_location, work_model, publish_time,
-            employment_type, job_summary, original_url, apply_link, salary_desc, core_responsibilities,
-            skill_summaries, education_summaries, intern_hire_date, intern_graduate_date,
-            qualifications, preferred_have, jd_core_skills, company_id, company_name,
-            company_size, company_desc, company_categories, company_found_year, company_location,
-            company_url, fundraising_current_stage
+def insert_into_unified_table(conn, job_data, job_category, job_level='newgrad', job_region='us'):
+    """Insert job data into the unified_jobs table"""
+    sql = """
+        INSERT INTO unified_jobs (
+            original_job_id, source_table, job_category, job_level, job_region,
+            job_title, job_seniority, job_location, work_model, employment_type, job_summary,
+            original_url, apply_link, salary_desc, publish_time, intern_hire_date, intern_graduate_date,
+            core_responsibilities, skill_summaries, education_summaries, qualifications,
+            preferred_have, jd_core_skills, company_id, company_name, company_size, company_desc,
+            company_categories, company_found_year, company_location, company_url,
+            fundraising_current_stage, created_at
         )
         VALUES (
-            %(jobId)s, %(jobTitle)s, %(jobSeniority)s, %(jobLocation)s, %(workModel)s, %(publishTime)s,
-            %(employmentType)s, %(jobSummary)s, %(originalUrl)s, %(applyLink)s, %(salaryDesc)s, %(coreResponsibilities)s,
-            %(skillSummaries)s, %(educationSummaries)s, %(internHireDate)s, %(internGraduateDate)s,
-            %(qualifications)s, %(preferredHave)s, %(jdCoreSkills)s, %(companyId)s, %(companyName)s,
-            %(companySize)s, %(companyDesc)s, %(companyCategories)s, %(companyFoundYear)s, %(companyLocation)s,
-            %(companyURL)s, %(fundraisingCurrentStage)s
+            %(jobId)s, %(sourceTable)s, %(jobCategory)s, %(jobLevel)s, %(jobRegion)s,
+            %(jobTitle)s, %(jobSeniority)s, %(jobLocation)s, %(workModel)s, %(employmentType)s, %(jobSummary)s,
+            %(originalUrl)s, %(applyLink)s, %(salaryDesc)s, 
+            CASE 
+                WHEN %(publishTime)s ~ '^\\d{4}-\\d{2}-\\d{2}' THEN %(publishTime)s::timestamp
+                ELSE NULL 
+            END,
+            CASE 
+                WHEN %(internHireDate)s IS NOT NULL AND %(internHireDate)s ~ '^\\d{4}-\\d{2}-\\d{2}' THEN %(internHireDate)s::date
+                ELSE NULL 
+            END,
+            %(internGraduateDate)s,
+            %(coreResponsibilities)s::jsonb, %(skillSummaries)s::jsonb, %(educationSummaries)s::jsonb, %(qualifications)s::jsonb,
+            %(preferredHave)s::jsonb, %(jdCoreSkills)s::jsonb, %(companyId)s, %(companyName)s, %(companySize)s, %(companyDesc)s,
+            %(companyCategories)s, 
+            CASE 
+                WHEN %(companyFoundYear)s IS NOT NULL AND %(companyFoundYear)s ~ '^\\d+$' THEN %(companyFoundYear)s::integer
+                ELSE NULL 
+            END,
+            %(companyLocation)s, %(companyURL)s, %(fundraisingCurrentStage)s, CURRENT_TIMESTAMP
         )
-        ON CONFLICT (job_id) DO NOTHING;
     """
+    
+    # Prepare data with additional metadata
+    unified_data = dict(job_data)
+    
+    # Clean up date fields that might have non-date text
+    if unified_data.get('internHireDate') and not unified_data['internHireDate'].replace('-', '').replace(' ', '').isdigit():
+        if 'Start in' in unified_data['internHireDate']:
+            unified_data['internHireDate'] = None
+    
+    unified_data.update({
+        'sourceTable': f"web_scraper_{job_category}_{job_level}_{job_region}",
+        'jobCategory': job_category,
+        'jobLevel': job_level,
+        'jobRegion': job_region
+    })
+    
     try:
         with conn.cursor() as cur:
-            cur.execute(sql, job_data)
+            cur.execute(sql, unified_data)
         conn.commit()
-        logging.info(f"Data inserted into table '{table_name}'")
+        logging.info(f"Data inserted into unified_jobs table for category '{job_category}'")
+        return True
     except Exception as e:
-        logging.error(f"Error inserting data: {e}")
+        logging.error(f"Error inserting data into unified_jobs: {e}")
         conn.rollback()
+        return False
 
 #########################################
 # 2. Scraping Functions
@@ -186,13 +231,27 @@ def scrape_job_data(driver, url):
 def main():
     # List of CSV files
     csv_files = [
-        "Data_Engineer.csv", "Management_and_Executive.csv","Project_Manager.csv","Software_Engineering.csv","Business_Analyst.csv","Accounting_and_Finance.csv","Machine_Learning_and_AI.csv","Consulting.csv","Product_Management.csv","Arts_and_Entertainment.csv","Legal_and_Compliance.csv","Marketing.csv","Public_Sector_and_Government.csv","Data_Analyst.csv","Creatives_and_Design.csv","Human_Resources.csv","Education_and_Training.csv"
+        "Data_Engineer.csv", "Management_and_Executive.csv", "Project_Manager.csv", "Software_Engineering.csv", 
+        "Business_Analyst.csv", "Accounting_and_Finance.csv", "Machine_Learning_and_AI.csv", "Consulting.csv", 
+        "Product_Management.csv", "Arts_and_Entertainment.csv", "Legal_and_Compliance.csv", "Marketing.csv", 
+        "Public_Sector_and_Government.csv", "Data_Analyst.csv", "Creatives_and_Design.csv", "Human_Resources.csv", 
+        "Education_and_Training.csv"
     ]
-    # Get user inputs or use environment variables
+    
+    # Get user inputs
     username = "artofai786@gmail.com"
     password = "karanjot786"
+    
+    # Job level - change this based on what you're scraping
+    job_level = "newgrad"  # or "intern"
 
     conn = connect_db()
+
+    # Check if unified_jobs table exists
+    if not ensure_unified_table_exists(conn):
+        logging.error("Cannot proceed without unified_jobs table. Exiting.")
+        conn.close()
+        return
 
     chrome_options = webdriver.ChromeOptions()
     chrome_options.add_argument("--headless")
@@ -201,9 +260,6 @@ def main():
 
     service = Service(ChromeDriverManager().install())
     driver = webdriver.Chrome(service=service, options=chrome_options)
-    
-    # Use ChromeDriverManager().install() directly
-    # driver = webdriver.Chrome(ChromeDriverManager().install(), options=chrome_options)
     driver.implicitly_wait(10)
 
     try:
@@ -212,32 +268,49 @@ def main():
         # Get the directory of the script
         script_dir = os.path.dirname(os.path.abspath(__file__))
 
+        total_processed = 0
+        total_inserted = 0
+
         for csv_file in csv_files:
             csv_path = os.path.join(script_dir, csv_file)
             if not os.path.exists(csv_path):
                 logging.warning(f"CSV file not found: {csv_path}")
                 continue
 
-            # Update table_name generation as requested
-            # table_name = os.path.splitext(csv_file)[0].lower() + "_intern_us"
-            table_name = os.path.splitext(csv_file)[0].lower() + "_newgrad_us"
-            create_table_if_not_exists(conn, table_name)
+            # Parse job category from filename
+            job_category = parse_csv_filename_to_category(csv_file)
+            logging.info(f"Processing {csv_file} -> Category: {job_category}, Level: {job_level}")
 
             with open(csv_path, "r", encoding="utf-8") as infile:
                 reader = csv.reader(infile)
                 urls = [row[0].strip() for row in reader if row]
 
+            file_processed = 0
+            file_inserted = 0
+
             for url in urls:
                 try:
                     job_data = scrape_job_data(driver, url)
                     if job_data:
-                        insert_into_postgres(conn, table_name, job_data)
+                        success = insert_into_unified_table(conn, job_data, job_category, job_level)
+                        if success:
+                            file_inserted += 1
+                        file_processed += 1
                     else:
                         logging.warning(f"No data scraped for URL: {url}")
+                        
+                    # Add small delay to avoid being blocked
+                    time.sleep(1)
+                        
                 except Exception as e:
                     logging.error(f"Error processing {url}: {str(e)}")
 
-            logging.info(f"Finished processing {csv_file}")
+            total_processed += file_processed
+            total_inserted += file_inserted
+            
+            logging.info(f"Finished processing {csv_file}: {file_inserted}/{file_processed} jobs inserted")
+
+        logging.info(f"Migration completed: {total_inserted}/{total_processed} total jobs inserted into unified_jobs table")
 
     except Exception as e:
         logging.error(f"An error occurred: {str(e)}")
